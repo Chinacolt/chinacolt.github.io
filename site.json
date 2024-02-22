@@ -1,0 +1,33 @@
+{
+    "title": "Emre Cintay",
+    "subtitle": "Experienced IT consultant skilled in Linux, Python, DevOps, and Data Engineering, propelling innovation and transformative solutions within the tech domain.",
+    "owner":
+    {
+        "name": "Emre Cintay",
+        "email": "emre@cintay.com"
+    },
+    "social":
+    {
+        "github": "Chinacolt",
+        "medium": "Chinacolt"
+    },
+    "newsletter":
+    {
+        "currentCount": "2,000",
+        "revueUsername": "roadmapsh"
+    },
+    "seo":
+    {
+        "title": "Emre Cintay",
+        "description": "Blog of a Infrastructer Engineer",
+        "author": "Emre Cintay",
+        "keywords":
+        [
+            "blog",
+            "DevOps blog",
+            "SRE blog",
+            "Infrastructer Egineering blog"
+        ]
+    },
+    "cname": "blog.cintay.com"
+}
