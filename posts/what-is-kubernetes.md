@@ -1,5 +1,5 @@
 ---
-title: What is Kubernetes?
+title: "What is Kubernetes?"
 date: 2024-02-23
 permalink: /what-is-kubernetes
 ---

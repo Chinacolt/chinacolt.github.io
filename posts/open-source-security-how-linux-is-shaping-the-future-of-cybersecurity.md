@@ -1,5 +1,5 @@
 ---
-title: Open Source Security: How Linux is Shaping the Future of Cybersecurity
+title: "Open Source Security: How Linux is Shaping the Future of Cybersecurity"
 date: 2024-02-23
 permalink: /open-source-security-how-linux-is-shaping-the-future-of-cybersecurity
 ---

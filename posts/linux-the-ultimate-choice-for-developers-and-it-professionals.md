@@ -1,5 +1,5 @@
 ---
-title: Linux: The Ultimate Choice for Developers and IT Professionals
+title: "Linux: The Ultimate Choice for Developers and IT Professionals"
 date: 2024-02-23
 permalink: /linux-the-ultimate-choice-for-developers-and-it-professionals
 ---

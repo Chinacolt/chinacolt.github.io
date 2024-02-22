@@ -1,5 +1,5 @@
 ---
-title: Linux Gaming: Breaking the Barriers and Embracing Open Source Entertainment
+title: "Linux Gaming: Breaking the Barriers and Embracing Open Source Entertainment"
 date: 2024-02-23
 permalink: /linux-gaming-breaking-the-barriers-and-embracing-open-source-entertainment
 ---

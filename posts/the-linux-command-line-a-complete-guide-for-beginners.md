@@ -1,5 +1,5 @@
 ---
-title: The Linux Command Line: A Complete Guide for Beginners
+title: "The Linux Command Line: A Complete Guide for Beginners"
 date: 2024-02-23
 permalink: /the-linux-command-line-a-complete-guide-for-beginners
 ---

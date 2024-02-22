@@ -1,5 +1,5 @@
 ---
-title: What is cloud computing?
+title: "What is cloud computing?"
 date: 2024-02-23
 permalink: /what-is-cloud-computing
 ---
