@@ -1,7 +1,7 @@
 ---
 title: "What is Big Bang Model in software engineering?"
 date: 2019-09-06
-permalink: /what-is-big-bang-model-in-software-engineering
+permalink: /2019-09-06-what-is-big-bang-model-in-software-engineering
 ---
 Hey there, tech enthusiasts, developers, and IT professionals! Let's dive into the fascinating world of software engineering methodologies, where structured approaches reign supreme and innovation knows no bounds.
 Picture this: software development is like baking a cake. You need the right ingredients, a well-defined recipe, and a sprinkle of creativity to whip up a masterpiece. In the realm of software development methodologies, each approach is like a different baking technique – some follow a precise step-by-step process like a classic recipe, while others embrace a more experimental, mix-it-all-together approach.

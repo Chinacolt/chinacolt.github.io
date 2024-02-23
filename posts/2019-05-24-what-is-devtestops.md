@@ -1,7 +1,7 @@
 ---
 title: "What is DevTestOps?"
 date: 2019-05-24
-permalink: /what-is-devtestops
+permalink: /2019-05-24-what-is-devtestops
 ---
 Picture this: a bustling tech industry where development, testing, and operations dance together in perfect harmony, creating a symphony of software delivery like never before. Welcome to the world of DevTestOps, where collaboration isn't just a buzzword – it's the secret sauce that fuels innovation and efficiency.
 As we embark on this journey through the realms of DevTestOps, it's essential to understand how we got here. Think of it as a technological evolution, a metamorphosis of software development practices from the rigid silos of the past to the interconnected web of DevOps and now, the integrated powerhouse of DevTestOps. It's like going from sending letters by carrier pigeon to instant messaging – faster, smoother, and way more fun!

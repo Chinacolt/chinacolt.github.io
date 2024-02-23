@@ -1,7 +1,7 @@
 ---
 title: "Cassandra: The NoSQL Database for Big Data"
 date: 2022-04-29
-permalink: /cassandra-the-nosql-database-for-big-data
+permalink: /2022-04-29-cassandra-the-nosql-database-for-big-data
 ---
 Ah, the world of databases – where rows and columns dance to the tune of data's symphony. But wait, have you heard of the rebel in this structured ballroom? Enter NoSQL databases, the disruptors shaking up the traditional relational database scene like a mosh pit at a classical concert.
 Picture this: if relational databases are the meticulous librarians meticulously categorizing books by genre, author, and publication date, then NoSQL databases are the free-spirited artists painting on the walls of a digital canvas, embracing the chaos of unstructured data with open arms.

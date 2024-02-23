@@ -1,7 +1,7 @@
 ---
 title: "Neo4j: The Graph Database"
 date: 2022-05-27
-permalink: /neo4j-the-graph-database
+permalink: /2022-05-27-neo4j-the-graph-database
 ---
 Have you ever felt like your data is a tangled web of information, with relationships crisscrossing in a chaotic dance of complexity? Well, fear not, because Neo4j, the superhero of graph databases, is here to save the day!
 Picture Neo4j as the maestro orchestrating a symphony of data relationships, conducting a harmonious flow of information that makes even the most intricate connections seem like a walk in the park. In a world where traditional databases struggle to keep up with the intricate web of relationships between data points, Neo4j emerges as the shining beacon of clarity and efficiency.

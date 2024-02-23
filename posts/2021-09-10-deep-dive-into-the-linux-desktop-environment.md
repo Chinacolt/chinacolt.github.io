@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Desktop Environment"
 date: 2021-09-10
-permalink: /deep-dive-into-the-linux-desktop-environment
+permalink: /2021-09-10-deep-dive-into-the-linux-desktop-environment
 ---
 Are you tired of staring at a bland, uninspiring desktop screen while navigating through your Linux system? Do you find yourself yearning for a more visually appealing, efficient, and personalized computing experience? Well, fret not, dear tech enthusiasts, developers, and IT professionals, for we are about to embark on an exciting journey into the captivating realm of Linux desktop environments!
 Picture this: your desktop environment is like the interior design of your digital workspace, where every icon, window, and widget plays a crucial role in shaping your daily interactions with your computer. Just as a well-designed office layout can boost productivity and creativity, a thoughtfully crafted desktop environment can revolutionize the way you work, play, and connect with your Linux system.

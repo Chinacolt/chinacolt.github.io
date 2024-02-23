@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language profiler?"
 date: 2020-06-19
-permalink: /what-is-a-programming-language-profiler
+permalink: /2020-06-19-what-is-a-programming-language-profiler
 ---
 Have you ever felt like a detective, unraveling the mysteries of your code to uncover its hidden secrets? Well, welcome to the world of programming language profilers – the Sherlock Holmes of software development! 🕵️‍♂️
 Picture this: you're on a quest to optimize your code, to make it faster, sleeker, and more efficient. But where do you start? That's where profilers swoop in, armed with magnifying glasses to zoom into the nitty-gritty details of your code's performance. They are the unsung heroes who shine a light on the dark corners of your software, revealing the bottlenecks and inefficiencies that lurk beneath the surface.

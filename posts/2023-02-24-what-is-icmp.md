@@ -1,7 +1,7 @@
 ---
 title: "What is ICMP?"
 date: 2023-02-24
-permalink: /what-is-icmp
+permalink: /2023-02-24-what-is-icmp
 ---
 Ever wondered how the silent hero of networking, ICMP, keeps the digital world connected and humming along smoothly? Well, get ready to embark on a journey through the fascinating realm of Internet Control Message Protocol, where packets talk, routers gossip, and tech enthusiasts, developers, and IT professionals wield the power of network troubleshooting like digital wizards.
 Picture ICMP as the backstage crew of a grand theater production. While the flashy stars like TCP and UDP take the spotlight on stage, ICMP works tirelessly behind the scenes, ensuring that the show runs without a hitch. From whispering error messages to diagnosing network ailments, ICMP is the unsung hero that keeps the network performance curtains rising.

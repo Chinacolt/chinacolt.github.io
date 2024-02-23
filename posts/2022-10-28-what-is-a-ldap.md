@@ -1,7 +1,7 @@
 ---
 title: "What is a LDAP?"
 date: 2022-10-28
-permalink: /what-is-a-ldap
+permalink: /2022-10-28-what-is-a-ldap
 ---
 Ah, LDAP – the unsung hero of the tech world, quietly working its magic behind the scenes to keep our digital lives in order. If you've ever wondered what LDAP is all about or why it's such a big deal in the realm of technology, you're in for a treat. So, grab your favorite beverage, settle into your comfiest chair, and let's embark on a journey into the fascinating world of Lightweight Directory Access Protocol.
 Picture LDAP as the digital librarian of the internet, diligently organizing and managing the vast directory of information that fuels our online interactions. From user authentication to data storage, LDAP plays a pivotal role in ensuring that everything runs smoothly behind the scenes, much like a conductor orchestrating a symphony of data.

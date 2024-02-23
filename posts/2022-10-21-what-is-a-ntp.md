@@ -1,7 +1,7 @@
 ---
 title: "What is a NTP?"
 date: 2022-10-21
-permalink: /what-is-a-ntp
+permalink: /2022-10-21-what-is-a-ntp
 ---
 Have you ever thought about the unsung hero of modern networking infrastructure? Picture this: a conductor orchestrating a symphony, ensuring every instrument plays in perfect harmony. That's the essence of Network Time Protocol (NTP) – the maestro of accurate time synchronization in the digital realm.
 In the bustling world of IT systems and networks, where milliseconds can make or break operations, NTP stands as the silent guardian of precision. It's the unsung champion that keeps our digital clocks ticking in unison, ensuring seamless communication and optimal performance for tech enthusiasts, developers, and IT professionals alike.

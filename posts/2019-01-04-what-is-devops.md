@@ -1,7 +1,7 @@
 ---
 title: "What is DevOps?"
 date: 2019-01-04
-permalink: /what-is-devops
+permalink: /2019-01-04-what-is-devops
 ---
 Picture this: a symphony where developers and IT operations professionals harmonize seamlessly, creating a melodious blend of innovation and efficiency. Welcome to the world of DevOps, where collaboration isn't just a buzzword but a way of life in the tech realm.
 In this digital age, where speed and quality reign supreme, DevOps emerges as the conductor orchestrating a flawless performance in software development and operations. It's not just a methodology; it's a mindset shift that propels organizations towards agility, collaboration, and continuous improvement.

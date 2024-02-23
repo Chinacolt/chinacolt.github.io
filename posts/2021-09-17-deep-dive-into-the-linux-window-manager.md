@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Window Manager"
 date: 2021-09-17
-permalink: /deep-dive-into-the-linux-window-manager
+permalink: /2021-09-17-deep-dive-into-the-linux-window-manager
 ---
 Picture this: you're at a bustling tech conference, surrounded by a sea of screens and code wizards. Amidst the buzz of excitement, one crucial yet often overlooked element quietly shapes your digital realm – the unsung hero of Linux systems: Window Managers.
 So, what exactly are these mystical beings, you ask? Well, think of them as the maestros orchestrating a symphony of windows on your computer screen, conducting the ballet of graphical user interfaces with finesse and precision. Window managers are the unsung heroes of the Linux ecosystem, silently but powerfully influencing how you interact with your desktop environment.

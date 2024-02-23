@@ -1,7 +1,7 @@
 ---
 title: "AWS: CloudFront"
 date: 2023-04-28
-permalink: /aws-cloudfront
+permalink: /2023-04-28-aws-cloudfront
 ---
 Picture this: you're at a bustling theme park, and you're craving a delicious ice cream cone. But instead of standing in an endless line at the main entrance, wouldn't it be fantastic if there were multiple smaller ice cream stands scattered strategically throughout the park, ready to serve you in a flash? That's where AWS CloudFront steps in – as your ultimate ice cream delivery network for digital content!
 Welcome to the world of AWS CloudFront, where speed, efficiency, and performance reign supreme. In this digital age where every millisecond counts, having your content delivered swiftly and seamlessly to users worldwide can make all the difference. So, what exactly is AWS CloudFront, and why should you care? Let's dive into the thrilling realm of cloud computing and content delivery to uncover the magic behind this game-changing service.

@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: File System"
 date: 2020-12-25
-permalink: /deep-dive-into-the-linux-file-system
+permalink: /2020-12-25-deep-dive-into-the-linux-file-system
 ---
 Have you ever felt like a digital detective, unraveling the mysteries of a complex virtual world? Well, welcome to the thrilling realm of Linux file systems, where directories are your clues, files are your evidence, and commands are your trusty tools.
 Picture this: you're the Sherlock Holmes of the tech world, navigating through the intricate web of directories like a seasoned detective following a trail of breadcrumbs. Each directory is a new chapter in the story of your Linux system, revealing its secrets and treasures as you delve deeper into its structure.

@@ -1,7 +1,7 @@
 ---
 title: "What is Continuous Improvement?"
 date: 2019-03-08
-permalink: /what-is-continuous-improvement
+permalink: /2019-03-08-what-is-continuous-improvement
 ---
 Picture this: you're in the tech world, navigating through a maze of codes, algorithms, and innovations. It's a fast-paced realm where change is the only constant, and staying ahead of the curve is the name of the game. In this dynamic landscape, one concept reigns supreme – Continuous Improvement.
 So, what exactly is Continuous Improvement, and why should tech enthusiasts, developers, and IT professionals care about it? Well, buckle up, because we're about to embark on a journey into the heart of tech evolution.

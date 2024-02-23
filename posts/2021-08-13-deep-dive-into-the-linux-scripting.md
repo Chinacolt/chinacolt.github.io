@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Scripting"
 date: 2021-08-13
-permalink: /deep-dive-into-the-linux-scripting
+permalink: /2021-08-13-deep-dive-into-the-linux-scripting
 ---
 Ah, Linux scripting – the magical wand that turns mundane tasks into automated symphonies of efficiency and productivity. If you're a tech enthusiast, developer, or IT pro, you're about to embark on a journey through the captivating realm of scripting in the Linux universe. So, buckle up your code belts and get ready for a deep dive into the world of scripts and shells!
 Picture this: you're a wizard in a world of spells, where incantations are replaced by lines of code, and your command line is your trusty wand. In this enchanting land, scripting languages like Bash, Python, and Perl are your potions, brewing up solutions to your everyday challenges with a sprinkle of syntax and a dash of logic.

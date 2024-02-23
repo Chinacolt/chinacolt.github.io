@@ -1,7 +1,7 @@
 ---
 title: "AWS: CloudWatch"
 date: 2023-05-12
-permalink: /aws-cloudwatch
+permalink: /2023-05-12-aws-cloudwatch
 ---
 Have you ever imagined having a trusty sidekick that keeps a vigilant eye on your cloud kingdom, ensuring everything runs smoothly and alerting you at the first sign of trouble? Well, in the realm of AWS, that faithful companion is none other than AWS CloudWatch – your ultimate guardian of all things cloud-related.
 Picture this: you're the master architect of a grand digital empire, with servers, databases, and applications scattered across the vast expanse of the cloud. Now, imagine having a watchful sentinel like AWS CloudWatch, tirelessly monitoring every nook and cranny of your virtual domain, ready to sound the alarm at the slightest hint of a performance hiccup or resource anomaly. That's the power of AWS CloudWatch – your virtual sentinel in the ever-expanding landscape of cloud computing.

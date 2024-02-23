@@ -1,7 +1,7 @@
 ---
 title: "What is Continuous Monitoring?"
 date: 2019-02-08
-permalink: /what-is-continuous-monitoring
+permalink: /2019-02-08-what-is-continuous-monitoring
 ---
 Continuous monitoring – the unsung hero of the tech world, the vigilant guardian of our digital realms, the Sherlock Holmes of IT operations. Picture this: a tireless sentinel tirelessly scanning the vast expanse of data, sifting through the noise to uncover hidden gems of insight and potential threats lurking in the shadows of cyberspace.
 In a world where the pace of technological evolution rivals that of a caffeinated squirrel on a mission, continuous monitoring stands as a beacon of stability, a rock-solid foundation upon which the intricate web of IT operations rests. But what exactly is continuous monitoring, you ask? Well, dear reader, buckle up as we embark on a journey to unravel the mysteries of this indispensable tool in the tech enthusiast's arsenal.

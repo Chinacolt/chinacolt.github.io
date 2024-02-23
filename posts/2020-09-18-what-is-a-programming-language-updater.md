@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language updater?"
 date: 2020-09-18
-permalink: /what-is-a-programming-language-updater
+permalink: /2020-09-18-what-is-a-programming-language-updater
 ---
 Have you ever thought about the unsung heroes of the tech world, quietly working behind the scenes to ensure the smooth functioning of our beloved software systems? Enter the realm of programming language updaters – the wizards responsible for sprinkling digital fairy dust on our programming languages to keep them secure, efficient, and up-to-date with the latest technological trends.
 Picture this: programming languages are like living organisms, constantly evolving and adapting to survive in the ever-changing digital ecosystem. Just as we humans need regular check-ups and upgrades to stay healthy and competitive, programming languages require the tender loving care of updaters to thrive in the fast-paced world of technology.

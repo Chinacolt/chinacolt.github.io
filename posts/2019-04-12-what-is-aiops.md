@@ -1,7 +1,7 @@
 ---
 title: "What is AIOps?"
 date: 2019-04-12
-permalink: /what-is-aiops
+permalink: /2019-04-12-what-is-aiops
 ---
 Are you tired of drowning in a sea of IT operations challenges, desperately seeking a lifeboat to navigate the turbulent waters of modern technology landscapes? Well, fear not, because the beacon of hope in this stormy sea comes in the form of AIOps – the superhero of IT operations, armed with the powers of artificial intelligence and machine learning!
 Picture this: traditional IT operations as a clunky old car struggling to keep up with the fast-paced race of digital transformation. Now, enter AIOps like a sleek, futuristic sports car, equipped with turbocharged engines of AI and ML, zooming past the competition with unparalleled speed and agility. Yes, AIOps is not just a buzzword; it's a game-changer, a disruptor, a force to be reckoned with in the tech industry.

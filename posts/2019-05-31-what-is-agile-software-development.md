@@ -1,7 +1,7 @@
 ---
 title: "What is Agile Software Development?"
 date: 2019-05-31
-permalink: /what-is-agile-software-development
+permalink: /2019-05-31-what-is-agile-software-development
 ---
 Are you tired of the old-school, rigid ways of software development that feel as flexible as a concrete block? Well, my fellow tech enthusiasts, developers, and IT professionals, it's time to embrace the winds of change with Agile Software Development – the dynamic, customer-centric approach that's shaking up the industry like a digital earthquake!
 Picture this: traditional software development methods are like following a strict recipe where you can't add a pinch of creativity or adjust the seasoning to taste. It's a linear, waterfall model that cascades down with all the grace of a leaky faucet, causing delays, frustrations, and a whole lot of head-scratching moments.

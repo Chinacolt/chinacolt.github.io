@@ -1,7 +1,7 @@
 ---
 title: "What is DevSecOps?"
 date: 2019-05-03
-permalink: /what-is-devsecops
+permalink: /2019-05-03-what-is-devsecops
 ---
 Hey there, tech enthusiasts, developers, and IT professionals! Ready to dive into the exciting world of DevSecOps? Buckle up as we embark on a journey through the realms of software development, security, and innovation.
 Picture this: you're a master chef crafting a delectable dish. Just like how you meticulously select the finest ingredients to ensure a perfect blend of flavors, DevSecOps combines the essential elements of development, security, and operations to create a robust and secure software ecosystem.

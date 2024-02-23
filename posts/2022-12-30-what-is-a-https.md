@@ -1,7 +1,7 @@
 ---
 title: "What is a HTTPS?"
 date: 2022-12-30
-permalink: /what-is-a-https
+permalink: /2022-12-30-what-is-a-https
 ---
 Ah, the internet – a vast digital realm where cat videos reign supreme, online shopping is a click away, and cyber pirates lurk in the shadows, ready to plunder your precious data. In this virtual Wild West, where information highways crisscross the globe, a lone hero stands tall, clad in digital armor forged from ones and zeroes – HTTPS!
 Picture this: you're sending a secret message to your best friend, detailing your latest Netflix binge-worthy series. Now, you wouldn't want some sneaky eavesdropper intercepting that message, would you? That's where HTTPS swoops in like a caped crusader, ensuring your digital conversations stay as private as a squirrel hoarding nuts for winter.

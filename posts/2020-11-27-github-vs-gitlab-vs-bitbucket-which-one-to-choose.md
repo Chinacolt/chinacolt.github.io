@@ -1,7 +1,7 @@
 ---
 title: "Github vs Gitlab vs Bitbucket: Which one to choose?"
 date: 2020-11-27
-permalink: /github-vs-gitlab-vs-bitbucket-which-one-to-choose
+permalink: /2020-11-27-github-vs-gitlab-vs-bitbucket-which-one-to-choose
 ---
 Have you ever felt like a conductor orchestrating a symphony of code, where every note must harmonize perfectly to create a masterpiece? Well, welcome to the world of version control platforms - where Github, Gitlab, and Bitbucket serve as your trusty instruments, each offering its unique melody in the grand composition of software development.
 Picture this: Github, the seasoned virtuoso, known for its polished performance and widespread acclaim in the developer community. Gitlab, the rising star, with a fresh approach and a growing fan base eager to witness its potential. And Bitbucket, the dark horse, quietly refining its craft and surprising audiences with its versatility.

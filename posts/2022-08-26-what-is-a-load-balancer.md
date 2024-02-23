@@ -1,7 +1,7 @@
 ---
 title: "What is a Load Balancer?"
 date: 2022-08-26
-permalink: /what-is-a-load-balancer
+permalink: /2022-08-26-what-is-a-load-balancer
 ---
 Imagine a bustling restaurant where a single chef is tasked with preparing meals for a packed house of hungry diners. As orders flood in, the overwhelmed chef struggles to keep up, leading to delays, mix-ups, and disgruntled customers. This chaotic scenario mirrors what happens in the digital realm when a single server is bombarded with incoming network traffic. Just as a skilled maître d' orchestrates a seamless dining experience by efficiently assigning tables to waitstaff, a load balancer plays a crucial role in optimizing resource utilization by distributing incoming network traffic across multiple servers.
 In our tech-savvy world, where web applications serve as the digital storefronts of businesses, maintaining high availability, scalability, and reliability is paramount. This is where load balancing steps in as the unsung hero behind the scenes, ensuring that web applications can handle surges in traffic without breaking a sweat. But what exactly is a load balancer, and how does it work its magic?

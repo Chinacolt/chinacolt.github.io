@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Containers"
 date: 2021-01-29
-permalink: /deep-dive-into-the-linux-containers
+permalink: /2021-01-29-deep-dive-into-the-linux-containers
 ---
 Imagine a world where software deployment is as smooth as spreading butter on warm toast – that's the magic of Linux containers! Welcome to the realm of containerization, where applications cozy up in their little virtual bubbles, shielded from the chaos of the digital universe.
 So, what exactly are Linux containers? Picture them as tiny, self-sufficient islands floating in a vast sea of code. These containers encapsulate applications and all their dependencies, creating a neat, isolated environment where software can thrive without stepping on each other's digital toes. It's like having your own personal space at a crowded concert – no jostling for resources, no interference from neighboring apps.

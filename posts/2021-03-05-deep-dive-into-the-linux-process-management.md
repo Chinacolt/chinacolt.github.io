@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Process Management"
 date: 2021-03-05
-permalink: /deep-dive-into-the-linux-process-management
+permalink: /2021-03-05-deep-dive-into-the-linux-process-management
 ---
 Have you ever peeked behind the curtain of your Linux system and wondered about the intricate dance of processes happening beneath the surface? Well, get ready to embark on a thrilling journey into the heart of Linux process management, where threads twirl, scheduling orchestrates, and PIDs play the role of the ultimate name tag!
 Picture this: your Linux system is like a bustling city, with processes zipping around like busy commuters, each with its own task and destination. Understanding process management is like being the traffic controller, ensuring smooth flow and efficient resource allocation to keep the city running smoothly.

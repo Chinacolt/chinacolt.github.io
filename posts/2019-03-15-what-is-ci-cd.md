@@ -1,7 +1,7 @@
 ---
 title: "What is CI/CD?"
 date: 2019-03-15
-permalink: /what-is-ci-cd
+permalink: /2019-03-15-what-is-ci-cd
 ---
 Ah, the world of software development – a realm where lines of code dance to the tune of innovation and efficiency. Picture this: you're a developer on a mission to create groundbreaking applications, but there's a catch. The traditional methods of software development feel like navigating a labyrinth blindfolded, with each step fraught with the peril of errors and delays. Enter CI/CD, the dynamic duo here to rescue you from the clutches of chaos and catapult your projects to new heights of success.
 In our tech-savvy era, where speed and quality reign supreme, understanding the ins and outs of Continuous Integration and Continuous Delivery (CI/CD) is akin to wielding a magic wand in the world of software development. Think of CI/CD as your trusty sidekick, streamlining your development process, enhancing collaboration, and turbocharging your software delivery like never before.

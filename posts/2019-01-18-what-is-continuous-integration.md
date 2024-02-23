@@ -1,7 +1,7 @@
 ---
 title: "What is Continuous Integration?"
 date: 2019-01-18
-permalink: /what-is-continuous-integration
+permalink: /2019-01-18-what-is-continuous-integration
 ---
 Continuous Integration (CI) – the superhero of the software development world, swooping in to save the day with its cape of efficiency and its shield of collaboration. Picture this: a bustling team of developers, each armed with their coding prowess, working tirelessly to bring a software masterpiece to life. But wait, lurking in the shadows are bugs, integration nightmares, and the dreaded time crunch. Fear not, for Continuous Integration is here to vanquish these foes and pave the way for seamless development adventures!
 In our tech-savvy realm, where every keystroke matters and every line of code shapes the digital landscape, CI emerges as the unsung hero, championing the cause of code quality, integration harmony, and accelerated software lifecycles. Imagine a symphony orchestra where each musician plays their part flawlessly, in perfect harmony – that's the magic of CI, orchestrating the development process with precision and finesse.

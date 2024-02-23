@@ -1,7 +1,7 @@
 ---
 title: "The Linux Command Line: A Complete Guide for Beginners"
 date: 2018-12-21
-permalink: /the-linux-command-line-a-complete-guide-for-beginners
+permalink: /2018-12-21-the-linux-command-line-a-complete-guide-for-beginners
 ---
 Setting the Stage:
 Hey there, tech enthusiasts, developers, and IT professionals! Have you ever felt like a wizard waving a digital wand to command your computer to do your bidding? Well, welcome to the enchanting world of the Linux command line, where a few keystrokes can work magic and unlock a realm of endless possibilities.

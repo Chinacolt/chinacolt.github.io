@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Security"
 date: 2021-01-08
-permalink: /deep-dive-into-the-linux-security
+permalink: /2021-01-08-deep-dive-into-the-linux-security
 ---
 Picture this: you're the guardian of a digital fortress, standing watch over a realm of ones and zeros where cyber threats lurk in the shadows. Welcome to the world of Linux security, where the battle to safeguard your data and assets is waged every day.
 In our tech-savvy era, where the digital landscape is constantly evolving, the importance of robust security measures in Linux cannot be overstated. Just like a medieval castle fortifying itself against invading armies, Linux systems must be equipped with the strongest defenses to fend off cyber adversaries seeking to breach their walls.

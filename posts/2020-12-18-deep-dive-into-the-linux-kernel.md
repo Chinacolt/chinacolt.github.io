@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Kernel"
 date: 2020-12-18
-permalink: /deep-dive-into-the-linux-kernel
+permalink: /2020-12-18-deep-dive-into-the-linux-kernel
 ---
 Ah, the Linux Kernel – the beating heart of the open-source world, a digital maestro orchestrating the symphony of computing devices worldwide. Picture it as the conductor of a grand technological orchestra, guiding processes, managing memories, and harmonizing file systems and device drivers to create a seamless performance that leaves no room for a sour note.
 Since its humble beginnings in 1991, when Linus Torvalds breathed life into this revolutionary project, the Linux Kernel has been on a remarkable journey of evolution and innovation. Like a fine wine, it has aged gracefully, maturing with each major milestone, release, and development that has shaped its identity over the years.

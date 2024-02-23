@@ -1,7 +1,7 @@
 ---
 title: "Kotlin: What kind of programming language is it?"
 date: 2019-12-06
-permalink: /kotlin-what-kind-of-programming-language-is-it
+permalink: /2019-12-06-kotlin-what-kind-of-programming-language-is-it
 ---
 Are you tired of programming languages that feel like deciphering ancient hieroglyphics? Well, get ready to embrace a breath of fresh air in the coding cosmos with Kotlin! Picture Kotlin as the cool, suave secret agent of programming languages, swooping in to save the day with its sleek syntax and powerful features.
 In a world where tech evolution is the name of the game, Kotlin emerges as a rising star, captivating the hearts of developers and IT wizards alike. This blog post is your golden ticket to unraveling the enigmatic allure of Kotlin, a language that's not just a trend but a transformative force in the digital realm.

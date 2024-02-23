@@ -1,7 +1,7 @@
 ---
 title: "Hosted Version Control Providers: Full List"
 date: 2020-11-20
-permalink: /hosted-version-control-providers-full-list
+permalink: /2020-11-20-hosted-version-control-providers-full-list
 ---
 Version control, the unsung hero of the software development world – the trusty sidekick that ensures our code remains in check, our projects run smoothly, and our sanity intact. Picture it as a time-traveling DeLorean, zipping through the annals of code history, allowing us to revisit past iterations, correct mistakes, and avoid catastrophic coding paradoxes.
 Now, let's dive into the realm of hosted version control providers, the modern-day guardians of our code repositories. These digital fortresses offer a safe haven for our precious lines of code, shielding them from the chaos of the development universe. Imagine them as the vigilant gatekeepers of a medieval castle, protecting our code treasures from marauding bugs and unruly changes.

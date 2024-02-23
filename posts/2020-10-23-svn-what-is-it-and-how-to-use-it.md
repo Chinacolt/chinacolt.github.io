@@ -1,7 +1,7 @@
 ---
 title: "SVN: What is it and how to use it?"
 date: 2020-10-23
-permalink: /svn-what-is-it-and-how-to-use-it
+permalink: /2020-10-23-svn-what-is-it-and-how-to-use-it
 ---
 Version control systems are like the unsung heroes of the coding world, quietly ensuring that chaos doesn't reign supreme in the realm of software development. Imagine them as the meticulous librarians of the coding universe, diligently cataloging every change made to the codebase, allowing developers to rewind, fast-forward, and collaborate with ease.
 Now, enter SVN, the seasoned veteran among version control systems, with a legacy as rich as a well-aged wine. SVN, or Subversion, isn't just another tool in the developer's arsenal; it's a reliable companion that has stood the test of time, offering a centralized repository model that's akin to a fortress guarding your code treasures.

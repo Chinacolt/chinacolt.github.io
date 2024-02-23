@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: AppArmor"
 date: 2021-06-04
-permalink: /deep-dive-into-the-linux-apparmor
+permalink: /2021-06-04-deep-dive-into-the-linux-apparmor
 ---
 Are you ready to embark on a thrilling journey into the depths of Linux security? Imagine a fortress where each application and system process is shielded by an invisible armor, safeguarding your digital kingdom from potential intruders. Welcome to the realm of AppArmor, the valiant guardian of your Linux domain!
 In the ever-evolving landscape of cybersecurity, the role of AppArmor shines brightly as a beacon of protection, standing vigilant against the looming threats that lurk in the shadows of the digital realm. Picture AppArmor as your trusty sidekick, donning a virtual suit of armor to shield your applications and processes from malicious forces, ensuring that only the chosen ones can access the treasures within.

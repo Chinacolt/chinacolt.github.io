@@ -1,7 +1,7 @@
 ---
 title: "What is virtualization?"
 date: 2018-10-19
-permalink: /what-is-virtualization
+permalink: /2018-10-19-what-is-virtualization
 ---
 Virtualization, the tech wizardry that transforms the mundane into the magical, is a concept that has revolutionized the way we perceive and utilize IT infrastructure. Imagine virtualization as a master illusionist, capable of splitting a single physical server into multiple virtual entities, each operating independently yet harmoniously, like a symphony orchestrated by unseen hands.
 In our digital realm, virtualization wears many hats, from server virtuoso to network ninja, storage sorcerer, and desktop dynamo. Each form of virtualization brings its unique set of powers to the table, offering organizations a ticket to a realm where efficiency reigns supreme and scalability knows no bounds.

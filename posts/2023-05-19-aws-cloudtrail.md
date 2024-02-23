@@ -1,7 +1,7 @@
 ---
 title: "AWS: CloudTrail"
 date: 2023-05-19
-permalink: /aws-cloudtrail
+permalink: /2023-05-19-aws-cloudtrail
 ---
 Are you ready to embark on a journey into the fascinating world of AWS CloudTrail? Imagine CloudTrail as your trusty sidekick in the vast realm of cloud computing, always vigilant, always watching over your AWS environment like a diligent guardian angel.
 In this blog post, we're diving deep into the realm of AWS CloudTrail, a tool that's not just a necessity but a game-changer for tech enthusiasts, developers, and IT professionals alike. Picture CloudTrail as your personal detective, uncovering every digital footprint, every API call, and every action within your AWS infrastructure, providing you with a backstage pass to the inner workings of your cloud environment.

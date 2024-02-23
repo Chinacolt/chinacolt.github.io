@@ -1,7 +1,7 @@
 ---
 title: "Redis: The In-Memory Database"
 date: 2022-05-13
-permalink: /redis-the-in-memory-database
+permalink: /2022-05-13-redis-the-in-memory-database
 ---
 Hey there, tech aficionados, developers, and IT whizzes! Ready to dive into the fascinating world of Redis, the in-memory database powerhouse that's revolutionizing the way we handle data? Buckle up, because we're about to embark on a thrilling journey through the realms of speed, efficiency, and jaw-dropping performance.
 Picture this: you're at a bustling tech conference, surrounded by the buzz of innovation and the hum of servers working tirelessly behind the scenes. In this digital age where every millisecond counts, Redis emerges as the unsung hero, wielding the power of lightning-fast data processing like a wizard casting spells in a magical realm.

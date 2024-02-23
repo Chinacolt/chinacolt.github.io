@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Package Management"
 date: 2021-02-12
-permalink: /deep-dive-into-the-linux-package-management
+permalink: /2021-02-12-deep-dive-into-the-linux-package-management
 ---
 Imagine your Linux system as a bustling city, with software packages zipping around like busy commuters, each carrying a unique set of tools and functionalities. Now, picture package management as the traffic controller, orchestrating this chaotic dance of installations, updates, and dependencies to ensure a smooth flow of operations. Welcome to the world of Linux package management, where efficiency reigns supreme, and system stability is the ultimate goal.
 In this blog post, we embark on a deep dive into the intricate realm of Linux package management, unraveling its complexities and uncovering its hidden gems. From the humble beginnings of software installation to the intricate web of dependency resolution, we will navigate through the bustling streets of package repositories and explore the diverse landscape of package management tools that power the Linux ecosystem.

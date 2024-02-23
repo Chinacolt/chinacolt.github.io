@@ -1,7 +1,7 @@
 ---
 title: "OracleDB: The RDBMS for Enterprises"
 date: 2022-07-01
-permalink: /oracledb-the-rdbms-for-enterprises
+permalink: /2022-07-01-oracledb-the-rdbms-for-enterprises
 ---
 Oracle Database, or OracleDB as it's affectionately known in the tech realm, is like the wise old sage of the relational database management systems (RDBMS) world – revered, reliable, and remarkably robust. Picture it as the Gandalf of databases, guiding enterprises through the intricate labyrinth of data management with its powerful magic.
 As we embark on this journey to unravel the mystique surrounding OracleDB, it's essential to understand its evolution – a tale of innovation, resilience, and strategic prowess. From its humble beginnings to its current status as a titan in the enterprise space, Oracle Database has weathered technological storms and emerged stronger, much like a phoenix rising from the ashes of legacy systems.

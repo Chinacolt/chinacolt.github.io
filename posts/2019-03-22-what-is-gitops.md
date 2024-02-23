@@ -1,7 +1,7 @@
 ---
 title: "What is GitOps?"
 date: 2019-03-22
-permalink: /what-is-gitops
+permalink: /2019-03-22-what-is-gitops
 ---
 Picture this: a world where software deployment is as smooth as spreading butter on warm toast, where collaboration between tech enthusiasts, developers, and IT professionals flows like a well-conducted symphony. Welcome to the realm of GitOps – a game-changer in modern software development practices that's here to revolutionize the way we approach deployment and management processes.
 In our tech-savvy era, where speed and efficiency reign supreme, GitOps emerges as the superhero we never knew we needed. It's like having a personal assistant who not only understands your every command but also anticipates your needs before you even utter a word. GitOps isn't just a buzzword; it's a paradigm shift that promises to streamline workflows, automate tasks, and elevate collaboration to new heights.

@@ -1,7 +1,7 @@
 ---
 title: "AWS: API Gateway"
 date: 2023-04-21
-permalink: /aws-api-gateway
+permalink: /2023-04-21-aws-api-gateway
 ---
 Picture this: you're a developer navigating the vast landscape of cloud computing, seeking a beacon of simplicity amidst the complexities of API development. Enter AWS API Gateway, your trusty guide in the realm of creating, deploying, and managing APIs with unparalleled ease and efficiency.
 In this digital age where seamless connectivity is the lifeblood of modern applications, AWS API Gateway stands tall as a fully managed service, offering a gateway to API nirvana. Think of it as your personal API concierge, streamlining the once daunting tasks of API creation, deployment, and maintenance into a smooth and delightful experience.

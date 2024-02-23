@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Packaging"
 date: 2021-08-27
-permalink: /deep-dive-into-the-linux-packaging
+permalink: /2021-08-27-deep-dive-into-the-linux-packaging
 ---
 Have you ever tried baking a cake without following a recipe? It might turn out to be a disaster, with ingredients all over the place and no clear instructions on how to bring it all together. In the world of Linux, packaging is like the secret recipe that ensures software development is as smooth as a perfectly baked cake.
 Picture this: packaging in Linux is akin to neatly organizing all the ingredients for your software into a convenient, ready-to-use format. Just like how a well-packaged product on a supermarket shelf attracts customers, proper packaging in software development attracts users by making installation and maintenance a breeze.

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Maintenance of Serverless Computing"
 date: 2023-01-27
-permalink: /troubleshooting-and-maintenance-of-serverless-computing
+permalink: /2023-01-27-troubleshooting-and-maintenance-of-serverless-computing
 ---
 Picture this: a world where computing power is at your fingertips without the hassle of managing servers. Welcome to the realm of serverless computing, a revolutionary paradigm shift that liberates developers from the shackles of infrastructure maintenance and ushers in a new era of agility and efficiency.
 In our tech-savvy universe, where time is of the essence and innovation is the name of the game, serverless computing emerges as a beacon of hope for businesses and developers alike. Gone are the days of cumbersome server setups and endless configurations; with serverless technology, you can focus on crafting impeccable code while the backend magic takes care of itself.

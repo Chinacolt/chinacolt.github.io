@@ -1,7 +1,7 @@
 ---
 title: "What is cloud computing?"
 date: 2018-10-26
-permalink: /what-is-cloud-computing
+permalink: /2018-10-26-what-is-cloud-computing
 ---
 Cloud computing, the ethereal realm where bytes float like clouds in the sky, has revolutionized the very fabric of our digital existence. Imagine a world where your data isn't tethered to physical servers but instead dances effortlessly across virtual landscapes, adapting to your needs like a chameleon changing colors. This is the magic of cloud computing, a technological marvel that has reshaped the IT landscape and catapulted us into a realm of infinite possibilities.
 In this blog post, we embark on a journey through the nebulous expanse of cloud computing, unraveling its mysteries and uncovering its hidden gems. From its humble beginnings as a concept of utility computing to the emergence of virtualization technology and the advent of grid computing, we trace the evolutionary path that has led us to the cloud-centric world we inhabit today.

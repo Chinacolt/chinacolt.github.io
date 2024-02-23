@@ -1,7 +1,7 @@
 ---
 title: "AWS: Lambda"
 date: 2023-04-14
-permalink: /aws-lambda
+permalink: /2023-04-14-aws-lambda
 ---
 Picture this: a world where developers can focus on writing code without the hassle of managing servers. Welcome to the realm of serverless computing, where innovation thrives, costs shrink, and complexity fades into the background. In this digital age, where speed and efficiency reign supreme, serverless architectures have emerged as the beacon of hope for tech enthusiasts, developers, and IT professionals alike.
 Enter AWS Lambda, the unsung hero of serverless computing, a service that lets you run code without the headache of server provisioning. It's like having a personal chef who magically appears whenever you're hungry, whipping up a gourmet meal without you lifting a finger. AWS Lambda simplifies the development and deployment process, allowing you to focus on crafting impeccable code while it takes care of the rest behind the scenes.

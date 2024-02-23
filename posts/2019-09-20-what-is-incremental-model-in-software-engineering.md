@@ -1,7 +1,7 @@
 ---
 title: "What is Incremental Model in software engineering?"
 date: 2019-09-20
-permalink: /what-is-incremental-model-in-software-engineering
+permalink: /2019-09-20-what-is-incremental-model-in-software-engineering
 ---
 Hey there, tech enthusiasts, developers, and IT aficionados! Have you ever felt like software development is akin to building a skyscraper, where each floor represents a new feature, and every beam must align perfectly to create a masterpiece? Well, welcome to the world of the Incremental Model in software engineering – where we don't just build software; we sculpt it, layer by layer, with precision and adaptability.
 In this blog post, we're diving deep into the realm of the Incremental Model, a dynamic approach that revolutionizes how we craft software. Picture this: instead of constructing a whole building in one go, we construct it floor by floor, allowing us to tweak, adjust, and enhance each level as we progress. This iterative development method is not just about coding; it's about sculpting a software masterpiece that evolves with every iteration.

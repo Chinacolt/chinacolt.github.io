@@ -1,7 +1,7 @@
 ---
 title: "What is a SSH?"
 date: 2022-11-25
-permalink: /what-is-a-ssh
+permalink: /2022-11-25-what-is-a-ssh
 ---
 In the vast realm of tech wizardry, where bits and bytes dance to the tune of innovation, there exists a silent guardian, a digital sentinel that stands stalwart against the shadows of cyber threats – SSH, the unsung hero of secure communication and remote access.
 Picture this: you're sending your precious data on a perilous journey through the treacherous lanes of the internet. Hackers lurk in the shadows, ready to pounce on any unencrypted snippet of information they can get their hands on. But fear not, for SSH swoops in like a digital cloak, wrapping your data in layers of encryption so robust that even the most cunning cyber-criminals find themselves locked out of the treasure trove of your information.

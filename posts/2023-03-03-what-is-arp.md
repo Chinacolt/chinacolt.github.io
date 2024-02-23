@@ -1,7 +1,7 @@
 ---
 title: "What is ARP?"
 date: 2023-03-03
-permalink: /what-is-arp
+permalink: /2023-03-03-what-is-arp
 ---
 Have you ever wondered how devices in a network magically find each other, like a high-tech game of hide-and-seek? Well, that's where Address Resolution Protocol (ARP) steps in as the ultimate matchmaker, ensuring that your data packets reach their intended destinations with precision and speed.
 Picture ARP as the networking cupid, forging connections between IP addresses and MAC addresses, paving the way for seamless communication among devices within your local network. It's like having a secret decoder that translates the digital language of IP addresses into the physical addresses of MAC addresses, ensuring that your data travels smoothly through the network highways without getting lost in translation.

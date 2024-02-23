@@ -1,7 +1,7 @@
 ---
 title: "What is UDP?"
 date: 2023-02-10
-permalink: /what-is-udp
+permalink: /2023-02-10-what-is-udp
 ---
 UDP, the unsung hero of networking protocols, often overshadowed by its more popular counterpart TCP. Imagine UDP as the swift messenger darting through the bustling streets of the internet, delivering messages with speed and agility, unencumbered by the weight of formalities. In this blog post, we embark on a journey to unravel the mysteries of UDP, shedding light on its significance, workings, and real-world applications.
 Picture this: you're at a crowded party trying to have a conversation. TCP would be the meticulous note-taker, ensuring every word is heard and acknowledged, while UDP would be the lively storyteller, captivating the audience with quick anecdotes and witty remarks. UDP thrives on spontaneity, embracing the chaos of the digital realm to enable rapid data transmission without the need for handshakes or acknowledgments.

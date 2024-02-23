@@ -1,7 +1,7 @@
 ---
 title: "What is Kanban?"
 date: 2019-06-14
-permalink: /what-is-kanban
+permalink: /2019-06-14-what-is-kanban
 ---
 Hey there, tech enthusiasts, developers, and IT professionals! Have you ever felt like you're juggling a dozen tasks at once, struggling to keep everything in order and on track? Well, fear not, because today we're diving into the fascinating world of Kanban – a game-changer in the realm of project management and workflow optimization.
 Picture this: you're in the midst of a bustling tech environment, where deadlines loom large, and collaboration is key. Enter Kanban, your trusty sidekick in the quest for efficiency and seamless project delivery. But what exactly is Kanban, and why is it causing such a buzz in the tech industry?

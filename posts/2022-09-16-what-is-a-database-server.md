@@ -1,7 +1,7 @@
 ---
 title: "What is a Database Server?"
 date: 2022-09-16
-permalink: /what-is-a-database-server
+permalink: /2022-09-16-what-is-a-database-server
 ---
 Have you ever wondered about the unsung hero behind the scenes of every digital interaction you have? Picture this: you're scrolling through your favorite app, updating your status, or even ordering your go-to meal online. Behind the scenes, quietly but efficiently, lies the backbone of modern technology – the database server.
 In a world where data reigns supreme, database servers are the unsung guardians of information, tirelessly storing, managing, and retrieving data to ensure seamless digital experiences. They are the digital librarians organizing the vast volumes of data we generate daily, ensuring that the right information is at our fingertips whenever we need it.

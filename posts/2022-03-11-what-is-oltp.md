@@ -1,7 +1,7 @@
 ---
 title: "What is OLTP?"
 date: 2022-03-11
-permalink: /what-is-oltp
+permalink: /2022-03-11-what-is-oltp
 ---
 Have you ever wondered about the intricate dance that happens behind the scenes when you make a purchase online, transfer money between accounts, or book a flight? Well, welcome to the fascinating world of OLTP systems – the unsung heroes of transaction processing in the digital realm.
 Picture OLTP systems as the bustling city streets during rush hour, where countless transactions zip back and forth like cars navigating through traffic. In this digital metropolis, OLTP (Online Transaction Processing) systems play the role of traffic controllers, ensuring that each transaction reaches its destination swiftly and accurately.

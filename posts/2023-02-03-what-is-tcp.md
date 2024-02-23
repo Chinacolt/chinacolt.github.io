@@ -1,7 +1,7 @@
 ---
 title: "What is TCP?"
 date: 2023-02-03
-permalink: /what-is-tcp
+permalink: /2023-02-03-what-is-tcp
 ---
 In the vast digital landscape where information zips around like hyperactive electrons in a circuit, there exists a silent hero, a guardian of data integrity and a maestro of seamless communication – Transmission Control Protocol, or as we fondly call it, TCP. Picture TCP as the meticulous conductor of an orchestra, ensuring each note reaches its destination flawlessly, orchestrating a symphony of data across the interconnected web of networks.
 As we embark on this journey to unravel the mysteries of TCP, it's essential to grasp the fundamental role this protocol plays in the intricate dance of networking. Just like a skilled diplomat fostering harmony between nations, TCP fosters harmony between devices, enabling them to converse in a language of 1s and 0s with unparalleled reliability. It's the unsung hero behind every email sent, every webpage loaded, and every video streamed – the backbone of modern communication.

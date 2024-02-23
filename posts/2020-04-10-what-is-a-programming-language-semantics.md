@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language semantics?"
 date: 2020-04-10
-permalink: /what-is-a-programming-language-semantics
+permalink: /2020-04-10-what-is-a-programming-language-semantics
 ---
 Have you ever pondered the intricate dance of words and commands that breathe life into the digital realm? Welcome to the captivating world of programming language semantics, where every line of code whispers its purpose with precision and clarity.
 Picture this: programming language semantics is like the conductor of a grand orchestra, ensuring that each instrument plays its part harmoniously to create a masterpiece of software symphony. Just as a maestro interprets musical notes to evoke emotions, semantics deciphers the language of computers, orchestrating a seamless flow of instructions that bring our technological marvels to life.

@@ -1,7 +1,7 @@
 ---
 title: "Pacman: The Package Manager for Arch Linux"
 date: 2021-12-24
-permalink: /pacman-the-package-manager-for-arch-linux
+permalink: /2021-12-24-pacman-the-package-manager-for-arch-linux
 ---
 Imagine a bustling marketplace where software packages are the prized goods, and the savvy shoppers are tech enthusiasts, developers, and IT professionals. Welcome to the world of Arch Linux, a dynamic ecosystem where the art of package management reigns supreme, and at the heart of it all stands Pacman – the trusted guardian of software installations, updates, and dependencies.
 In this bustling digital marketplace, Arch Linux shines as a beacon of innovation and customization, drawing in tech aficionados with its minimalist charm and hands-on ethos. It's like having a blank canvas where you can paint your computing masterpiece, tailored to your exact specifications. Arch Linux's rolling release model ensures you're always at the forefront of technology, like getting the latest smartphone upgrade before anyone else – but for your entire operating system.

@@ -1,7 +1,7 @@
 ---
 title: "Git vs SVN vs Mercurial: Which one to choose?"
 date: 2020-11-06
-permalink: /git-vs-svn-vs-mercurial-which-one-to-choose
+permalink: /2020-11-06-git-vs-svn-vs-mercurial-which-one-to-choose
 ---
 Version control systems are the unsung heroes of the software development world, quietly orchestrating the symphony of code changes, collaboration, and project integrity behind the scenes. Imagine them as the conductors of a grand orchestra, ensuring that every note played by developers harmonizes seamlessly to create a masterpiece of a software project.
 In this digital age where collaboration knows no bounds and code evolves faster than a trending meme, the choice of version control tool can make or break a project's success. Enter Git, SVN, and Mercurial – the rockstars of version control, each with its own set of fan clubs and devoted followers in the tech realm.

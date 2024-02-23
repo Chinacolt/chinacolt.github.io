@@ -1,7 +1,7 @@
 ---
 title: "What is NoOps?"
 date: 2019-04-05
-permalink: /what-is-noops
+permalink: /2019-04-05-what-is-noops
 ---
 Picture a world where software development and operations seamlessly dance together in perfect harmony, orchestrated by the invisible hands of automation and efficiency. Welcome to the realm of NoOps, a realm where the traditional boundaries between coding and deployment blur into oblivion, paving the way for a new era of innovation and speed in the tech landscape.
 In this digital age where time is of the essence and innovation is the currency of success, NoOps emerges as a beacon of hope for tech enthusiasts, developers, and IT professionals alike. It's not just a buzzword; it's a paradigm shift, a revolution in the making that promises to reshape how we conceive, create, and deliver software solutions.

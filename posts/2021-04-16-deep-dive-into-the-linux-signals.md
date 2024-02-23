@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Signals"
 date: 2021-04-16
-permalink: /deep-dive-into-the-linux-signals
+permalink: /2021-04-16-deep-dive-into-the-linux-signals
 ---
 Ah, Linux signals – the silent messengers of the operating system, whispering commands and notifications to processes like a digital orchestra conductor. If you've ever wondered about the mystical world of signals in Linux, buckle up, because we're about to take a deep dive into this fascinating realm that's both crucial and cryptic for tech enthusiasts, developers, and IT professionals alike.
 Picture this: Linux signals are like secret handshakes between different parts of a grand machine, each signal carrying a unique message that can make or break the harmony of the system. Understanding these signals is akin to deciphering a complex code that governs how processes communicate, react to events, and maintain order within the Linux ecosystem.
