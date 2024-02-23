@@ -1,6 +1,6 @@
 ---
 title: "Assembly: What kind of programming language is it?"
-date: 2024-04-14
+date: 2022-09-16
 permalink: /assembly-what-kind-of-programming-language-is-it
 ---
 Have you ever felt like you're deciphering a secret code when diving into the world of programming languages? Well, imagine if there was a language that spoke directly to the heart of your computer, whispering commands in its native tongue. Enter Assembly language – the unsung hero of the tech realm, bridging the gap between human logic and machine operations.

@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Virtualization"
-date: 2023-12-24
+date: 2022-05-06
 permalink: /deep-dive-into-the-linux-virtualization
 ---
 Virtualization, the magician of the IT realm, where machines dance in harmony on the stage of innovation, transforming the once rigid landscapes into fluid realms of endless possibilities. Picture this: a virtualization wizard waving its wand, conjuring virtual machines out of thin air, each one a digital doppelganger, ready to do the bidding of its creator.

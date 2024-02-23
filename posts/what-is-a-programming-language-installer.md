@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language installer?"
-date: 2023-05-07
+date: 2021-07-16
 permalink: /what-is-a-programming-language-installer
 ---
 Have you ever pondered the intricate dance of ones and zeros that powers the digital realm we inhabit today? Well, dear tech enthusiasts, developers, and IT aficionados, fasten your seatbelts as we embark on a riveting journey through the captivating world of programming language installers.

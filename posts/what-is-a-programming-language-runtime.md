@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language runtime?"
-date: 2024-10-27
+date: 2023-06-09
 permalink: /what-is-a-programming-language-runtime
 ---
 Have you ever marveled at the seamless operation of your favorite software applications, wondering about the magic behind their flawless performance? Well, dear tech enthusiasts and IT aficionados, let's embark on a journey into the captivating realm of programming language runtimes – the unsung heroes orchestrating the symphony of code execution and memory management in the digital universe.

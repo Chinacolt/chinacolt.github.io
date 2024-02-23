@@ -1,6 +1,6 @@
 ---
 title: "SVN: What is it and how to use it?"
-date: 2023-01-29
+date: 2021-03-05
 permalink: /svn-what-is-it-and-how-to-use-it
 ---
 Version control systems are like the unsung heroes of the coding world, quietly ensuring that chaos doesn't reign supreme in the realm of software development. Imagine them as the meticulous librarians of the coding universe, diligently cataloging every change made to the codebase, allowing developers to rewind, fast-forward, and collaborate with ease.

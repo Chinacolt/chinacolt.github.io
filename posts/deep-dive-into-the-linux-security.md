@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Security"
-date: 2023-05-28
+date: 2021-08-06
 permalink: /deep-dive-into-the-linux-security
 ---
 Picture this: you're the guardian of a digital fortress, standing watch over a realm of ones and zeros where cyber threats lurk in the shadows. Welcome to the world of Linux security, where the battle to safeguard your data and assets is waged every day.

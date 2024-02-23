@@ -1,6 +1,6 @@
 ---
 title: "Git vs SVN vs Mercurial: Which one to choose?"
-date: 2023-09-24
+date: 2021-12-31
 permalink: /git-vs-svn-vs-mercurial-which-one-to-choose
 ---
 Version control systems are the unsung heroes of the software development world, quietly orchestrating the symphony of code changes, collaboration, and project integrity behind the scenes. Imagine them as the conductors of a grand orchestra, ensuring that every note played by developers harmonizes seamlessly to create a masterpiece of a software project.

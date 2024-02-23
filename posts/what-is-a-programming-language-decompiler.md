@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language decompiler?"
-date: 2024-07-07
+date: 2022-12-23
 permalink: /what-is-a-programming-language-decompiler
 ---
 Have you ever tried to decipher a cryptic message or unravel a complex puzzle? Imagine being a software detective, equipped with a powerful tool that can decode the secrets hidden within the intricate world of programming languages. Enter the realm of programming language decompilers – the Sherlock Holmes of the coding universe, unraveling the mysteries of compiled software with precision and finesse.

@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: IPC"
-date: 2024-02-18
+date: 2022-07-08
 permalink: /deep-dive-into-the-linux-ipc
 ---
 Ah, Linux – the land of endless possibilities, where processes dance the intricate tango of communication and data exchange through the enchanting realm of Inter-Process Communication (IPC). Picture IPC as the bustling marketplace where processes gather to barter information, share resources, and synchronize their activities in a harmonious symphony of multitasking marvels.

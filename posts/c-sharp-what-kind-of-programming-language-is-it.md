@@ -1,6 +1,6 @@
 ---
 title: "C (sharp): What kind of programming language is it?"
-date: 2025-02-16
+date: 2023-10-20
 permalink: /c-sharp-what-kind-of-programming-language-is-it
 ---
 In the ever-evolving landscape of programming languages, where new languages pop up like mushrooms after a rain, C# stands tall - not just as another option in the developer's toolkit, but as a beacon of modern programming prowess. Imagine, if you will, a Swiss Army knife. Now, imagine if that Swiss Army knife went to college, got a degree in software engineering, and decided to specialize in being awesome. That's C#, a language that combines the simplicity of a well-loved novel with the power of a superhero, making it an irresistible choice for developers of all stripes.

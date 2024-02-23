@@ -1,6 +1,6 @@
 ---
 title: "What is cloud computing?"
-date: 2023-01-01
+date: 2021-01-01
 permalink: /what-is-cloud-computing
 ---
 Cloud computing, the ethereal realm where bytes float like clouds in the sky, has revolutionized the very fabric of our digital existence. Imagine a world where your data isn't tethered to physical servers but instead dances effortlessly across virtual landscapes, adapting to your needs like a chameleon changing colors. This is the magic of cloud computing, a technological marvel that has reshaped the IT landscape and catapulted us into a realm of infinite possibilities.

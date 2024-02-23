@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Process Management"
-date: 2025-03-23
+date: 2023-12-08
 permalink: /deep-dive-into-the-linux-process-management
 ---
 Have you ever peeked behind the curtain of your Linux system and wondered about the intricate dance of processes happening beneath the surface? Well, get ready to embark on a thrilling journey into the heart of Linux process management, where threads twirl, scheduling orchestrates, and PIDs play the role of the ultimate name tag!

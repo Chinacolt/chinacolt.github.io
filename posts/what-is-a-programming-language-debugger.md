@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language debugger?"
-date: 2025-03-16
+date: 2023-12-01
 permalink: /what-is-a-programming-language-debugger
 ---
 Imagine embarking on a thrilling adventure through the intricate world of software development, where every line of code holds the key to unlocking digital wonders. In this realm of binary brilliance, where creativity meets logic, there exists a crucial guardian – the unsung hero known as the debugger.

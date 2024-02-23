@@ -1,6 +1,6 @@
 ---
 title: "What is Iterative Model in software engineering?"
-date: 2024-07-28
+date: 2023-01-20
 permalink: /what-is-iterative-model-in-software-engineering
 ---
 Have you ever felt like software development is akin to solving a complex puzzle, where each piece must fit perfectly to create the bigger picture? Well, welcome to the world of the Iterative Model in software engineering – a methodology that approaches development like a series of interconnected puzzles, each contributing to the grand solution.

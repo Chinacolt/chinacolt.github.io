@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language API?"
-date: 2024-09-22
+date: 2023-04-14
 permalink: /what-is-a-programming-language-api
 ---
 Have you ever marveled at how seamlessly different software components interact with each other, almost like a well-choreographed dance routine in the tech world? Well, that's the magic of Programming Language APIs! These unsung heroes of software development are like the connectors that bring together a diverse cast of characters to create a blockbuster tech production.

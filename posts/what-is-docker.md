@@ -1,6 +1,6 @@
 ---
 title: "What is Docker?"
-date: 2023-10-15
+date: 2022-01-21
 permalink: /what-is-docker
 ---
 Picture this: a world where software development is as smooth as spreading butter on warm toast, where applications are built, tested, and deployed with the precision of a master chef crafting a gourmet dish. Welcome to the realm of Docker, the superhero of containerization in the tech universe!

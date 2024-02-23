@@ -1,6 +1,6 @@
 ---
 title: "What is DevTestOps?"
-date: 2024-02-25
+date: 2022-07-22
 permalink: /what-is-devtestops
 ---
 Picture this: a bustling tech industry where development, testing, and operations dance together in perfect harmony, creating a symphony of software delivery like never before. Welcome to the world of DevTestOps, where collaboration isn't just a buzzword – it's the secret sauce that fuels innovation and efficiency.

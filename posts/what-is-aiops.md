@@ -1,6 +1,6 @@
 ---
 title: "What is AIOps?"
-date: 2024-02-04
+date: 2022-06-17
 permalink: /what-is-aiops
 ---
 Are you tired of drowning in a sea of IT operations challenges, desperately seeking a lifeboat to navigate the turbulent waters of modern technology landscapes? Well, fear not, because the beacon of hope in this stormy sea comes in the form of AIOps – the superhero of IT operations, armed with the powers of artificial intelligence and machine learning!

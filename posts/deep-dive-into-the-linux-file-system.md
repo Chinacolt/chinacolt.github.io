@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: File System"
-date: 2023-02-12
+date: 2021-03-26
 permalink: /deep-dive-into-the-linux-file-system
 ---
 Have you ever felt like a digital detective, unraveling the mysteries of a complex virtual world? Well, welcome to the thrilling realm of Linux file systems, where directories are your clues, files are your evidence, and commands are your trusty tools.

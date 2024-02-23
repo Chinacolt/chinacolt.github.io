@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Disk Management"
-date: 2025-03-09
+date: 2023-11-24
 permalink: /deep-dive-into-the-linux-disk-management
 ---
 Have you ever felt like your Linux system's storage is a labyrinth of mystery, where finding that one file is like searching for a needle in a haystack? Fear not, fellow tech enthusiasts, developers, and IT professionals, for we are about to embark on an epic journey into the depths of Linux disk management!

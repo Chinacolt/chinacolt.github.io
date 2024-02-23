@@ -1,6 +1,6 @@
 ---
 title: "What is MLOps?"
-date: 2023-02-05
+date: 2021-03-19
 permalink: /what-is-mlops
 ---
 Have you ever felt like managing machine learning models is akin to herding cats in a room full of yarn? Well, fear not, because MLOps is here to untangle the complexities and streamline the chaos! In this digital age where AI and machine learning reign supreme, the orchestra of MLOps plays a crucial symphony in ensuring that these cutting-edge technologies perform at their peak.

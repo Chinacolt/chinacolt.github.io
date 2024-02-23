@@ -1,6 +1,6 @@
 ---
 title: "What is Waterfall Model in software engineering?"
-date: 2024-03-31
+date: 2022-09-02
 permalink: /what-is-waterfall-model-in-software-engineering
 ---
 Ah, the Waterfall Model in software engineering – a classic like a vintage vinyl record in a world of streaming services and digital downloads. Picture this: you're embarking on a journey through the annals of software development, where each phase flows seamlessly into the next like a well-choreographed dance routine.

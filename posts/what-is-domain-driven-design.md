@@ -1,6 +1,6 @@
 ---
 title: "What is Domain Driven Design?"
-date: 2025-06-29
+date: 2024-04-12
 permalink: /what-is-domain-driven-design
 ---
 Have you ever felt like a detective unraveling the mysteries of a complex software system? Well, welcome to the world of Domain Driven Design (DDD), where developers don their investigative hats and dive deep into the intricate realms of software architecture. Imagine DDD as your trusty magnifying glass, helping you zoom in on the crucial details of your project's domain, much like Sherlock Holmes scrutinizing a crime scene for clues.

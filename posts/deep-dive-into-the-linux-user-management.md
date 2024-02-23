@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: User Management"
-date: 2024-07-14
+date: 2022-12-30
 permalink: /deep-dive-into-the-linux-user-management
 ---
 Imagine Linux as a bustling metropolis, with its intricate network of user accounts, permissions, and security measures forming the backbone of this digital city. Just like in a real city where residents have unique identities and access rights, Linux users navigate a complex landscape governed by user management principles to safeguard data and maintain system integrity.

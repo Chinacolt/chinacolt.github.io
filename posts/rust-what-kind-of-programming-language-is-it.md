@@ -1,6 +1,6 @@
 ---
 title: "Rust: What kind of programming language is it?"
-date: 2023-04-09
+date: 2021-06-11
 permalink: /rust-what-kind-of-programming-language-is-it
 ---
 Have you ever stumbled upon a hidden gem in the vast landscape of programming languages? Well, let me introduce you to Rust – the rising star that's been quietly making waves in the tech realm. Picture Rust as the cool kid at the coding block party, turning heads with its sleek syntax and robust performance capabilities.

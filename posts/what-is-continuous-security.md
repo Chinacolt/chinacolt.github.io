@@ -1,6 +1,6 @@
 ---
 title: "What is Continuous Security?"
-date: 2025-01-12
+date: 2023-09-01
 permalink: /what-is-continuous-security
 ---
 Continuous Security: Safeguarding Your Digital Fortresses

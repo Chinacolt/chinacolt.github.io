@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language disassembler?"
-date: 2024-11-10
+date: 2023-06-30
 permalink: /what-is-a-programming-language-disassembler
 ---
 Have you ever tried to decipher a secret code or unravel a complex puzzle? Imagine being a digital detective, peeling back the layers of software to reveal its hidden secrets. Welcome to the intriguing world of programming language disassemblers – the Sherlock Holmes of the tech realm, unraveling the mysteries of machine code and binary instructions.

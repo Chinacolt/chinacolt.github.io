@@ -1,6 +1,6 @@
 ---
 title: "PHP: What kind of programming language is it?"
-date: 2024-01-14
+date: 2022-05-27
 permalink: /php-what-kind-of-programming-language-is-it
 ---
 Ah, PHP – the unsung hero of the tech world, the programming language that weaves magic behind the scenes of countless websites and applications. If the digital realm were a bustling kitchen, PHP would be the master chef orchestrating a symphony of flavors to create delectable web experiences.
