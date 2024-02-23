@@ -1,6 +1,6 @@
 ---
 title: "What is Continuous Monitoring?"
-date: 2024-02-23
+date: 2023-12-10
 permalink: /what-is-continuous-monitoring
 ---
 Continuous monitoring – the unsung hero of the tech world, the vigilant guardian of our digital realms, the Sherlock Holmes of IT operations. Picture this: a tireless sentinel tirelessly scanning the vast expanse of data, sifting through the noise to uncover hidden gems of insight and potential threats lurking in the shadows of cyberspace.

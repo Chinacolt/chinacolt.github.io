@@ -1,6 +1,6 @@
 ---
 title: "What is Kanban?"
-date: 2024-02-23
+date: 2023-12-24
 permalink: /what-is-kanban
 ---
 Hey there, tech enthusiasts, developers, and IT professionals! Have you ever felt like you're juggling a dozen tasks at once, struggling to keep everything in order and on track? Well, fear not, because today we're diving into the fascinating world of Kanban – a game-changer in the realm of project management and workflow optimization.

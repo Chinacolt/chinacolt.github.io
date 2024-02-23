@@ -1,6 +1,6 @@
 ---
 title: "What is CI/CD?"
-date: 2024-02-23
+date: 2023-02-19
 permalink: /what-is-ci-cd
 ---
 Ah, the world of software development – a realm where lines of code dance to the tune of innovation and efficiency. Picture this: you're a developer on a mission to create groundbreaking applications, but there's a catch. The traditional methods of software development feel like navigating a labyrinth blindfolded, with each step fraught with the peril of errors and delays. Enter CI/CD, the dynamic duo here to rescue you from the clutches of chaos and catapult your projects to new heights of success.

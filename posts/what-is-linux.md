@@ -1,6 +1,6 @@
 ---
 title: "What is Linux?"
-date: 2024-02-23
+date: 2023-07-16
 permalink: /what-is-linux
 ---
 **Exploring the World of Linux:**

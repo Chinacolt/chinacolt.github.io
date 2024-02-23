@@ -1,6 +1,6 @@
 ---
 title: "What is Lean Software Development?"
-date: 2024-02-23
+date: 2023-07-23
 permalink: /what-is-lean-software-development
 ---
 Picture this: a world where software development is a well-oiled machine, humming with efficiency, innovation, and customer-centricity. Welcome to the realm of Lean Software Development, a game-changer in the tech industry that's all about working smarter, not harder.

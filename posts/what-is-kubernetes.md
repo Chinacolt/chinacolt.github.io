@@ -1,6 +1,6 @@
 ---
 title: "What is Kubernetes?"
-date: 2024-02-23
+date: 2024-01-14
 permalink: /what-is-kubernetes
 ---
 Picture a bustling city where every building, every street corner, and every bustling intersection seamlessly coordinate to create a harmonious urban symphony. Now, replace the cityscape with a digital realm, and you've just stepped into the world of Kubernetes – the maestro of container orchestration.

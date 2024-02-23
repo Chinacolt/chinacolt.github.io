@@ -1,6 +1,6 @@
 ---
 title: "What is ChatOps?"
-date: 2024-02-23
+date: 2023-05-14
 permalink: /what-is-chatops
 ---
 Ever found yourself lost in a sea of tech jargon, drowning in a deluge of notifications, and desperately seeking a lifeline to navigate the turbulent waters of IT operations? Fear not, for ChatOps is here to be your digital lifeboat, guiding you through the stormy seas of modern tech workflows with ease and efficiency.
