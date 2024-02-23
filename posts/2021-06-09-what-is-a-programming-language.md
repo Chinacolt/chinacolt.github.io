@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language?"
 date: 2021-06-09
-permalink: /2021-06-09-what-is-a-programming-language
+permalink: /2021-06-09/what-is-a-programming-language
 ---
 Have you ever thought about how the digital world around us functions like a well-choreographed dance, with each move meticulously planned and executed? Well, at the heart of this intricate performance lies the unsung hero of technology – programming languages. These languages are the maestros that orchestrate the symphony of software development, guiding IT professionals through the complex steps of creating the digital marvels we interact with daily.
 Picture programming languages as the translators between human developers and the binary brains of computers. They take our human-readable instructions and transform them into machine-executable commands, bridging the gap between our creativity and the computer's precision. It's like teaching a new language to a robot – a language that dictates how a program should operate, what tasks it should perform, and how it should respond to different scenarios.

@@ -1,7 +1,7 @@
 ---
 title: "DNF: The Package Manager for Redhat based Linux Distributions"
 date: 2023-03-08
-permalink: /2023-03-08-dnf-the-package-manager-for-redhat-based-linux-distributions
+permalink: /2023-03-08/dnf-the-package-manager-for-redhat-based-linux-distributions
 ---
 Imagine a world without package managers – it would be like trying to bake a cake without a recipe. You'd have to gather each ingredient individually, figure out the right proportions, and hope for the best outcome. Sounds like a recipe for disaster, right? Well, that's where package managers swoop in to save the day in the Linux universe.
 In our tech-savvy realm, package managers are the unsung heroes that streamline the entire software installation process, making it as smooth as spreading butter on toast. They handle the nitty-gritty details of fetching, installing, updating, and removing software packages, sparing us from the headache of manual labor and potential compatibility chaos.

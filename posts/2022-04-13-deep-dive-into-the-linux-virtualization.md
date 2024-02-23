@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Virtualization"
 date: 2022-04-13
-permalink: /2022-04-13-deep-dive-into-the-linux-virtualization
+permalink: /2022-04-13/deep-dive-into-the-linux-virtualization
 ---
 Virtualization, the magician of the IT realm, where machines dance in harmony on the stage of innovation, transforming the once rigid landscapes into fluid realms of endless possibilities. Picture this: a virtualization wizard waving its wand, conjuring virtual machines out of thin air, each one a digital doppelganger, ready to do the bidding of its creator.
 In the enchanting world of Linux, virtualization reigns supreme, a technological marvel that has reshaped the very fabric of IT operations. Imagine a virtualization spell that optimizes resources like a master chef crafting a gourmet meal from humble ingredients, or a shape-shifting sorcerer that adapts to changing demands with the ease of a chameleon blending into its surroundings.

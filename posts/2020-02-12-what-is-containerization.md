@@ -1,7 +1,7 @@
 ---
 title: "What is containerization?"
 date: 2020-02-12
-permalink: /2020-02-12-what-is-containerization
+permalink: /2020-02-12/what-is-containerization
 ---
 Picture a world where software development and deployment are as seamless as spreading butter on toast – that's the magic of containerization! If you're a tech enthusiast, developer, or IT pro looking to unravel the mysteries of this game-changing technology, you've come to the right place.
 So, what exactly is containerization? Imagine your favorite dish neatly packed in a lunchbox – each ingredient perfectly portioned, ready to be enjoyed anywhere, anytime. Well, containerization does just that for your applications, bundling them up with all their dependencies in a tidy, portable package. It's like having a mini universe for your software, where everything it needs is right at its fingertips.

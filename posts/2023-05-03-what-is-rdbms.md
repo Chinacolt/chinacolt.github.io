@@ -1,7 +1,7 @@
 ---
 title: "What is RDBMS?"
 date: 2023-05-03
-permalink: /2023-05-03-what-is-rdbms
+permalink: /2023-05-03/what-is-rdbms
 ---
 Have you ever wondered about the backbone of modern data management in the tech realm? Picture a symphony where data harmonizes seamlessly, conducted by a maestro known as Relational Database Management System (RDBMS). In this digital orchestra, RDBMS plays a pivotal role, orchestrating the intricate dance of data with finesse and precision.
 As we embark on this journey into the realm of RDBMS, it's essential to grasp the significance of this technological marvel for tech enthusiasts, developers, and IT professionals alike. Just like a well-oiled machine, understanding RDBMS is the key to unlocking a world of possibilities in the ever-evolving landscape of technology.

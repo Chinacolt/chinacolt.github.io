@@ -1,7 +1,7 @@
 ---
 title: "DynamoDB: The NoSQL Database by AWS"
 date: 2023-08-30
-permalink: /2023-08-30-dynamodb-the-nosql-database-by-aws
+permalink: /2023-08-30/dynamodb-the-nosql-database-by-aws
 ---
 Hey there, tech enthusiasts, developers, and IT aficionados! Ready to dive into the dynamic world of DynamoDB, the powerhouse NoSQL database by AWS? Buckle up as we embark on a thrilling journey through the realms of data management and cloud computing.
 Picture this: NoSQL databases are like the rebels of the database universe, breaking free from the shackles of traditional relational databases and embracing a more flexible, scalable, and agile approach to storing and retrieving data. It's like comparing a rigid, old-school library catalog system to a futuristic, ever-expanding digital library where books magically rearrange themselves based on reader preferences.

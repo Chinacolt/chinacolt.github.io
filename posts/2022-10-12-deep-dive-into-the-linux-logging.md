@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Logging"
 date: 2022-10-12
-permalink: /2022-10-12-deep-dive-into-the-linux-logging
+permalink: /2022-10-12/deep-dive-into-the-linux-logging
 ---
 Logging in Linux is like having a trusty sidekick who keeps a detailed journal of all your system's adventures and misadventures. Imagine logging as your system's personal diarist, diligently recording every step it takes, every hiccup it encounters, and every victory it celebrates. In the world of Linux, logging isn't just a mundane task—it's the unsung hero that sheds light on the inner workings of your system, unveiling mysteries, solving puzzles, and ensuring smooth sailing in the digital realm.
 Picture this: your Linux system is a bustling metropolis, with processes buzzing like busy commuters, files zipping around like delivery trucks, and networks humming like interconnected highways. Now, imagine logging as the vigilant observer perched atop a skyscraper, watching over this digital cityscape, jotting down every event, every transaction, and every anomaly that unfolds below.

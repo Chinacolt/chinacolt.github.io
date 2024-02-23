@@ -1,7 +1,7 @@
 ---
 title: "MariaDB: The Fork of MySQL"
 date: 2023-06-28
-permalink: /2023-06-28-mariadb-the-fork-of-mysql
+permalink: /2023-06-28/mariadb-the-fork-of-mysql
 ---
 Are you ready to dive into the fascinating world of MariaDB, the innovative fork of MySQL that has been making waves in the realm of database management systems? Picture MariaDB as the cool, rebellious cousin of MySQL, bringing a fresh perspective and a bag full of exciting features to the family reunion of tech enthusiasts, developers, and IT professionals.
 Imagine MariaDB as a dynamic and versatile tool that not only meets but exceeds the expectations of modern database users, offering a plethora of unique capabilities that set it apart from its predecessors. It's like upgrading from a trusty old flip phone to the latest smartphone – MariaDB brings a whole new level of performance, security, and community support to the table, making it a top choice for those seeking a cutting-edge database solution.

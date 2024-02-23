@@ -1,7 +1,7 @@
 ---
 title: "Portage: The Package Manager for Gentoo Linux"
 date: 2023-03-22
-permalink: /2023-03-22-portage-the-package-manager-for-gentoo-linux
+permalink: /2023-03-22/portage-the-package-manager-for-gentoo-linux
 ---
 Ah, the world of Linux – a realm where tech enthusiasts, developers, and IT professionals converge in pursuit of software mastery. And in this bustling digital landscape, one tool stands tall, revered by many for its prowess in software management – Portage, the package manager for Gentoo Linux.
 Picture Portage as the maestro of a grand orchestra, orchestrating a symphony of software installations with finesse and precision. But how did this virtuoso come to be? Let's rewind the clock and delve into the origins of Portage, tracing its roots within the Gentoo Linux ecosystem. Like a seasoned artisan honing their craft, Portage has evolved over time, sculpting itself into a cornerstone of software management for those who crave customization and control in their digital domains.

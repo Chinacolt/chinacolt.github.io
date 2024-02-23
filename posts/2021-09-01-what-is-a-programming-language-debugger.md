@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language debugger?"
 date: 2021-09-01
-permalink: /2021-09-01-what-is-a-programming-language-debugger
+permalink: /2021-09-01/what-is-a-programming-language-debugger
 ---
 Imagine embarking on a thrilling adventure through the intricate world of software development, where every line of code holds the key to unlocking digital wonders. In this realm of binary brilliance, where creativity meets logic, there exists a crucial guardian – the unsung hero known as the debugger.
 As we set foot into the realm of programming, we are greeted by the enigmatic aura of debugging, a mystical art form that breathes life into code and banishes bugs into the abyss of digital oblivion. Debugging, much like a vigilant sentinel, stands at the forefront of software development, wielding the power to unveil hidden errors and restore order to the chaotic dance of algorithms.

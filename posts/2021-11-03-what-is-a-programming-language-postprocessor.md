@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language postprocessor?"
 date: 2021-11-03
-permalink: /2021-11-03-what-is-a-programming-language-postprocessor
+permalink: /2021-11-03/what-is-a-programming-language-postprocessor
 ---
 Imagine you've just baked a cake. You followed the recipe to the letter, mixed all the ingredients, and popped it into the oven. When it comes out, it looks good, smells heavenly, and you're pretty sure it's going to taste fantastic. But then, you decide to add some icing, maybe a sprinkle of decorations, and suddenly, your good cake looks like a masterpiece worthy of a spot in the window of a high-end bakery. This, my friends, is what a programming language postprocessor does to your code. It takes something that's already good and makes it exceptional, ensuring it runs not just well, but at its absolute best, on its intended platform.
 Diving into the world of programming language postprocessors is akin to entering a secret society of code optimization wizards. These sophisticated tools don't just refine and optimize code after the initial compilation process; they perform digital alchemy, transforming high-level code into optimized, executable instructions that run as efficiently as possible. They're the unsung heroes ensuring that the software doesn't just function but sings and dances across various platforms, all while consuming as little resources as possible.

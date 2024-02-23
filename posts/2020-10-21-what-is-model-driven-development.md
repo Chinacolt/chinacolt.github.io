@@ -1,7 +1,7 @@
 ---
 title: "What is Model Driven Development?"
 date: 2020-10-21
-permalink: /2020-10-21-what-is-model-driven-development
+permalink: /2020-10-21/what-is-model-driven-development
 ---
 Have you ever imagined a world where software development feels like painting on a canvas, where intricate codes transform into elegant models that guide the creation of robust and innovative applications? Welcome to the realm of Model Driven Development (MDD), a captivating approach that revolutionizes the way we craft software solutions.
 Picture this: just as architects use blueprints to construct magnificent buildings, developers harness the power of models to drive the entire software development process. In this digital age, where efficiency and productivity reign supreme, MDD emerges as a beacon of light, illuminating the path to creating software systems that are not just functional but also scalable and maintainable.

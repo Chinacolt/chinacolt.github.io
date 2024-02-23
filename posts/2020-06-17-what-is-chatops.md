@@ -1,7 +1,7 @@
 ---
 title: "What is ChatOps?"
 date: 2020-06-17
-permalink: /2020-06-17-what-is-chatops
+permalink: /2020-06-17/what-is-chatops
 ---
 Ever found yourself lost in a sea of tech jargon, drowning in a deluge of notifications, and desperately seeking a lifeline to navigate the turbulent waters of IT operations? Fear not, for ChatOps is here to be your digital lifeboat, guiding you through the stormy seas of modern tech workflows with ease and efficiency.
 Picture this: You're a tech wizard, juggling multiple tasks, collaborating with team members scattered across the digital realm, and trying to keep the IT ship afloat amidst the chaos of constant updates and alerts. Enter ChatOps, your trusty sidekick in the world of tech operations, seamlessly integrating chat tools, automation scripts, and real-time communication to streamline your workflows like never before.

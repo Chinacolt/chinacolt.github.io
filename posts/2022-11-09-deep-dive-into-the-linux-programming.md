@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Programming"
 date: 2022-11-09
-permalink: /2022-11-09-deep-dive-into-the-linux-programming
+permalink: /2022-11-09/deep-dive-into-the-linux-programming
 ---
 Linux, the unsung hero of the programming world, quietly but powerfully underpins the digital realm we navigate daily. Picture Linux as the backstage magician orchestrating the grand spectacle of software development, where lines of code dance to its tune, creating symphonies of functionality and innovation.
 In this tech-savvy era, Linux stands tall as the go-to platform for developers and IT aficionados alike, offering a playground where creativity meets functionality. Its open-source nature is akin to a bustling marketplace where ideas flow freely, nurtured by a vibrant community eager to push the boundaries of what's possible in the digital realm.

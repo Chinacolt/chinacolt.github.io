@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu vs CentOS: Which one to choose?"
 date: 2023-02-22
-permalink: /2023-02-22-ubuntu-vs-centos-which-one-to-choose
+permalink: /2023-02-22/ubuntu-vs-centos-which-one-to-choose
 ---
 Are you ready to embark on a thrilling journey through the Linux landscape, where the battle between Ubuntu and CentOS unfolds like a tech-infused epic saga? Picture this: Ubuntu, the charismatic hero with a user-friendly interface and a robust package management system, facing off against CentOS, the stalwart companion rooted in enterprise-grade stability and long-term support. It's a showdown of epic proportions, and you, dear reader, are about to witness it all!
 In this blog post tailored for tech enthusiasts, developers, and IT professionals, we delve deep into the realms of Ubuntu and CentOS, unraveling their strengths, weaknesses, and everything in between. Think of it as a showdown between two heavyweight contenders in the Linux arena, each vying for the title of the ultimate operating system champion.

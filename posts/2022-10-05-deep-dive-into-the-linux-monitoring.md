@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Monitoring"
 date: 2022-10-05
-permalink: /2022-10-05-deep-dive-into-the-linux-monitoring
+permalink: /2022-10-05/deep-dive-into-the-linux-monitoring
 ---
 Hey there, fellow tech enthusiasts, developers, and IT aficionados! Today, we're embarking on an exciting journey into the intricate world of Linux monitoring. Buckle up as we dive deep into the realm of monitoring tools, strategies, and best practices that form the backbone of a robust and reliable Linux ecosystem.
 Picture this: monitoring in Linux is like having a trusty sidekick who keeps a vigilant eye on your system's every move, ensuring it stays in top-notch shape, much like a diligent guardian watching over a bustling city to maintain order and security.

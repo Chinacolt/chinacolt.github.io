@@ -1,7 +1,7 @@
 ---
 title: "C# (sharp): What kind of programming language is it?"
 date: 2021-01-27
-permalink: /2021-01-27-c-sharp-what-kind-of-programming-language-is-it
+permalink: /2021-01-27/c-sharp-what-kind-of-programming-language-is-it
 ---
 In the ever-evolving landscape of programming languages, where new languages pop up like mushrooms after a rain, C# stands tall - not just as another option in the developer's toolkit, but as a beacon of modern programming prowess. Imagine, if you will, a Swiss Army knife. Now, imagine if that Swiss Army knife went to college, got a degree in software engineering, and decided to specialize in being awesome. That's C#, a language that combines the simplicity of a well-loved novel with the power of a superhero, making it an irresistible choice for developers of all stripes.
 At its heart, C# is like that friend who's good at everything but still manages to be approachable. It's designed with the principles of object-oriented programming at its core, which is just a fancy way of saying it lets developers create clean, modular, and, most importantly, scalable software. It's the kind of language that grows with you, from your first "Hello, World!" to complex game development projects that might just be the next big hit. Microsoft's continuous investment in C# is like a gardener tending to their prized roses, ensuring it stays fresh and relevant by incorporating the latest advancements in computing and software development practices.

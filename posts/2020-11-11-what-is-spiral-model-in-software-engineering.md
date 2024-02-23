@@ -1,7 +1,7 @@
 ---
 title: "What is Spiral Model in software engineering?"
 date: 2020-11-11
-permalink: /2020-11-11-what-is-spiral-model-in-software-engineering
+permalink: /2020-11-11/what-is-spiral-model-in-software-engineering
 ---
 Ah, the world of software development methodologies – a realm where Waterfall cascades, Agile sprints, and the Spiral Model twirls its way into the spotlight. Picture this: if software development were a dance floor, each methodology would be a unique dance move, with its own rhythm, style, and flair.
 Now, let's zoom in on one of the most intriguing dancers in this tech tango – the Spiral Model. Developed by the maestro Barry Boehm back in the groovy '80s, this model is like a DJ remixing the traditional beats of Waterfall with the funky loops of Agile, creating a hybrid groove that keeps projects grooving and moving.

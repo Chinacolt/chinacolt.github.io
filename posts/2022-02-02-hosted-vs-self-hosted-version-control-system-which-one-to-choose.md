@@ -1,7 +1,7 @@
 ---
 title: "Hosted vs Self-Hosted Version Control System: Which one to choose?"
 date: 2022-02-02
-permalink: /2022-02-02-hosted-vs-self-hosted-version-control-system-which-one-to-choose
+permalink: /2022-02-02/hosted-vs-self-hosted-version-control-system-which-one-to-choose
 ---
 Picture this: you're a conductor orchestrating a symphony of code, where every note represents a line of programming brilliance. But how do you ensure this musical masterpiece stays harmonious as your team of developers adds their unique melodies to the mix? Enter version control systems, the maestros of code management, collaboration, and project tracking.
 In this blog post, we're diving deep into the realm of version control systems, exploring the age-old debate of Hosted vs. Self-Hosted options. It's like choosing between a catered banquet or a DIY cooking adventure – each has its perks and pitfalls, but the ultimate feast depends on your palate and culinary prowess.

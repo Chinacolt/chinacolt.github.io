@@ -1,7 +1,7 @@
 ---
 title: "Fedora: Redhat's Sister Linux Distribution"
 date: 2023-01-18
-permalink: /2023-01-18-fedora-redhats-sister-linux-distribution
+permalink: /2023-01-18/fedora-redhats-sister-linux-distribution
 ---
 Ah, the world of Linux distributions—a vast universe where tech enthusiasts, developers, and IT professionals embark on a journey of innovation and exploration. In this realm of digital possibilities, one name shines brightly: Fedora, the spirited sibling of Red Hat in the open-source family tree.
 Picture Fedora as the cool, adventurous cousin who always brings something new and exciting to the table. Its origins trace back to a collaboration between Red Hat and the open-source community, a partnership akin to a dynamic duo joining forces to conquer the tech landscape. Motivated by a shared vision of pushing boundaries and embracing change, Fedora emerged as a trailblazer in the Linux realm, blending innovation with a touch of rebellious charm.

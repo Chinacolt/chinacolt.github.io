@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language obfuscator?"
 date: 2021-09-29
-permalink: /2021-09-29-what-is-a-programming-language-obfuscator
+permalink: /2021-09-29/what-is-a-programming-language-obfuscator
 ---
 Have you ever felt like your code is a treasure chest waiting to be plundered by digital pirates? Well, fear not, for in the vast sea of software development, there exists a mighty guardian known as the programming language obfuscator – a shield against the nefarious forces of code theft and reverse engineering.
 Picture this: your software code is a secret recipe passed down through generations, containing the essence of your hard work and innovation. Just as a master chef guards their culinary creations from prying eyes, developers rely on obfuscation techniques to cloak their code in a veil of complexity, making it as inscrutable as a cryptic riddle whispered by ancient sages.

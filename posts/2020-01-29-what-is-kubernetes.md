@@ -1,7 +1,7 @@
 ---
 title: "What is Kubernetes?"
 date: 2020-01-29
-permalink: /2020-01-29-what-is-kubernetes
+permalink: /2020-01-29/what-is-kubernetes
 ---
 Picture a bustling city where every building, every street corner, and every bustling intersection seamlessly coordinate to create a harmonious urban symphony. Now, replace the cityscape with a digital realm, and you've just stepped into the world of Kubernetes – the maestro of container orchestration.
 In this fast-paced era of tech innovation, where applications reign supreme and scalability is the name of the game, Kubernetes emerges as the unsung hero behind the scenes, orchestrating a flawless performance of containerized applications on a grand scale. It's like having a team of expert conductors ensuring that each container plays its part in perfect harmony, without missing a beat.

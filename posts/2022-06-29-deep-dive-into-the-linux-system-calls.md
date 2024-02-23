@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: System Calls"
 date: 2022-06-29
-permalink: /2022-06-29-deep-dive-into-the-linux-system-calls
+permalink: /2022-06-29/deep-dive-into-the-linux-system-calls
 ---
 Have you ever pondered the intricate dance that takes place behind the scenes when you interact with your Linux system? Picture this: your user-level processes extending a virtual handshake to the all-powerful kernel, seeking its wisdom and assistance through a secret language known as system calls. Yes, we're diving deep into the realm of Linux system calls, where the magic of communication unfolds!
 System calls in Linux are like the hidden conduits that connect the bustling city of user applications to the omnipotent core of the operating system. They are the messengers, the envoys, the translators that enable your commands to traverse the boundary between what you see on your screen and the labyrinthine depths of the kernel.

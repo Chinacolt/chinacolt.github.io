@@ -1,7 +1,7 @@
 ---
 title: "What is SQL?"
 date: 2023-05-17
-permalink: /2023-05-17-what-is-sql
+permalink: /2023-05-17/what-is-sql
 ---
 SQL, the unsung hero of the tech world, quietly but powerfully orchestrating the symphony of data management behind the scenes. Imagine SQL as the conductor of a grand orchestra, harmonizing the diverse instruments of databases to create a masterpiece of information and insights.
 In this digital age where data reigns supreme, SQL emerges as the maestro guiding developers and IT professionals through the intricate melodies of database management. Its significance transcends mere code; it is the key that unlocks the treasure trove of data-driven decision-making, paving the way for informed strategies and innovative solutions.

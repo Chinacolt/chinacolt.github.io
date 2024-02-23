@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Threads"
 date: 2022-07-20
-permalink: /2022-07-20-deep-dive-into-the-linux-threads
+permalink: /2022-07-20/deep-dive-into-the-linux-threads
 ---
 Threads in Linux are like the backstage crew of a grand theater production, working tirelessly behind the scenes to ensure a seamless and captivating performance. As tech enthusiasts, developers, and IT professionals, we often marvel at the dazzling display of applications running smoothly on our systems, but it's the intricate dance of threads that truly orchestrates this symphony of operations.
 Imagine threads as nimble jugglers multitasking with finesse, juggling multiple tasks simultaneously to optimize system performance and efficiency. In this bustling world of Linux, threads play a pivotal role in enabling concurrent execution, unlocking the true potential of our systems by harnessing the power of parallel processing.

@@ -1,7 +1,7 @@
 ---
 title: "CockroachDB: The Ultimate Distributed SQL Database"
 date: 2023-08-23
-permalink: /2023-08-23-cockroachdb-the-ultimate-distributed-sql-database
+permalink: /2023-08-23/cockroachdb-the-ultimate-distributed-sql-database
 ---
 Hey there, tech aficionados, developers, and IT wizards! Buckle up as we embark on a thrilling journey into the realm of distributed databases with a spotlight on the one and only CockroachDB – the ultimate distributed SQL database that's shaking up the tech landscape!
 Picture this: you're at a bustling buffet, and instead of piling all your food on one plate, you have multiple plates strategically placed around the room. Each plate holds a portion of your meal, ensuring that even if one plate topples over (we've all been there), you still have a feast waiting for you on the other plates. That's the beauty of distributed databases like CockroachDB – spreading your data across multiple "plates" (nodes) for enhanced scalability, fault tolerance, and performance.

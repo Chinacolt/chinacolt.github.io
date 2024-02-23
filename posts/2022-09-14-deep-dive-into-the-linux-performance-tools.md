@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Performance Tools"
 date: 2022-09-14
-permalink: /2022-09-14-deep-dive-into-the-linux-performance-tools
+permalink: /2022-09-14/deep-dive-into-the-linux-performance-tools
 ---
 Hey there, tech enthusiasts, developers, and IT aficionados! Have you ever felt like your Linux system is running a marathon with a backpack full of bricks? Well, fear not, because we're about to embark on a thrilling journey into the exhilarating world of Linux Performance Tools!
 Picture this: you're the captain of a high-tech spaceship navigating through the vast universe of data and processes. But wait, what's that? Your ship seems to be slowing down, struggling to keep up with the cosmic traffic of information. That's where our trusty performance tools swoop in like intergalactic superheroes, ready to analyze, optimize, and turbocharge your system's performance!

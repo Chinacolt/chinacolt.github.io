@@ -1,7 +1,7 @@
 ---
 title: "C++ (plus plus): What kind of programming language is it?"
 date: 2021-01-20
-permalink: /2021-01-20-c-plus-plus-what-kind-of-programming-language-is-it
+permalink: /2021-01-20/c-plus-plus-what-kind-of-programming-language-is-it
 ---
 Ah, C++ – the powerhouse of programming languages that has been fueling the tech industry for decades. If you're a tech enthusiast, developer, or IT professional, chances are you've crossed paths with this versatile language at some point in your career. But what exactly is C++ (pronounced "C plus plus") and why does it hold such a prominent place in the realm of coding wizardry? Let's embark on a journey through the digital realms of C++ and unravel its mysteries together.
 Picture C++ as the Swiss Army knife of programming languages – robust, multifunctional, and always ready to tackle the toughest coding challenges. From its humble beginnings as an extension of the original C language to its evolution into a sophisticated tool for crafting high-performance software solutions, C++ has come a long way in shaping the digital landscape we navigate today.

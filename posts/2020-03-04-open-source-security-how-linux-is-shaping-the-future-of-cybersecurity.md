@@ -1,7 +1,7 @@
 ---
 title: "Open Source Security: How Linux is Shaping the Future of Cybersecurity"
 date: 2020-03-04
-permalink: /2020-03-04-open-source-security-how-linux-is-shaping-the-future-of-cybersecurity
+permalink: /2020-03-04/open-source-security-how-linux-is-shaping-the-future-of-cybersecurity
 ---
 Picture this: a digital realm where transparency reigns supreme, collaboration fuels innovation, and security is not just a buzzword but a way of life. Welcome to the world of open source security, where the code is open, the possibilities are endless, and Linux stands tall as the guardian of cyber fortresses.
 In our tech-savvy era, where data breaches and cyber threats lurk around every digital corner, the concept of open source security has emerged as a beacon of hope in the ever-evolving landscape of cybersecurity. It's like having a neighborhood watch program for the internet, where everyone pitches in to keep the virtual streets safe and secure.

@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language IDE?"
 date: 2021-08-25
-permalink: /2021-08-25-what-is-a-programming-language-ide
+permalink: /2021-08-25/what-is-a-programming-language-ide
 ---
 Have you ever marveled at the magic of coding, where lines of text transform into dynamic software applications that power our digital world? Well, behind every line of code lies a powerful ally in the realm of programming – the IDE, short for Integrated Development Environment.
 Imagine IDEs as the Swiss Army knives of the coding universe, equipped with an array of tools and features to simplify the software development journey for tech enthusiasts, developers, and IT professionals alike. From humble beginnings as basic text editors to sophisticated platforms offering advanced functionalities, IDEs have come a long way in revolutionizing the way we write, test, and debug code.

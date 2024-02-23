@@ -1,7 +1,7 @@
 ---
 title: "What is Lean Software Development?"
 date: 2020-09-09
-permalink: /2020-09-09-what-is-lean-software-development
+permalink: /2020-09-09/what-is-lean-software-development
 ---
 Picture this: a world where software development is a well-oiled machine, humming with efficiency, innovation, and customer-centricity. Welcome to the realm of Lean Software Development, a game-changer in the tech industry that's all about working smarter, not harder.
 In our fast-paced digital landscape, where change is the only constant and competition lurks around every corner, Lean Software Development emerges as a beacon of light, guiding tech enthusiasts, developers, and IT professionals towards a path of streamlined processes, enhanced productivity, and delighted customers.

@@ -1,7 +1,7 @@
 ---
 title: "What is V Model in software engineering?"
 date: 2020-11-18
-permalink: /2020-11-18-what-is-v-model-in-software-engineering
+permalink: /2020-11-18/what-is-v-model-in-software-engineering
 ---
 Have you ever embarked on a journey where the destination was as crucial as the path you took to get there? Well, welcome to the world of software engineering, where the V Model stands as a guiding map through the intricate landscape of developing robust and reliable software systems.
 Picture the V Model as your trusty GPS, navigating you through the twists and turns of the software development lifecycle with precision and purpose. For tech enthusiasts, developers, and IT professionals alike, understanding the V Model isn't just about following directions—it's about unlocking the secrets to crafting software that stands the test of time.
