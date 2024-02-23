@@ -1,6 +1,6 @@
 ---
 title: "What is GitOps?"
-date: 2023-01-08
+date: 2023-01-15
 permalink: /what-is-gitops
 ---
 Picture this: a world where software deployment is as smooth as spreading butter on warm toast, where collaboration between tech enthusiasts, developers, and IT professionals flows like a well-conducted symphony. Welcome to the realm of GitOps – a game-changer in modern software development practices that's here to revolutionize the way we approach deployment and management processes.

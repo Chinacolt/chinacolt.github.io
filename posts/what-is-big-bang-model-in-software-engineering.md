@@ -1,6 +1,6 @@
 ---
 title: "What is Big Bang Model in software engineering?"
-date: 2024-02-04
+date: 2024-11-10
 permalink: /what-is-big-bang-model-in-software-engineering
 ---
 Hey there, tech enthusiasts, developers, and IT professionals! Let's dive into the fascinating world of software engineering methodologies, where structured approaches reign supreme and innovation knows no bounds.

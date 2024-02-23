@@ -1,6 +1,6 @@
 ---
 title: "What is Continuous Feedback?"
-date: 2023-12-17
+date: 2024-08-18
 permalink: /what-is-continuous-feedback
 ---
 Imagine being on a rollercoaster ride through the ever-evolving landscape of technology, where twists and turns happen in the blink of an eye. In this fast-paced realm, feedback isn't just a suggestion box; it's the fuel that propels innovation and drives progress. Welcome to the world of Continuous Feedback, where the heartbeat of tech projects syncs with the rhythm of real-time insights.

@@ -1,6 +1,6 @@
 ---
 title: "What is Extreme Programming?"
-date: 2023-11-19
+date: 2024-06-30
 permalink: /what-is-extreme-programming
 ---
 Hey there, tech enthusiasts, developers, and IT professionals! Have you ever felt like software development is a rollercoaster ride with twists and turns at every corner? Well, buckle up because we're about to dive into the thrilling world of Extreme Programming (XP) – the adrenaline-pumping agile methodology that's revolutionizing the tech industry!

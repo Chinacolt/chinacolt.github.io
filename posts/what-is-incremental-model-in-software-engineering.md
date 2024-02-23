@@ -1,6 +1,6 @@
 ---
 title: "What is Incremental Model in software engineering?"
-date: 2023-04-30
+date: 2023-06-11
 permalink: /what-is-incremental-model-in-software-engineering
 ---
 Hey there, tech enthusiasts, developers, and IT aficionados! Have you ever felt like software development is akin to building a skyscraper, where each floor represents a new feature, and every beam must align perfectly to create a masterpiece? Well, welcome to the world of the Incremental Model in software engineering – where we don't just build software; we sculpt it, layer by layer, with precision and adaptability.

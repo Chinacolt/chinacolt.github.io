@@ -1,6 +1,6 @@
 ---
 title: "What is Continuous Testing?"
-date: 2023-02-05
+date: 2023-02-12
 permalink: /what-is-continuous-testing
 ---
 Continuous testing, the unsung hero of the software development world, is like having a personal trainer for your code – pushing it to its limits, ensuring it stays in top shape, and helping it perform at its best. In a digital era where speed and quality reign supreme, continuous testing emerges as the ultimate ally for tech enthusiasts, developers, and IT professionals alike.

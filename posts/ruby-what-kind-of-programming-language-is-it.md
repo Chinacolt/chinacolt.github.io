@@ -1,6 +1,6 @@
 ---
 title: "Ruby: What kind of programming language is it?"
-date: 2024-01-14
+date: 2024-10-20
 permalink: /ruby-what-kind-of-programming-language-is-it
 ---
 Ah, Ruby – the gem of programming languages that sparkles with elegance and charm in the vast landscape of tech tools. Imagine a digital artisan crafting a masterpiece with a palette of vibrant colors and a brush of finesse – that's the essence of Ruby.

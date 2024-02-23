@@ -1,6 +1,6 @@
 ---
 title: "What is containerization?"
-date: 2023-05-07
+date: 2023-06-25
 permalink: /what-is-containerization
 ---
 Picture a world where software development and deployment are as seamless as spreading butter on toast – that's the magic of containerization! If you're a tech enthusiast, developer, or IT pro looking to unravel the mysteries of this game-changing technology, you've come to the right place.

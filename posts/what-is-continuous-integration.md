@@ -1,6 +1,6 @@
 ---
 title: "What is Continuous Integration?"
-date: 2023-01-29
+date: 2023-02-05
 permalink: /what-is-continuous-integration
 ---
 Continuous Integration (CI) – the superhero of the software development world, swooping in to save the day with its cape of efficiency and its shield of collaboration. Picture this: a bustling team of developers, each armed with their coding prowess, working tirelessly to bring a software masterpiece to life. But wait, lurking in the shadows are bugs, integration nightmares, and the dreaded time crunch. Fear not, for Continuous Integration is here to vanquish these foes and pave the way for seamless development adventures!

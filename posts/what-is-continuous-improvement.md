@@ -1,6 +1,6 @@
 ---
 title: "What is Continuous Improvement?"
-date: 2023-11-05
+date: 2024-06-16
 permalink: /what-is-continuous-improvement
 ---
 Picture this: you're in the tech world, navigating through a maze of codes, algorithms, and innovations. It's a fast-paced realm where change is the only constant, and staying ahead of the curve is the name of the game. In this dynamic landscape, one concept reigns supreme – Continuous Improvement.
