@@ -1,7 +1,7 @@
 ---
 title: "AWS: DynamoDB"
-date: 2023-06-23
-permalink: /2023-06-23-aws-dynamodb
+date: 2023-06-30
+permalink: /2023-06-30-aws-dynamodb
 ---
 Picture this: you're in the bustling world of cloud computing, where data reigns supreme and databases are the unsung heroes behind every digital interaction. In this dynamic landscape, one name shines bright like a beacon of innovation – AWS DynamoDB.
 So, what's the buzz all about? Well, DynamoDB isn't just your average database; it's the cool kid on the block, the one that effortlessly scales with your needs, performs like a champion sprinter, and plays well with its cloud buddies in the AWS ecosystem.

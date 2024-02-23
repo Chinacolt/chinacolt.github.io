@@ -1,7 +1,7 @@
 ---
 title: "AWS: ElastiCache"
-date: 2023-06-30
-permalink: /2023-06-30-aws-elasticache
+date: 2023-07-14
+permalink: /2023-07-14-aws-elasticache
 ---
 Are you tired of waiting for slow application responses that feel like watching paint dry? Well, fear not, because AWS ElastiCache is here to turbocharge your cloud computing experience like a shot of espresso for your morning routine!
 Picture this: you're navigating through the digital realm, and suddenly, your app loads at lightning speed, making you feel like you've unlocked a secret level of efficiency. That's the magic of AWS ElastiCache at play, revolutionizing how modern applications harness the power of caching to elevate performance and scalability to new heights.
