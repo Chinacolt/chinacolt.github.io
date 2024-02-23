@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Distribution"
 date: 2019-09-04
-permalink: /2019-09-04/deep-dive-into-the-linux-distribution
+permalink: /deep-dive-into-the-linux-distribution
 ---
 Linux distributions, the colorful palette of the tech world, where each hue paints a unique computing experience. Imagine Linux as a grand buffet, offering a plethora of dishes tailored to suit every palate, from the tech connoisseurs craving innovation to the IT professionals seeking robust solutions. Welcome to the realm where Ubuntu rubs elbows with Fedora, and Debian shares the stage with CentOS, each distro bringing its own flavor to the table.
 In this digital symphony of operating systems, Linux distributions stand as the maestros orchestrating a harmonious blend of performance, customization, and community collaboration. As we embark on this deep dive into the Linux ocean, we'll navigate through the waves of diversity, surf the currents of evolution, and dive into the depths of customization that define the Linux experience.

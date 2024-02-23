@@ -1,7 +1,7 @@
 ---
 title: "What is a TFTP?"
 date: 2020-12-16
-permalink: /2020-12-16/what-is-a-tftp
+permalink: /what-is-a-tftp
 ---
 Picture this: you're in the fast-paced world of IT, where every second counts and every file transfer matters. In this digital dance of data, there's a silent hero that goes by the name of TFTP – the Trivial File Transfer Protocol. Now, before you start picturing a caped crusader fighting off cyber villains, let's unravel the mystery behind this unsung tech protagonist.
 TFTP isn't just another acronym in the vast sea of tech jargon; it's the unsung hero of file transfers, the swift messenger of bytes, and the minimalist marvel of network protocols. In a world where complexity often reigns supreme, TFTP stands out for its simplicity and efficiency, like a sleek sports car effortlessly maneuvering through rush-hour traffic.

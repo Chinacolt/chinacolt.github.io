@@ -1,7 +1,7 @@
 ---
 title: "Memcached: The In-Memory Database for Web"
 date: 2020-05-20
-permalink: /2020-05-20/memcached-the-in-memory-database-for-web
+permalink: /memcached-the-in-memory-database-for-web
 ---
 Are you tired of waiting for your web applications to load at a snail's pace? Do you dream of a magical solution that can turbocharge your website's performance and scalability? Well, look no further because Memcached is here to save the day!
 Imagine Memcached as the superhero of in-memory databases, swooping in to rescue your web applications from the clutches of sluggish response times and database overload. This nifty tool is like having a lightning-fast memory bank at your disposal, ready to serve up data at the speed of light.

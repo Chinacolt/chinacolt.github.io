@@ -1,7 +1,7 @@
 ---
 title: "Slackware: The Oldest Linux Distribution"
 date: 2019-11-27
-permalink: /2019-11-27/slackware-the-oldest-linux-distribution
+permalink: /slackware-the-oldest-linux-distribution
 ---
 Ah, the world of Linux distributions—a vast universe where tech enthusiasts, developers, and IT professionals embark on a journey of exploration and innovation. And in this ever-evolving landscape, one distribution stands as a timeless beacon of simplicity, stability, and technical prowess: Slackware.
 Picture Slackware as the wise elder in the Linux family tree, its roots stretching back to the dawn of open-source software development. Like a vintage wine that only gets better with age, Slackware has not just survived but thrived, earning its stripes as the oldest Linux distribution in existence.

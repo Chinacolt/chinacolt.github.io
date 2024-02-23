@@ -1,7 +1,7 @@
 ---
 title: "ArangoDB: The Multi-Model Database"
 date: 2020-06-03
-permalink: /2020-06-03/arangodb-the-multi-model-database
+permalink: /arangodb-the-multi-model-database
 ---
 Hey there, tech enthusiasts, developers, and IT aficionados! Let's dive into the fascinating realm of multi-model databases, where data flexibility meets innovation in the form of ArangoDB. Picture this: in a world where data reigns supreme, the ability to adapt to diverse data types seamlessly is like having a wardrobe that effortlessly transitions from a business suit to casual wear without missing a beat.
 Imagine your traditional database as a rigid, one-size-fits-all outfit struggling to keep up with the ever-changing fashion trends of data structures. Now, enter multi-model databases, the chameleons of the database world, capable of donning various data models with flair and finesse. As the demand for flexible database solutions skyrockets in our data-driven landscape, the spotlight shines on multi-model databases like ArangoDB, stealing the show with its versatility and adaptability.

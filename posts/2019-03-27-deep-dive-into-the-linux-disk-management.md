@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Disk Management"
 date: 2019-03-27
-permalink: /2019-03-27/deep-dive-into-the-linux-disk-management
+permalink: /deep-dive-into-the-linux-disk-management
 ---
 Have you ever felt like your Linux system's storage is a labyrinth of mystery, where finding that one file is like searching for a needle in a haystack? Fear not, fellow tech enthusiasts, developers, and IT professionals, for we are about to embark on an epic journey into the depths of Linux disk management!
 Picture this: your Linux system is a bustling metropolis of data, with files and directories bustling about like busy commuters on a Monday morning. Now, imagine yourself as the master city planner, tasked with ensuring smooth traffic flow, efficient resource allocation, and optimal performance within this digital landscape. That's where effective disk management strategies come into play – they are the blueprint that guides you in organizing, optimizing, and maintaining order in your storage city.

@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Boot Process"
 date: 2019-04-03
-permalink: /2019-04-03/deep-dive-into-the-linux-boot-process
+permalink: /deep-dive-into-the-linux-boot-process
 ---
 Have you ever pondered over the intricate dance that unfolds behind the scenes when you power up your Linux system? The Linux boot process, often shrouded in mystery, is like a well-choreographed ballet where each step plays a crucial role in setting the stage for a flawless performance. In this blog post, we are going to unravel the enigma of Linux booting, taking you on a journey through the inner workings of your beloved operating system.
 Understanding the Linux boot process isn't just a technical feat reserved for the elite; it's a gateway to a realm of endless possibilities for tech enthusiasts, developers, and IT professionals alike. Imagine it as the backstage pass to a concert – knowing how the show comes together not only enhances your appreciation but also equips you to troubleshoot when the unexpected guitar solo throws off the rhythm.

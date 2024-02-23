@@ -1,7 +1,7 @@
 ---
 title: "What is a Web Server?"
 date: 2020-08-12
-permalink: /2020-08-12/what-is-a-web-server
+permalink: /what-is-a-web-server
 ---
 Have you ever wondered about the digital architects that silently power the websites we visit every day? Picture web servers as the unsung heroes of the internet realm, diligently working behind the scenes to ensure seamless connectivity and content delivery. In this blog post, we embark on a fascinating journey through the intricate world of web servers, unraveling their evolution, significance, and key concepts that shape the digital landscape we navigate.
 Imagine web servers as the bustling post offices of the internet, efficiently sorting and dispatching data packets to their designated online destinations. From humble beginnings as basic data carriers to the sophisticated systems orchestrating complex online services today, web servers have undergone a remarkable evolution, adapting to meet the ever-growing demands of the digital age.

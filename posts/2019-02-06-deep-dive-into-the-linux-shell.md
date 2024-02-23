@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Shell"
 date: 2019-02-06
-permalink: /2019-02-06/deep-dive-into-the-linux-shell
+permalink: /deep-dive-into-the-linux-shell
 ---
 Ah, the Linux shell – the command-line maestro of the tech world, beckoning us with its cryptic charm and limitless power. Imagine it as the conductor of a grand symphony, orchestrating a harmonious dance between users and the intricate machinery of the operating system.
 In this digital realm where keystrokes wield more influence than a magician's wand, understanding the Linux shell is akin to unlocking a treasure trove of possibilities for tech enthusiasts, developers, and IT professionals alike. It's not just a tool; it's a gateway to efficiency, automation, and mastery in the realm of system administration.

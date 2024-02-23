@@ -1,7 +1,7 @@
 ---
 title: "SQLite: The Embedded RDBMS"
 date: 2020-04-15
-permalink: /2020-04-15/sqlite-the-embedded-rdbms
+permalink: /sqlite-the-embedded-rdbms
 ---
 Are you tired of bulky, cumbersome database solutions that feel like dragging a ball and chain wherever you go in the tech world? Well, fear not, because SQLite is here to save the day! Picture SQLite as the Swiss Army knife of embedded databases – compact, versatile, and always ready to tackle your data storage needs with finesse.
 Let's kick things off by diving into the fascinating world of SQLite, a powerhouse in the realm of embedded RDBMS that has captured the hearts of tech enthusiasts, developers, and IT professionals alike. What makes SQLite stand out in a sea of database options? Well, for starters, it's like having a trusty sidekick that never lets you down – reliable, efficient, and always there when you need it.

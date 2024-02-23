@@ -1,7 +1,7 @@
 ---
 title: "What is a File Server?"
 date: 2020-09-23
-permalink: /2020-09-23/what-is-a-file-server
+permalink: /what-is-a-file-server
 ---
 Ah, file servers – the unsung heroes of the digital realm, quietly storing and sharing our precious data like diligent librarians in the vast library of cyberspace. Welcome to a deep dive into the world of file servers, where bytes roam free and folders find their cozy digital abodes.
 Picture this: you're at a bustling tech conference, surrounded by a sea of screens and the hum of servers in the background. In the midst of this digital symphony, file servers stand tall, orchestrating the seamless flow of information like maestros conducting a symphony. They are the backstage crew that keeps the show running smoothly, ensuring that every data request finds its way home.

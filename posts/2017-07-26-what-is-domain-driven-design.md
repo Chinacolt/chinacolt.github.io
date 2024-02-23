@@ -1,7 +1,7 @@
 ---
 title: "What is Domain Driven Design?"
 date: 2017-07-26
-permalink: /2017-07-26/what-is-domain-driven-design
+permalink: /what-is-domain-driven-design
 ---
 Have you ever felt like a detective unraveling the mysteries of a complex software system? Well, welcome to the world of Domain Driven Design (DDD), where developers don their investigative hats and dive deep into the intricate realms of software architecture. Imagine DDD as your trusty magnifying glass, helping you zoom in on the crucial details of your project's domain, much like Sherlock Holmes scrutinizing a crime scene for clues.
 In this blog post, we embark on a thrilling journey through the key concepts of Domain Driven Design, a methodology that serves as the compass guiding tech enthusiasts, developers, and IT professionals in navigating the treacherous waters of modern software development. Picture bounded contexts as the geographical borders of your domain, each with its unique language and rules, akin to different countries on a map. These contexts ensure that your software components stay in their lanes, preventing chaos and confusion from seeping into your codebase.

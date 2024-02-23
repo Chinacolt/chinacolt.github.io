@@ -1,7 +1,7 @@
 ---
 title: "Mercurial: What is it and how to use it?"
 date: 2018-10-31
-permalink: /2018-10-31/mercurial-what-is-it-and-how-to-use-it
+permalink: /mercurial-what-is-it-and-how-to-use-it
 ---
 Imagine embarking on a coding journey without a map to guide you through the intricate maze of software development. Picture yourself lost in a sea of code changes, struggling to track alterations, collaborate effectively with your team, and manage the evolving landscape of your project. Sounds like a developer's nightmare, right?
 Well, fear not, for in the realm of software development, there exists a beacon of hope, a guiding light amidst the chaos – version control systems. These ingenious tools serve as the guardians of code integrity, the maestros of collaboration, and the architects of efficient development processes. They are the unsung heroes behind every successful software project, ensuring order in the midst of complexity and harmony in the face of chaos.

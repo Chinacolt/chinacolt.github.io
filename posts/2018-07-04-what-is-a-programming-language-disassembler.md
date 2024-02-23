@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language disassembler?"
 date: 2018-07-04
-permalink: /2018-07-04/what-is-a-programming-language-disassembler
+permalink: /what-is-a-programming-language-disassembler
 ---
 Have you ever tried to decipher a secret code or unravel a complex puzzle? Imagine being a digital detective, peeling back the layers of software to reveal its hidden secrets. Welcome to the intriguing world of programming language disassemblers – the Sherlock Holmes of the tech realm, unraveling the mysteries of machine code and binary instructions.
 In this blog post, we embark on a thrilling journey into the realm of programming language disassemblers, those unsung heroes of software development and cybersecurity. Picture them as the translators of the digital world, converting cryptic machine code into a language we humans can understand, opening doors to a realm of possibilities and discoveries.

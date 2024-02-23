@@ -1,7 +1,7 @@
 ---
 title: "What is DataOps?"
 date: 2017-04-26
-permalink: /2017-04-26/what-is-dataops
+permalink: /what-is-dataops
 ---
 Are you tired of drowning in a sea of data chaos, desperately clinging to outdated data management practices like a shipwreck survivor holding onto driftwood? Well, fear not, because DataOps is here to rescue you from the treacherous waters of traditional data management!
 Picture this: you're navigating through a labyrinth of spreadsheets, databases, and data silos, feeling like a lost explorer in a dense jungle with no map or compass. The challenges of managing data in today's fast-paced tech landscape can be overwhelming, with bottlenecks and inefficiencies lurking around every corner.

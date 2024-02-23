@@ -1,7 +1,7 @@
 ---
 title: "What is a Web Application Firewall?"
 date: 2020-09-09
-permalink: /2020-09-09/what-is-a-web-application-firewall
+permalink: /what-is-a-web-application-firewall
 ---
 In a world where cyber threats lurk around every digital corner, safeguarding your online assets has become more critical than ever. Imagine your web applications as prized possessions in a virtual realm, constantly under siege by cunning adversaries seeking to breach their defenses. This is where our digital knights in shining armor, the Web Application Firewalls (WAFs), come into play.
 Picture WAFs as the vigilant guardians of your virtual kingdom, standing watch at the gates of your web applications, ready to repel any malicious intruders attempting to exploit vulnerabilities. Just like a trusty moat surrounding a medieval castle, WAFs create a protective barrier that shields your online assets from a barrage of cyber threats.

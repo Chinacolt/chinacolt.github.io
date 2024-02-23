@@ -1,7 +1,7 @@
 ---
 title: "What is a Cache Server?"
 date: 2020-09-02
-permalink: /2020-09-02/what-is-a-cache-server
+permalink: /what-is-a-cache-server
 ---
 Ah, the mystical world of cache servers – where data dances at the speed of light and latency dares not linger! Picture this: you're at a bustling library, searching for your favorite book. Instead of trekking through endless aisles each time, wouldn't it be fantastic if a magical librarian handed it to you in a blink? That's precisely what cache servers do in the digital realm – they store frequently accessed data like that beloved book, ready to whisk it to you at a moment's notice.
 In our tech-savvy universe, understanding cache mechanisms is akin to discovering the secret sauce behind turbocharged data retrieval. From memory caching's lightning-fast access to disk caching's steadfast storage prowess, these techniques are the unsung heroes boosting system performance and efficiency. Think of cache invalidation and expiration policies as the gatekeepers of this digital library, ensuring that outdated data doesn't sneak past, maintaining order and accuracy within the cache server kingdom.

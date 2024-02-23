@@ -1,7 +1,7 @@
 ---
 title: "What is a Reverse Proxy?"
 date: 2020-08-19
-permalink: /2020-08-19/what-is-a-reverse-proxy
+permalink: /what-is-a-reverse-proxy
 ---
 Have you ever imagined having a trusty sidekick in the digital realm, one that stands between you and the chaos of the internet, shielding you from cyber threats and optimizing your online experience? Well, in the world of IT wizardry, such a sidekick exists, and it goes by the name of a reverse proxy.
 Picture this: you're the VIP guest at a fancy restaurant, and the reverse proxy is your savvy concierge, meticulously filtering out unwanted guests (a.k.a. malicious traffic) and ensuring that only the crème de la crème (legitimate requests) get through to the kitchen (backend servers). It's like having a bouncer for your digital doorway, keeping the riff-raff at bay while orchestrating a seamless flow of information.

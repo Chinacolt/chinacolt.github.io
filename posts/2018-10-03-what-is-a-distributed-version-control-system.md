@@ -1,7 +1,7 @@
 ---
 title: "What is a distributed version control system?"
 date: 2018-10-03
-permalink: /2018-10-03/what-is-a-distributed-version-control-system
+permalink: /what-is-a-distributed-version-control-system
 ---
 Imagine a world where software development is akin to a grand symphony, with developers harmonizing their code contributions seamlessly, creating a masterpiece of innovation. Welcome to the realm of Distributed Version Control Systems (DVCS), the conductor orchestrating this melodious collaboration among tech enthusiasts, developers, and IT professionals.
 In this digital age, where the rhythm of technology never misses a beat, understanding the essence of DVCS is akin to grasping the conductor's baton in this symphony of code. Picture DVCS as the maestro guiding developers through a musical journey of efficient collaboration and code management, where each note of code plays a crucial role in the composition of a software masterpiece.

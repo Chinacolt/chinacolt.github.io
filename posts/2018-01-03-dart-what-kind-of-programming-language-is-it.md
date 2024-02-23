@@ -1,7 +1,7 @@
 ---
 title: "Dart: What kind of programming language is it?"
 date: 2018-01-03
-permalink: /2018-01-03/dart-what-kind-of-programming-language-is-it
+permalink: /dart-what-kind-of-programming-language-is-it
 ---
 Ah, Dart – the programming language that's as versatile as a Swiss Army knife in the world of tech! Picture this: you're embarking on a coding adventure, and Dart is your trusty companion, ready to tackle any challenge that comes your way.
 In this blog post, we're diving deep into the realm of Dart to uncover its hidden treasures and unravel the mysteries that make it a standout star in the programming galaxy. So, buckle up, fellow tech enthusiasts, developers, and IT professionals, as we embark on a journey to explore the wonders of Dart!

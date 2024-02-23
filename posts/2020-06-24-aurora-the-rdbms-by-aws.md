@@ -1,7 +1,7 @@
 ---
 title: "Aurora: The RDBMS by AWS"
 date: 2020-06-24
-permalink: /2020-06-24/aurora-the-rdbms-by-aws
+permalink: /aurora-the-rdbms-by-aws
 ---
 Picture this: a world where managing databases is not just a chore but a delightful dance of efficiency and innovation. Welcome to the realm of Aurora, Amazon Web Services' (AWS) crown jewel in the realm of relational database management systems (RDBMS).
 In a tech landscape brimming with options, Aurora shines like a beacon of hope for developers and IT professionals alike. Its architecture is not just a blueprint; it's a symphony of performance and scalability, finely tuned to cater to the ever-evolving needs of the digital age.

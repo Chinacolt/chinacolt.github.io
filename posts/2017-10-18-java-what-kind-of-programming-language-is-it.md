@@ -1,7 +1,7 @@
 ---
 title: "Java: What kind of programming language is it?"
 date: 2017-10-18
-permalink: /2017-10-18/java-what-kind-of-programming-language-is-it
+permalink: /java-what-kind-of-programming-language-is-it
 ---
 Java, the powerhouse of programming languages, is not just a cup of coffee; it's a robust blend of versatility, security, and cross-platform compatibility that has brewed a revolution in the tech world. Imagine a language that emerged from the depths of Sun Microsystems, not as a mere code but as a vision to transcend the limitations of traditional programming paradigms. Java's journey is akin to a phoenix rising from the ashes of early challenges, spreading its wings to dominate the programming landscape with unparalleled resilience and innovation.
 What sets Java apart from the myriad of programming languages out there? Well, it's like having a Swiss Army knife in your coding arsenal – equipped with a robust security model, automatic memory management, and a rich standard library that caters to every developer's needs. Java's object-oriented nature is like a well-orchestrated symphony, where real-world entities harmonize as objects, promoting code reusability and maintainability with finesse. And let's not forget its cross-platform compatibility, a magical cloak that allows applications to transcend boundaries and dance seamlessly across different environments like a digital nomad.

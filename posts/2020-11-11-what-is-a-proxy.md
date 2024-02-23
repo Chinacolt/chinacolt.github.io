@@ -1,7 +1,7 @@
 ---
 title: "What is a Proxy?"
 date: 2020-11-11
-permalink: /2020-11-11/what-is-a-proxy
+permalink: /what-is-a-proxy
 ---
 Have you ever felt like a digital ninja, stealthily maneuvering through the vast expanse of the internet, evading prying eyes and accessing restricted realms with finesse? Well, my tech-savvy comrades, if you resonate with this clandestine quest for online anonymity and prowess, then the world of proxies is your ultimate arsenal!
 Picture this: you're on a quest for hidden treasures in the digital realm, but the path is fraught with obstacles and adversaries seeking to unveil your true identity. Enter proxies, your trusty companions in this cyber adventure. These digital chameleons cloak your online presence, masking your footsteps and diverting your digital trail through secret passages known only to the initiated.

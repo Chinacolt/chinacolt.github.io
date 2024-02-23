@@ -1,7 +1,7 @@
 ---
 title: "SQL vs NoSQL discussion based on PostgreSQL and MongoDB"
 date: 2020-08-05
-permalink: /2020-08-05/sql-vs-nosql-discussion-based-on-postgresql-and-mongodb
+permalink: /sql-vs-nosql-discussion-based-on-postgresql-and-mongodb
 ---
 Ah, the age-old debate of SQL versus NoSQL databases – a tech enthusiast's playground where structured tables clash with schema-less documents in a battle for data supremacy. Picture SQL databases as meticulous librarians meticulously categorizing books by genre, author, and publication date, while NoSQL databases resemble free-spirited artists painting on a blank canvas, embracing the chaos of creativity.
 Today, we shine the spotlight on two heavyweight contenders in this database duel: PostgreSQL and MongoDB. In the left corner, we have PostgreSQL, the seasoned veteran known for its robust relational model and unwavering ACID compliance. On the right, MongoDB enters the ring with its document-oriented approach and scalability prowess, ready to shake up the database landscape.

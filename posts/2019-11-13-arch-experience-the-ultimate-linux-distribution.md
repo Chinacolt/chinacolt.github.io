@@ -1,7 +1,7 @@
 ---
 title: "Arch: Experience the Ultimate Linux Distribution"
 date: 2019-11-13
-permalink: /2019-11-13/arch-experience-the-ultimate-linux-distribution
+permalink: /arch-experience-the-ultimate-linux-distribution
 ---
 Ah, Arch Linux – the holy grail of Linux distributions, where simplicity meets customization in a harmonious dance of tech wizardry. Picture this: a digital playground where you're the master architect, sculpting your operating system with the precision of a sculptor chiseling marble. Welcome to the world of Arch, where every line of code is a brushstroke on the canvas of your digital domain.
 Let's rewind the clock back to 2002 when Judd Vinet laid the cornerstone of Arch Linux, a minimalist marvel that defied the norms of traditional distros. Think of Arch as a sleek sports car – no unnecessary frills, just raw power under the hood. Its rolling release model ensures you're always cruising on the latest software highway, leaving outdated systems in the dust.

@@ -1,7 +1,7 @@
 ---
 title: "What is Scrum?"
 date: 2017-06-07
-permalink: /2017-06-07/what-is-scrum
+permalink: /what-is-scrum
 ---
 Hey there, tech enthusiasts, developers, and IT professionals! Buckle up as we dive into the dynamic world of Scrum – the superhero of project management frameworks in the tech realm. Imagine Scrum as the conductor of a symphony orchestra, harmonizing the diverse talents of individual musicians to create a masterpiece that dazzles the audience.
 In this blog post, we're embarking on an exhilarating journey through the realms of Scrum, uncovering its origins, evolution, and the magic it weaves in the tech industry. Picture a time machine whisking us back to the birth of Scrum, where it emerged from the ashes of traditional project management like a phoenix, embracing agility and adaptability as its superpowers.

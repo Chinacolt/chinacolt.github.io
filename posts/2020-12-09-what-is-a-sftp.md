@@ -1,7 +1,7 @@
 ---
 title: "What is a SFTP?"
 date: 2020-12-09
-permalink: /2020-12-09/what-is-a-sftp
+permalink: /what-is-a-sftp
 ---
 Are you tired of sending files into the digital abyss, hoping they reach their destination unscathed? Do you find yourself navigating the treacherous waters of unsecured file transfers, fearing for the safety of your data? Well, fear not, for in the realm of technology, a shining beacon of hope exists – Secure File Transfer Protocol, or as we fondly call it, SFTP.
 Picture this: you're a digital courier, entrusted with delivering precious cargo across the vast expanse of the internet. Your mission? To ensure that your files reach their intended recipients unharmed, untouched by the lurking dangers of cyber threats. Enter SFTP, your trusty steed in this perilous journey, equipped with the armor of encryption and the sword of secure authentication.

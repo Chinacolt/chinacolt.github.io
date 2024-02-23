@@ -1,7 +1,7 @@
 ---
 title: "What is a HTTP?"
 date: 2020-12-23
-permalink: /2020-12-23/what-is-a-http
+permalink: /what-is-a-http
 ---
 Have you ever wondered about the invisible threads that weave the fabric of the internet together, allowing us to seamlessly navigate the vast digital landscape with just a click? Enter HTTP, the unsung hero of web communication, the digital courier that ensures your data reaches its destination safely and swiftly.
 Picture HTTP as the diligent postal worker of the internet, tirelessly shuttling packets of information between your device and the servers that house the websites you visit. It's the language of the web, the code that speaks volumes without uttering a single word, connecting clients and servers in a harmonious symphony of data exchange.

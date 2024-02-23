@@ -1,7 +1,7 @@
 ---
 title: "What is a DNS?"
 date: 2020-10-07
-permalink: /2020-10-07/what-is-a-dns
+permalink: /what-is-a-dns
 ---
 In the vast expanse of the digital universe, where bytes dance and packets pirouette, there exists a silent hero, often overlooked yet ever so crucial – the Domain Name System, or as we fondly call it, DNS. Picture DNS as the postal service of the internet, diligently translating the friendly names we type into our browsers into the cryptic language of IP addresses, ensuring that our online adventures flow seamlessly without a hitch.
 Now, you might be wondering, "What's the big deal about DNS anyway?" Well, dear reader, let me paint you a picture. Imagine you're at a bustling airport, trying to catch a flight to your dream destination. Without the right boarding pass (IP address) in hand, you'd be lost in a sea of gates and terminals. That's where DNS swoops in like a trusty travel agent, guiding your digital footsteps to the correct online terminal with precision and speed.

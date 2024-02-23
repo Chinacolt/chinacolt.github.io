@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: IPC"
 date: 2019-04-24
-permalink: /2019-04-24/deep-dive-into-the-linux-ipc
+permalink: /deep-dive-into-the-linux-ipc
 ---
 Ah, Linux – the land of endless possibilities, where processes dance the intricate tango of communication and data exchange through the enchanting realm of Inter-Process Communication (IPC). Picture IPC as the bustling marketplace where processes gather to barter information, share resources, and synchronize their activities in a harmonious symphony of multitasking marvels.
 In this Linux saga, IPC reigns supreme, wielding its magic wand to enhance the efficiency and functionality of process interactions within the operating system. Think of IPC as the conductor orchestrating a seamless dialogue between processes, enabling them to collaborate like a well-oiled machine, sharing the workload and synchronizing their steps to the beat of system performance.

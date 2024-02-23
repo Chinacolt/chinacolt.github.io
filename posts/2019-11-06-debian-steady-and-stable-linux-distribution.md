@@ -1,7 +1,7 @@
 ---
 title: "Debian: Steady and Stable Linux Distribution"
 date: 2019-11-06
-permalink: /2019-11-06/debian-steady-and-stable-linux-distribution
+permalink: /debian-steady-and-stable-linux-distribution
 ---
 Ah, Debian – the unsung hero of the Linux world, quietly humming in the background while other distributions grab the spotlight with their flashy features and trendy interfaces. But don't be fooled by Debian's unassuming demeanor; beneath its unpretentious surface lies a powerhouse of stability, reliability, and unwavering commitment to the principles of open-source software.
 Picture Debian as the wise old oak tree in a bustling forest of Linux distributions – steadfast, deeply rooted, and weathering the storms of technological evolution with grace. Its key features read like a love letter to all things dependable: a treasure trove of free software, an expansive package repository that rivals Mary Poppins' bottomless bag, and a security fortress so impenetrable that even hackers pause to admire its defenses.

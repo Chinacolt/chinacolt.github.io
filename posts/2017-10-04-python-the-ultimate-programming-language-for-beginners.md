@@ -1,7 +1,7 @@
 ---
 title: "Python: The Ultimate Programming Language for Beginners"
 date: 2017-10-04
-permalink: /2017-10-04/python-the-ultimate-programming-language-for-beginners
+permalink: /python-the-ultimate-programming-language-for-beginners
 ---
 Ah, Python – the programming language that's as versatile as a Swiss Army knife and as user-friendly as a golden retriever greeting you at the door. If you're dipping your toes into the vast ocean of coding for the first time, Python is your trusty lifeboat, ready to sail you through the choppy waters of programming with ease and a touch of whimsy.
 Picture Python as your favorite superhero sidekick, always there to lend a helping hand and make your coding adventures a breeze. Its clean syntax is like a well-organized toolbox, where every tool has its place, making it a joy to work with – no more rummaging through a messy garage of confusing symbols and cryptic commands.

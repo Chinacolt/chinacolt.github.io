@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language installer?"
 date: 2018-09-12
-permalink: /2018-09-12/what-is-a-programming-language-installer
+permalink: /what-is-a-programming-language-installer
 ---
 Have you ever pondered the intricate dance of ones and zeros that powers the digital realm we inhabit today? Well, dear tech enthusiasts, developers, and IT aficionados, fasten your seatbelts as we embark on a riveting journey through the captivating world of programming language installers.
 Picture this: programming languages, the building blocks of software sorcery, have evolved over time like a fine wine maturing in the digital cellar of innovation. From the humble beginnings of early programming languages with their cryptic syntax to the sophisticated paradigms of modern coding marvels, the evolution of programming languages is akin to a grand symphony, each note harmonizing to create the digital symphony we revel in today.

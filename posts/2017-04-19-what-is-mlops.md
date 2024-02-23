@@ -1,7 +1,7 @@
 ---
 title: "What is MLOps?"
 date: 2017-04-19
-permalink: /2017-04-19/what-is-mlops
+permalink: /what-is-mlops
 ---
 Have you ever felt like managing machine learning models is akin to herding cats in a room full of yarn? Well, fear not, because MLOps is here to untangle the complexities and streamline the chaos! In this digital age where AI and machine learning reign supreme, the orchestra of MLOps plays a crucial symphony in ensuring that these cutting-edge technologies perform at their peak.
 Picture this: you're a conductor leading a grand orchestra of data scientists, ML engineers, and IT wizards, each playing their part to harmonize the deployment and maintenance of machine learning models. MLOps is the baton that orchestrates this ensemble, weaving together automation and collaboration to create a masterpiece of efficiency and innovation.

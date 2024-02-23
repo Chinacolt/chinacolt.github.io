@@ -1,7 +1,7 @@
 ---
 title: "Rust: What kind of programming language is it?"
 date: 2017-12-20
-permalink: /2017-12-20/rust-what-kind-of-programming-language-is-it
+permalink: /rust-what-kind-of-programming-language-is-it
 ---
 Have you ever stumbled upon a hidden gem in the vast landscape of programming languages? Well, let me introduce you to Rust – the rising star that's been quietly making waves in the tech realm. Picture Rust as the cool kid at the coding block party, turning heads with its sleek syntax and robust performance capabilities.
 In the ever-evolving world of software development, Rust has emerged as a game-changer, challenging traditional norms and redefining the way developers approach coding. Its significance goes beyond just lines of code; it's a symbol of innovation and efficiency in a sea of programming languages.

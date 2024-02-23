@@ -1,7 +1,7 @@
 ---
 title: "Oracle vs PostgreSQL: Which one to choose?"
 date: 2020-07-08
-permalink: /2020-07-08/oracle-vs-postgresql-which-one-to-choose
+permalink: /oracle-vs-postgresql-which-one-to-choose
 ---
 Are you ready to dive into the world of databases and unravel the age-old debate of Oracle versus PostgreSQL? Picture this: you're at a tech crossroads, pondering which database system will be your trusty companion on the digital highway. Will you ride the sleek, high-performance Oracle stallion, or opt for the reliable, community-driven PostgreSQL wagon?
 Let's start our journey by introducing our contenders. In the left corner, we have Oracle, the heavyweight champion of proprietary databases, flaunting its robust features, scalability prowess, and a price tag that could make even a CFO break a sweat. On the right, PostgreSQL stands tall as the open-source underdog, armed with reliability, extensibility, and a legion of community supporters who are as passionate about databases as your grandma is about her secret apple pie recipe.

@@ -1,7 +1,7 @@
 ---
 title: "PHP: What kind of programming language is it?"
 date: 2017-11-15
-permalink: /2017-11-15/php-what-kind-of-programming-language-is-it
+permalink: /php-what-kind-of-programming-language-is-it
 ---
 Ah, PHP – the unsung hero of the tech world, the programming language that weaves magic behind the scenes of countless websites and applications. If the digital realm were a bustling kitchen, PHP would be the master chef orchestrating a symphony of flavors to create delectable web experiences.
 Picture this: you're at a bustling tech fair, surrounded by a myriad of programming languages vying for attention. In the midst of the chaos stands PHP, confidently flaunting its versatility and prowess like a seasoned performer stealing the show. Its roots trace back to the mid-1990s when Rasmus Lerdorf, the visionary behind PHP, crafted it as a humble set of tools to manage his personal website. Little did he know that his creation would evolve into a powerhouse driving the web development landscape.

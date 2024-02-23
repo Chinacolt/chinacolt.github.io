@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Security Tools"
 date: 2019-07-03
-permalink: /2019-07-03/deep-dive-into-the-linux-security-tools
+permalink: /deep-dive-into-the-linux-security-tools
 ---
 In the vast digital landscape of today, where data is the new gold and cyber threats lurk around every virtual corner, safeguarding sensitive information has become paramount. Imagine your Linux system as a fortress, with security tools as the vigilant guards standing watch, ready to fend off any unauthorized intruders attempting to breach its walls.
 For tech enthusiasts, developers, and IT professionals navigating the intricate realm of Linux, these security tools serve as the shield that protects valuable data and upholds the integrity of systems. Just like a skilled locksmith secures a treasure trove, these tools ensure that only authorized personnel can access the digital riches stored within the Linux environment.

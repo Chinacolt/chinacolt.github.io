@@ -1,7 +1,7 @@
 ---
 title: "Redis vs Memcached: Which one to choose?"
 date: 2020-07-29
-permalink: /2020-07-29/redis-vs-memcached-which-one-to-choose
+permalink: /redis-vs-memcached-which-one-to-choose
 ---
 Are you tired of your applications feeling slower than a snail on a coffee break? Well, fear not, because today we're diving headfirst into the exhilarating world of caching technologies with a showdown between two heavyweight champions: Redis and Memcached.
 Picture this: you're at a bustling buffet, and the key to a satisfying meal lies in how quickly you can grab your favorite dishes. Similarly, in the realm of IT, Redis and Memcached act as the speedy servers at this buffet, serving up data morsels at lightning speed to keep your applications running smoothly and efficiently.

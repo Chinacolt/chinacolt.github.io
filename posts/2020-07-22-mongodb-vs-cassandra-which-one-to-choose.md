@@ -1,7 +1,7 @@
 ---
 title: "MongoDB vs Cassandra: Which one to choose?"
 date: 2020-07-22
-permalink: /2020-07-22/mongodb-vs-cassandra-which-one-to-choose
+permalink: /mongodb-vs-cassandra-which-one-to-choose
 ---
 Hey there, tech enthusiasts, developers, and IT aficionados! Today, we're diving into the exciting realm of databases to unravel the age-old debate: MongoDB vs. Cassandra. It's like choosing between a sleek sports car and a rugged off-road vehicle – both have their strengths, but which one will take you on the smoothest ride through the data landscape?
 First up, let's rev our engines with MongoDB. Picture MongoDB as a versatile artist, painting your data in vibrant colors of flexibility and scalability. With its document-oriented approach, MongoDB lets you mold your data like clay, adapting to your application's evolving needs with ease. It's like having a canvas that grows with your imagination, allowing you to create masterpieces of information architecture.

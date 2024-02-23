@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: SELinux"
 date: 2019-05-29
-permalink: /2019-05-29/deep-dive-into-the-linux-selinux
+permalink: /deep-dive-into-the-linux-selinux
 ---
 Are you ready to embark on a thrilling journey into the depths of Linux security? Buckle up, tech enthusiasts, developers, and IT professionals, as we dive headfirst into the fascinating realm of SELinux – the guardian angel of Linux systems!
 Picture SELinux as the vigilant gatekeeper of your digital fortress, tirelessly patrolling the virtual corridors to ensure that only the rightful users and processes gain access. In a world rife with cyber threats and malicious actors, SELinux stands as a stalwart protector, wielding the power of mandatory access controls to fortify your system against unauthorized intrusions.

@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language linter?"
 date: 2018-07-25
-permalink: /2018-07-25/what-is-a-programming-language-linter
+permalink: /what-is-a-programming-language-linter
 ---
 Have you ever felt like a detective, scouring through lines of code in search of elusive bugs and inconsistencies? Well, fear not, for in the world of programming, there exists a trusty sidekick known as a linter – the Sherlock Holmes of the coding realm, here to assist developers in their quest for pristine, error-free code.
 Picture this: you're embarking on a coding adventure, crafting lines of code like pieces of a complex puzzle. But amidst the thrill of creation lurk hidden traps – syntax errors, stylistic blunders, and the dreaded technical debt monster waiting to pounce. This is where our hero, the programming language linter, steps in to save the day.

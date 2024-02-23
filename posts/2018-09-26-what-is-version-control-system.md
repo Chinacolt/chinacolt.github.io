@@ -1,7 +1,7 @@
 ---
 title: "What is version control system?"
 date: 2018-09-26
-permalink: /2018-09-26/what-is-version-control-system
+permalink: /what-is-version-control-system
 ---
 Version control systems – the unsung heroes of the tech world, the silent guardians of code integrity, the trusty companions of developers worldwide. Imagine a world without version control systems; it would be like trying to bake a cake blindfolded – messy, chaotic, and likely to end in disaster.
 From the humble beginnings of manual code management to the sophisticated tools we have today, version control systems have undergone a remarkable evolution, akin to a caterpillar transforming into a butterfly. They have revolutionized the way software projects are handled, turning what was once a tangled web of changes into a well-orchestrated symphony of collaboration.

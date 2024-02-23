@@ -1,7 +1,7 @@
 ---
 title: "What is a Mail Server?"
 date: 2020-09-30
-permalink: /2020-09-30/what-is-a-mail-server
+permalink: /what-is-a-mail-server
 ---
 Picture this: you hit "send" on an email, and like magic, it zips through the digital realm, reaching its destination in a matter of seconds. Ever wondered about the wizard behind this seamless communication spell? Enter the unsung hero of the digital world – the mail server.
 In a world where emojis speak louder than words and GIFs convey emotions better than paragraphs, mail servers quietly work their magic behind the scenes, ensuring our emails dance effortlessly from one inbox to another. They are the silent conductors orchestrating the symphony of electronic communication, making sure our messages reach their intended recipients with precision and speed.

@@ -1,7 +1,7 @@
 ---
 title: "MySQL vs MariaDB: Which one to choose?"
 date: 2020-07-15
-permalink: /2020-07-15/mysql-vs-mariadb-which-one-to-choose
+permalink: /mysql-vs-mariadb-which-one-to-choose
 ---
 Are you ready to dive into the world of databases and unravel the age-old debate of MySQL versus MariaDB? Picture this: you're at a tech buffet, eyeing two tantalizing dishes – MySQL and MariaDB – both vying for your attention with their unique flavors and features. As a tech enthusiast, developer, or IT professional, choosing between these database management systems can feel like picking between a classic favorite and a trendy newcomer in the ever-evolving tech landscape.
 Let's set the stage by introducing our contenders. MySQL, the seasoned veteran, has been a staple in the database realm since the mid-1990s, boasting a legacy of reliability and performance. On the other hand, MariaDB, the spirited offspring of MySQL, emerged as a fork in response to the winds of change blowing through the tech industry. Think of MySQL as the wise elder statesman and MariaDB as the innovative protege, each bringing its own set of strengths and quirks to the table.

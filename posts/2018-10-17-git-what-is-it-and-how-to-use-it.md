@@ -1,7 +1,7 @@
 ---
 title: "Git: What is it and how to use it?"
 date: 2018-10-17
-permalink: /2018-10-17/git-what-is-it-and-how-to-use-it
+permalink: /git-what-is-it-and-how-to-use-it
 ---
 In the vast landscape of software development, where lines of code dance like digital symphonies, there exists a maestro orchestrating harmony and order—Git. Picture Git as the conductor of a grand coding orchestra, ensuring every note, every change, is in perfect sync, creating a masterpiece of collaboration and version control.
 Now, dear tech enthusiasts, developers, and IT professionals, imagine a world where chaos reigns, where code changes vanish into the void, and collaboration becomes a cacophony of confusion. This is the realm Git rescues us from, offering a sanctuary of structured development and seamless teamwork.

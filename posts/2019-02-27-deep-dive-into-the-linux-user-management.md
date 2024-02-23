@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: User Management"
 date: 2019-02-27
-permalink: /2019-02-27/deep-dive-into-the-linux-user-management
+permalink: /deep-dive-into-the-linux-user-management
 ---
 Imagine Linux as a bustling metropolis, with its intricate network of user accounts, permissions, and security measures forming the backbone of this digital city. Just like in a real city where residents have unique identities and access rights, Linux users navigate a complex landscape governed by user management principles to safeguard data and maintain system integrity.
 In our journey through this digital realm, we will embark on a quest to unravel the mysteries of user accounts, where user IDs, group IDs, home directories, and login shells act as the building blocks of user interaction within the Linux ecosystem. Think of user accounts as personalized keys to different parts of the city, each granting access to specific areas based on individual roles and permissions.

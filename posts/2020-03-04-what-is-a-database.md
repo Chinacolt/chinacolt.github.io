@@ -1,7 +1,7 @@
 ---
 title: "What is a Database?"
 date: 2020-03-04
-permalink: /2020-03-04/what-is-a-database
+permalink: /what-is-a-database
 ---
 Have you ever stopped to ponder the invisible heroes that power our digital world, quietly orchestrating the seamless flow of information behind the scenes? Enter the unsung champions of technology – databases. These digital vaults of knowledge are the unsung heroes that store, organize, and retrieve data with the finesse of a master librarian, shaping the very fabric of our interconnected digital landscape.
 Picture databases as the backstage crew of a grand theater production, diligently working behind the curtains to ensure that every performance runs smoothly. They are the silent conductors orchestrating the symphony of data that fuels our modern applications and businesses, seamlessly managing the influx of information with precision and grace.

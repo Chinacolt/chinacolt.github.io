@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: RPC"
 date: 2019-05-15
-permalink: /2019-05-15/deep-dive-into-the-linux-rpc
+permalink: /deep-dive-into-the-linux-rpc
 ---
 Have you ever imagined a world where computers talk to each other like old friends sharing secrets across the vast expanse of cyberspace? Well, welcome to the fascinating realm of Remote Procedure Call (RPC) in Linux, where processes on different systems engage in seamless conversations, akin to a digital telephone line connecting distant friends in an instant.
 Picture this: RPC serves as the ultimate mediator, enabling your applications to reach out and shake hands with remote procedures as if they were right next door. It's like having a magical messenger that zips through the digital universe, delivering your requests and bringing back the desired outcomes with lightning speed.

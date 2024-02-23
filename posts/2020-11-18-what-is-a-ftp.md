@@ -1,7 +1,7 @@
 ---
 title: "What is a FTP?"
 date: 2020-11-18
-permalink: /2020-11-18/what-is-a-ftp
+permalink: /what-is-a-ftp
 ---
 Ah, the humble FTP – the unsung hero of the digital world, quietly shuffling files from point A to point B with the grace of a seasoned courier. Picture this: you have a virtual parcel that needs to travel through the vast highways of the internet, reaching its destination swiftly and securely. Enter FTP, your trusty delivery service in the realm of cyberspace.
 In this blog post, we embark on a journey through the corridors of File Transfer Protocol, better known as FTP, to unravel its mysteries, marvel at its evolution, and uncover its enduring relevance in today's tech-savvy landscape. Think of FTP as the postman of the internet, dutifully carrying your data packages across digital domains with precision and efficiency.

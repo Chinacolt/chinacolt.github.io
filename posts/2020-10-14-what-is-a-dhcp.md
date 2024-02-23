@@ -1,7 +1,7 @@
 ---
 title: "What is a DHCP?"
 date: 2020-10-14
-permalink: /2020-10-14/what-is-a-dhcp
+permalink: /what-is-a-dhcp
 ---
 Ah, the mystical world of networking, where devices dance to the tune of connectivity orchestrated by a silent hero known as DHCP. Picture this: you're at a bustling party, and instead of awkwardly asking for a seat, DHCP swoops in like a seasoned host, assigning IP addresses to devices with the finesse of a master event planner.
 In this digital age, where every device craves its spot on the network red carpet, DHCP, short for Dynamic Host Configuration Protocol, emerges as the unsung hero behind the scenes, ensuring a seamless networking experience for all. It's like having a personal concierge for your devices, effortlessly doling out IP addresses and streamlining network configurations like a well-oiled machine.

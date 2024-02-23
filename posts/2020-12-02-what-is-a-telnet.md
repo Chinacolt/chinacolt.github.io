@@ -1,7 +1,7 @@
 ---
 title: "What is a Telnet?"
 date: 2020-12-02
-permalink: /2020-12-02/what-is-a-telnet
+permalink: /what-is-a-telnet
 ---
 Picture this: a digital doorway that opens up a world of possibilities in the vast realm of computer networking. Enter Telnet, the unsung hero of remote access protocols that has been quietly shaping the way we interact with network devices since its inception.
 In this blog post, we embark on a journey to unravel the mysteries of Telnet, from its humble beginnings to its pivotal role in modern IT infrastructure. We'll dive deep into the annals of history to uncover how Telnet emerged as a cornerstone of computer networking, enabling seamless remote access and management of network devices with just a few keystrokes.

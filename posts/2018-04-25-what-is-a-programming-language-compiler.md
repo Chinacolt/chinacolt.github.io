@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language compiler?"
 date: 2018-04-25
-permalink: /2018-04-25/what-is-a-programming-language-compiler
+permalink: /what-is-a-programming-language-compiler
 ---
 Have you ever marveled at the magic behind turning lines of code into functional software? Well, my fellow tech enthusiasts, developers, and IT aficionados, today we embark on a thrilling journey into the realm of programming language compilers. Picture compilers as the maestros of the coding orchestra, seamlessly translating our human-readable instructions into the mesmerizing symphony of machine-executable commands.
 In this digital age where software reigns supreme, understanding the essence of compiler technology is akin to wielding a powerful wand in the world of programming sorcery. These ingenious tools not only optimize program performance but also serve as the unsung heroes bridging the gap between our lofty high-level languages and the nitty-gritty machine code that computers crave.
