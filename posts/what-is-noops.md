@@ -1,6 +1,6 @@
 ---
 title: "What is NoOps?"
-date: 2023-11-26
+date: 2023-12-31
 permalink: /what-is-noops
 ---
 Picture a world where software development and operations seamlessly dance together in perfect harmony, orchestrated by the invisible hands of automation and efficiency. Welcome to the realm of NoOps, a realm where the traditional boundaries between coding and deployment blur into oblivion, paving the way for a new era of innovation and speed in the tech landscape.

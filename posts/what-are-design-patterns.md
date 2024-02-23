@@ -1,6 +1,6 @@
 ---
 title: "What are design patterns?"
-date: 2023-10-29
+date: 2023-12-03
 permalink: /what-are-design-patterns
 ---
 Design patterns are like the secret sauce in a chef's recipe book – they add that extra flavor of efficiency and elegance to software development. Picture them as the superhero capes of the tech world, swooping in to rescue developers from the clutches of common design dilemmas.

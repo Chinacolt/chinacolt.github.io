@@ -1,6 +1,6 @@
 ---
 title: "What is Behavior Driven Development?"
-date: 2023-08-06
+date: 2023-09-10
 permalink: /what-is-behavior-driven-development
 ---
 Have you ever felt like software development is a complex puzzle where pieces don't always fit together smoothly? Well, fear not, because today we're diving into the fascinating world of Behavior Driven Development (BDD) – a game-changer in the realm of modern software engineering.
