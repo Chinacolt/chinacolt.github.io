@@ -1,6 +1,6 @@
 ---
 title: "Scala: What kind of programming language is it?"
-date: 2023-12-10
+date: 2024-04-28
 permalink: /scala-what-kind-of-programming-language-is-it
 ---
 Ah, Scala – the Swiss Army knife of programming languages, blending the best of both worlds like a fusion dish that leaves you craving more. Picture this: a language born in the picturesque setting of EPFL in Switzerland, where object-oriented principles cozy up with functional programming concepts like old friends at a reunion. Scala isn't just a language; it's a symphony of versatility and power, conducting a harmonious orchestra of code that resonates with tech enthusiasts and developers alike.

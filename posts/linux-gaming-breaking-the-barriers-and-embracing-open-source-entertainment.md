@@ -1,6 +1,6 @@
 ---
 title: "Linux Gaming: Breaking the Barriers and Embracing Open Source Entertainment"
-date: 2023-06-04
+date: 2023-08-06
 permalink: /linux-gaming-breaking-the-barriers-and-embracing-open-source-entertainment
 ---
 As the digital realm of gaming continues to expand and evolve, one platform has been steadily making waves in the tech industry – Linux. Picture Linux as the cool kid who used to sit quietly in the back of the classroom, only to emerge as the unexpected hero of the gaming world, donning a cape made of open-source code and wielding a sword of customization options.

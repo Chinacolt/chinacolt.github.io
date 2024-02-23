@@ -1,6 +1,6 @@
 ---
 title: "R: What kind of programming language is it?"
-date: 2023-09-03
+date: 2023-12-31
 permalink: /r-what-kind-of-programming-language-is-it
 ---
 Have you ever felt like a wizard waving a wand to unveil hidden insights from a sea of data? Well, that's the magic of the R programming language – a spellbinding tool that enchants tech enthusiasts, developers, and IT professionals alike. In this blog post, we embark on a captivating journey through the realms of R, unraveling its mysteries, exploring its evolution, and uncovering its significance in the enchanted forest of data analysis and statistical computing.

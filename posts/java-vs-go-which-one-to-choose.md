@@ -1,6 +1,6 @@
 ---
 title: "Java vs Go: Which one to choose?"
-date: 2024-08-04
+date: 2025-02-09
 permalink: /java-vs-go-which-one-to-choose
 ---
 Are you ready to embark on a thrilling journey through the realms of programming languages? Picture this: a showdown between two titans of the tech world, Java and Go, each vying for the coveted title of the ultimate coding champion. As tech enthusiasts, developers, and IT professionals, you stand at the crossroads of a monumental decision – which path to tread, Java's well-trodden legacy or Go's innovative allure?

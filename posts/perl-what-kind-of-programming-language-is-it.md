@@ -1,6 +1,6 @@
 ---
 title: "Perl: What kind of programming language is it?"
-date: 2023-04-02
+date: 2023-04-30
 permalink: /perl-what-kind-of-programming-language-is-it
 ---
 Are you ready to embark on a journey into the fascinating world of Perl? Brace yourself for an exploration of a programming language that's not just a tool but a versatile companion for tech enthusiasts, developers, and IT professionals alike.

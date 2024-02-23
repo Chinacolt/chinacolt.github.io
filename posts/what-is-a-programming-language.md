@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language?"
-date: 2023-11-12
+date: 2024-03-17
 permalink: /what-is-a-programming-language
 ---
 Have you ever thought about how the digital world around us functions like a well-choreographed dance, with each move meticulously planned and executed? Well, at the heart of this intricate performance lies the unsung hero of technology – programming languages. These languages are the maestros that orchestrate the symphony of software development, guiding IT professionals through the complex steps of creating the digital marvels we interact with daily.

@@ -1,6 +1,6 @@
 ---
 title: "What is Infrastructure as Code?"
-date: 2024-03-24
+date: 2024-09-15
 permalink: /what-is-infrastructure-as-code
 ---
 Have you ever imagined a world where building and managing your IT infrastructure is as easy as writing a piece of code? Well, welcome to the realm of Infrastructure as Code (IaC), where tech sorcery meets digital craftsmanship to revolutionize the way we handle our IT operations.

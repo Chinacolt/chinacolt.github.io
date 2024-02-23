@@ -1,6 +1,6 @@
 ---
 title: "C: What kind of programming language is it?"
-date: 2024-06-23
+date: 2024-12-22
 permalink: /c-what-kind-of-programming-language-is-it
 ---
 Ah, the enigmatic world of programming languages – a realm where lines of code dance to the tune of innovation and logic. Today, we embark on a journey to unravel the mysteries of one of the stalwarts in this digital symphony – the venerable C programming language.

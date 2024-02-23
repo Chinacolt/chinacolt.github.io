@@ -1,6 +1,6 @@
 ---
 title: "Java vs Python: Which one to choose?"
-date: 2024-01-21
+date: 2024-06-23
 permalink: /java-vs-python-which-one-to-choose
 ---
 Ah, the age-old debate in the tech realm – Java versus Python. It's like choosing between a trusty old sedan and a sleek new sports car; both will get you where you need to go, but the journey will be quite different. So, buckle up, tech enthusiasts, developers, and IT professionals, as we embark on a thrilling comparison ride to help you decide which programming language best suits your needs and aspirations.

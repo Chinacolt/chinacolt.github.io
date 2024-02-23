@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language IDE?"
-date: 2024-01-28
+date: 2024-06-30
 permalink: /what-is-a-programming-language-ide
 ---
 Have you ever marveled at the magic of coding, where lines of text transform into dynamic software applications that power our digital world? Well, behind every line of code lies a powerful ally in the realm of programming – the IDE, short for Integrated Development Environment.

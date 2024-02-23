@@ -1,6 +1,6 @@
 ---
 title: "What is Agile Software Development?"
-date: 2024-09-15
+date: 2025-04-06
 permalink: /what-is-agile-software-development
 ---
 Are you tired of the old-school, rigid ways of software development that feel as flexible as a concrete block? Well, my fellow tech enthusiasts, developers, and IT professionals, it's time to embrace the winds of change with Agile Software Development – the dynamic, customer-centric approach that's shaking up the industry like a digital earthquake!

@@ -1,6 +1,6 @@
 ---
 title: "What is Continuous Deployment?"
-date: 2024-02-25
+date: 2024-08-04
 permalink: /what-is-continuous-deployment
 ---
 Continuous Deployment: Revolutionizing the Software Development Landscape

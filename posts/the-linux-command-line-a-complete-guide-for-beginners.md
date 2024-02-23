@@ -1,6 +1,6 @@
 ---
 title: "The Linux Command Line: A Complete Guide for Beginners"
-date: 2023-12-03
+date: 2024-04-21
 permalink: /the-linux-command-line-a-complete-guide-for-beginners
 ---
 Setting the Stage:

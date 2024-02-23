@@ -1,6 +1,6 @@
 ---
 title: "TypeScript: What kind of programming language is it?"
-date: 2024-11-03
+date: 2025-05-25
 permalink: /typescript-what-kind-of-programming-language-is-it
 ---
 Have you ever felt like you're on a rollercoaster ride in the world of programming languages? One moment you're cruising through the familiar lanes of JavaScript, and the next, you're catapulted into the realm of TypeScript, a language that's been making waves in the tech sphere. Strap in, because we're about to embark on a thrilling journey through the fascinating landscape of TypeScript!

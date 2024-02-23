@@ -1,6 +1,6 @@
 ---
 title: "Git: What is it and how to use it?"
-date: 2023-01-08
+date: 2023-01-15
 permalink: /git-what-is-it-and-how-to-use-it
 ---
 In the vast landscape of software development, where lines of code dance like digital symphonies, there exists a maestro orchestrating harmony and order—Git. Picture Git as the conductor of a grand coding orchestra, ensuring every note, every change, is in perfect sync, creating a masterpiece of collaboration and version control.

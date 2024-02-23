@@ -1,6 +1,6 @@
 ---
 title: "What is Spiral Model in software engineering?"
-date: 2024-10-06
+date: 2025-04-27
 permalink: /what-is-spiral-model-in-software-engineering
 ---
 Ah, the world of software development methodologies – a realm where Waterfall cascades, Agile sprints, and the Spiral Model twirls its way into the spotlight. Picture this: if software development were a dance floor, each methodology would be a unique dance move, with its own rhythm, style, and flair.

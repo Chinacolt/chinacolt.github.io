@@ -1,6 +1,6 @@
 ---
 title: "What is DataOps?"
-date: 2023-10-01
+date: 2024-01-28
 permalink: /what-is-dataops
 ---
 Are you tired of drowning in a sea of data chaos, desperately clinging to outdated data management practices like a shipwreck survivor holding onto driftwood? Well, fear not, because DataOps is here to rescue you from the treacherous waters of traditional data management!

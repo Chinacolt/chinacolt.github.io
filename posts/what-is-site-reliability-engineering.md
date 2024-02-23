@@ -1,6 +1,6 @@
 ---
 title: "What is Site Reliability Engineering?"
-date: 2024-02-11
+date: 2024-07-21
 permalink: /what-is-site-reliability-engineering
 ---
 Picture this: you're cruising down the digital highway, enjoying the seamless experience of your favorite apps and services. But have you ever stopped to wonder about the unsung heroes behind the scenes ensuring that everything runs like a well-oiled machine? Enter Site Reliability Engineering (SRE) – the wizards of the tech world who work tirelessly to keep the digital gears turning smoothly.

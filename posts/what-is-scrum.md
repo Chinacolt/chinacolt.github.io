@@ -1,6 +1,6 @@
 ---
 title: "What is Scrum?"
-date: 2024-03-10
+date: 2024-08-25
 permalink: /what-is-scrum
 ---
 Hey there, tech enthusiasts, developers, and IT professionals! Buckle up as we dive into the dynamic world of Scrum – the superhero of project management frameworks in the tech realm. Imagine Scrum as the conductor of a symphony orchestra, harmonizing the diverse talents of individual musicians to create a masterpiece that dazzles the audience.

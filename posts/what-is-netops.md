@@ -1,6 +1,6 @@
 ---
 title: "What is NetOps?"
-date: 2023-03-26
+date: 2023-04-23
 permalink: /what-is-netops
 ---
 Picture this: a symphony of data flowing seamlessly through the digital realm, orchestrated by the invisible maestros of the networking world. Welcome to the realm of NetOps, where innovation meets infrastructure, and agility dances hand in hand with automation.

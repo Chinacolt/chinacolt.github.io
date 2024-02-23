@@ -1,6 +1,6 @@
 ---
 title: "What is SecOps?"
-date: 2024-07-21
+date: 2025-01-26
 permalink: /what-is-secops
 ---
 In the ever-evolving realm of technology, where the digital landscape is akin to a bustling metropolis teeming with both innovation and lurking threats, the concept of SecOps emerges as the steadfast guardian of IT systems, ensuring a harmonious blend of security and operational efficiency. Picture SecOps as the vigilant sentinel standing at the gates of your digital fortress, equipped not only to repel cyber assailants but also to fortify the very foundations of your technological stronghold.

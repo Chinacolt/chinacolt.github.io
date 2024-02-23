@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language syntax?"
-date: 2024-04-07
+date: 2024-09-29
 permalink: /what-is-a-programming-language-syntax
 ---
 Have you ever tried to decipher a secret code that only you and your computer understand? Well, that's essentially what programming language syntax is all about – cracking the language barrier between humans and machines to create the digital magic we interact with daily.

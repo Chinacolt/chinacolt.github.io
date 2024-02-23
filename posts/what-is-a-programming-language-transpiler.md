@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language transpiler?"
-date: 2024-04-21
+date: 2024-10-13
 permalink: /what-is-a-programming-language-transpiler
 ---
 Have you ever felt like a multilingual maestro in the world of programming? Well, if you haven't yet, let's dive into the fascinating realm of programming language transpilers, where code conversion is akin to a linguistic dance across different programming languages!
