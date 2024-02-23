@@ -1,5 +1,5 @@
 ---
-title: "What is OLTP"
+title: "What is OLTP?"
 date: 2023-05-31
 permalink: /what-is-oltp
 ---
