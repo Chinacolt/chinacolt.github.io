@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language linker?"
-date: 2023-05-26
+date: 2021-11-10
 permalink: /what-is-a-programming-language-linker
 ---
 Have you ever marveled at the seamless operation of your favorite software applications, wondering about the magic that transforms lines of code into functional programs? Enter the unsung hero of software development – the programming language linker. In this digital symphony of code, linkers play the role of the conductor, harmonizing disparate elements to create the melodious executable programs we interact with daily.

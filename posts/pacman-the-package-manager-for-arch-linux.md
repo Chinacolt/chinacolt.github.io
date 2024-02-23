@@ -1,6 +1,6 @@
 ---
 title: "Pacman: The Package Manager for Arch Linux"
-date: 2022-11-25
+date: 2023-03-15
 permalink: /pacman-the-package-manager-for-arch-linux
 ---
 Imagine a bustling marketplace where software packages are the prized goods, and the savvy shoppers are tech enthusiasts, developers, and IT professionals. Welcome to the world of Arch Linux, a dynamic ecosystem where the art of package management reigns supreme, and at the heart of it all stands Pacman – the trusted guardian of software installations, updates, and dependencies.

@@ -1,6 +1,6 @@
 ---
 title: "What is a programming paradigm?"
-date: 2021-12-17
+date: 2021-06-16
 permalink: /what-is-a-programming-paradigm
 ---
 Have you ever thought of programming as a magical toolbox where each tool holds the power to transform lines of code into functional software? Well, programming paradigms are like the secret spells that guide developers in wielding these tools effectively, unlocking the door to endless possibilities in the tech realm.

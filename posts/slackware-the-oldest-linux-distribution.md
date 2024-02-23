@@ -1,6 +1,6 @@
 ---
 title: "Slackware: The Oldest Linux Distribution"
-date: 2024-03-29
+date: 2023-02-15
 permalink: /slackware-the-oldest-linux-distribution
 ---
 Ah, the world of Linux distributions—a vast universe where tech enthusiasts, developers, and IT professionals embark on a journey of exploration and innovation. And in this ever-evolving landscape, one distribution stands as a timeless beacon of simplicity, stability, and technical prowess: Slackware.

@@ -1,6 +1,6 @@
 ---
 title: "Objective-C: What kind of programming language is it?"
-date: 2022-02-25
+date: 2021-04-28
 permalink: /objective-c-what-kind-of-programming-language-is-it
 ---
 Ah, Objective-C – the unsung hero of the programming world, a language that's been quietly shaping the tech landscape for decades. Imagine it as the seasoned chef in a bustling kitchen, blending flavors and techniques to create a masterpiece dish that leaves everyone craving more. In this blog post, we're going to peel back the layers of Objective-C, from its humble beginnings to its current status as a cornerstone of software development.

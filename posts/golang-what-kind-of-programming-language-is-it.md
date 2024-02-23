@@ -1,6 +1,6 @@
 ---
 title: "GoLang: What kind of programming language is it?"
-date: 2021-07-23
+date: 2021-03-03
 permalink: /golang-what-kind-of-programming-language-is-it
 ---
 Ah, the world of programming languages – a realm where syntax reigns supreme, and developers wield the power to create digital wonders with just a few lines of code. In this ever-evolving landscape, one language has been making waves and capturing the hearts of tech enthusiasts, developers, and IT professionals alike – GoLang.

@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: System Administration"
-date: 2022-02-04
+date: 2022-09-28
 permalink: /deep-dive-into-the-linux-system-administration
 ---
 Ah, Linux System Administration – the backstage maestros of the tech world, the unsung heroes who keep the digital symphony playing smoothly. Welcome to the realm where command lines reign supreme, and the penguin mascot proudly stands as a symbol of open-source power.

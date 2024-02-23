@@ -1,6 +1,6 @@
 ---
 title: "Debian: Steady and Stable Linux Distribution"
-date: 2021-11-12
+date: 2023-01-25
 permalink: /debian-steady-and-stable-linux-distribution
 ---
 Ah, Debian – the unsung hero of the Linux world, quietly humming in the background while other distributions grab the spotlight with their flashy features and trendy interfaces. But don't be fooled by Debian's unassuming demeanor; beneath its unpretentious surface lies a powerhouse of stability, reliability, and unwavering commitment to the principles of open-source software.

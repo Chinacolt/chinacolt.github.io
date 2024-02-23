@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language loader?"
-date: 2023-08-25
+date: 2021-11-17
 permalink: /what-is-a-programming-language-loader
 ---
 Imagine, if you will, a bustling city where the roads are the veins and arteries of the entire operation, bustling with activity as cars (our data) zoom from one destination to another. Now, in this city, there's an unsung hero, not the mayor or the flashy sports car, but the humble traffic light. This traffic light is the programming language loader of our analogy. It might not get the fanfare of the skyscrapers (the applications) or the parks (the user interfaces), but without it, the entire city would descend into chaos. The loader ensures that the cars reach their destinations smoothly and efficiently, just as loaders in the digital realm ensure that code is properly directed to its execution point in memory, allowing our digital devices to perform the tasks we take for granted.

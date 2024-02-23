@@ -1,6 +1,6 @@
 ---
 title: "What is DevOps?"
-date: 2022-01-14
+date: 2020-03-25
 permalink: /what-is-devops
 ---
 Picture this: a symphony where developers and IT operations professionals harmonize seamlessly, creating a melodious blend of innovation and efficiency. Welcome to the world of DevOps, where collaboration isn't just a buzzword but a way of life in the tech realm.

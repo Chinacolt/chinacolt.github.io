@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: RPC"
-date: 2023-06-16
+date: 2022-08-03
 permalink: /deep-dive-into-the-linux-rpc
 ---
 Have you ever imagined a world where computers talk to each other like old friends sharing secrets across the vast expanse of cyberspace? Well, welcome to the fascinating realm of Remote Procedure Call (RPC) in Linux, where processes on different systems engage in seamless conversations, akin to a digital telephone line connecting distant friends in an instant.

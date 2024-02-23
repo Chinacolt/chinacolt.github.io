@@ -1,6 +1,6 @@
 ---
 title: "What is DevSecOps?"
-date: 2022-11-11
+date: 2020-07-22
 permalink: /what-is-devsecops
 ---
 Hey there, tech enthusiasts, developers, and IT professionals! Ready to dive into the exciting world of DevSecOps? Buckle up as we embark on a journey through the realms of software development, security, and innovation.

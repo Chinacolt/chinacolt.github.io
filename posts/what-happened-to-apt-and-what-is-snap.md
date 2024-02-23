@@ -1,6 +1,6 @@
 ---
 title: "What happened to apt and what is snap?"
-date: 2021-07-02
+date: 2023-04-05
 permalink: /what-happened-to-apt-and-what-is-snap
 ---
 Have you ever tried to manually install software on a Linux system, only to find yourself lost in a maze of dependencies and compatibility issues? Well, fear not, for the evolution of package management tools like apt and snap has transformed this once daunting task into a seamless experience akin to ordering your favorite pizza online – with all the toppings and none of the hassle!

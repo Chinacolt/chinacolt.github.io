@@ -1,6 +1,6 @@
 ---
 title: "Lua: What kind of programming language is it?"
-date: 2021-05-14
+date: 2021-04-14
 permalink: /lua-what-kind-of-programming-language-is-it
 ---
 Lua, the programming language that shines like a moon in the vast sky of coding possibilities, has a fascinating origin story that dates back to the early 1990s. Picture this: a group of brilliant minds at the Pontifical Catholic University of Rio de Janeiro in Brazil, huddled together, crafting a lightweight scripting language for embedded systems. And thus, Lua was born, its name echoing the beauty and mystique of the moon itself.

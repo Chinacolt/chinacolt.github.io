@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: SELinux"
-date: 2022-04-08
+date: 2022-08-17
 permalink: /deep-dive-into-the-linux-selinux
 ---
 Are you ready to embark on a thrilling journey into the depths of Linux security? Buckle up, tech enthusiasts, developers, and IT professionals, as we dive headfirst into the fascinating realm of SELinux – the guardian angel of Linux systems!

@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language formatter?"
-date: 2022-11-18
+date: 2021-10-20
 permalink: /what-is-a-programming-language-formatter
 ---
 Have you ever tried to decipher a friend's messy handwriting on a birthday card, only to end up completely misinterpreting their heartfelt message? Well, imagine that scenario, but instead of a sweet note, you're dealing with lines of complex code that hold the key to your project's success. That's where the magic of programming language formatters comes into play!

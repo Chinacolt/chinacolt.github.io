@@ -1,6 +1,6 @@
 ---
 title: "What is Feature Driven Development?"
-date: 2021-07-30
+date: 2020-09-23
 permalink: /what-is-feature-driven-development
 ---
 Have you ever felt like software development is akin to embarking on a quest with ever-changing landscapes and unpredictable challenges? Well, fear not, for in the realm of tech methodologies, there exists a beacon of hope known as Feature Driven Development (FDD). Picture FDD as your trusty map, guiding you through the treacherous terrains of modern software development with precision and agility.

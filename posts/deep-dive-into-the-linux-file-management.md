@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: File Management"
-date: 2022-10-07
+date: 2022-06-08
 permalink: /deep-dive-into-the-linux-file-management
 ---
 Have you ever felt like a digital archaeologist, excavating through layers of files and folders in your Linux system, searching for that elusive document or script buried deep within the directory maze? Well, fear not, fellow tech enthusiasts, developers, and IT professionals, for our deep dive into Linux file management is here to equip you with the ultimate toolkit for navigating this digital wilderness with finesse and flair.

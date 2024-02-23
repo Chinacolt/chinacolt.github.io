@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language preprocessor?"
-date: 2023-02-10
+date: 2021-10-27
 permalink: /what-is-a-programming-language-preprocessor
 ---
 Ah, the mystical world of programming language preprocessors – where code meets its magical makeover! Picture this: you're a chef crafting a gourmet dish, but before you even touch the ingredients, a culinary wizard swoops in to prep everything just right. That's the essence of what preprocessors do in the realm of software development.

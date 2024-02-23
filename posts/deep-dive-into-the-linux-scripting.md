@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Scripting"
-date: 2021-01-29
+date: 2022-11-02
 permalink: /deep-dive-into-the-linux-scripting
 ---
 Ah, Linux scripting – the magical wand that turns mundane tasks into automated symphonies of efficiency and productivity. If you're a tech enthusiast, developer, or IT pro, you're about to embark on a journey through the captivating realm of scripting in the Linux universe. So, buckle up your code belts and get ready for a deep dive into the world of scripts and shells!

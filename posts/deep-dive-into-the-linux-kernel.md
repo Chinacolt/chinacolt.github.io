@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Kernel"
-date: 2021-12-03
+date: 2022-03-09
 permalink: /deep-dive-into-the-linux-kernel
 ---
 Ah, the Linux Kernel – the beating heart of the open-source world, a digital maestro orchestrating the symphony of computing devices worldwide. Picture it as the conductor of a grand technological orchestra, guiding processes, managing memories, and harmonizing file systems and device drivers to create a seamless performance that leaves no room for a sour note.

@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Troubleshooting"
-date: 2024-02-09
+date: 2022-10-19
 permalink: /deep-dive-into-the-linux-troubleshooting
 ---
 Troubleshooting in the world of Linux is like embarking on a thrilling adventure through the intricate maze of a digital realm, where every twist and turn presents a new challenge to conquer. Imagine yourself as a fearless explorer, armed not with a compass and a map, but with a formidable arsenal of troubleshooting techniques and tools, ready to navigate the complex terrain of Linux systems with finesse and expertise.

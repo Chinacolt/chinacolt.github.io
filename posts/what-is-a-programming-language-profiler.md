@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language profiler?"
-date: 2023-07-28
+date: 2021-09-08
 permalink: /what-is-a-programming-language-profiler
 ---
 Have you ever felt like a detective, unraveling the mysteries of your code to uncover its hidden secrets? Well, welcome to the world of programming language profilers – the Sherlock Holmes of software development! 🕵️‍♂️

@@ -1,6 +1,6 @@
 ---
 title: "DNF: The Package Manager for Redhat based Linux Distributions"
-date: 2021-05-07
+date: 2023-03-08
 permalink: /dnf-the-package-manager-for-redhat-based-linux-distributions
 ---
 Imagine a world without package managers – it would be like trying to bake a cake without a recipe. You'd have to gather each ingredient individually, figure out the right proportions, and hope for the best outcome. Sounds like a recipe for disaster, right? Well, that's where package managers swoop in to save the day in the Linux universe.

@@ -1,6 +1,6 @@
 ---
 title: "Which bug tracking system to choose?"
-date: 2021-12-24
+date: 2022-03-02
 permalink: /which-bug-tracking-system-to-choose
 ---
 Imagine embarking on a software development journey without a map to guide you through the treacherous terrain of bugs and glitches. It's like setting sail on a ship without a compass, destined to wander aimlessly in a sea of code chaos. This is where the unsung hero of software development comes into play – the bug tracking system.

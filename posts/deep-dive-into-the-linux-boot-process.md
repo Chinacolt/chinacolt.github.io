@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Boot Process"
-date: 2023-02-03
+date: 2022-06-22
 permalink: /deep-dive-into-the-linux-boot-process
 ---
 Have you ever pondered over the intricate dance that unfolds behind the scenes when you power up your Linux system? The Linux boot process, often shrouded in mystery, is like a well-choreographed ballet where each step plays a crucial role in setting the stage for a flawless performance. In this blog post, we are going to unravel the enigma of Linux booting, taking you on a journey through the inner workings of your beloved operating system.

@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Automation"
-date: 2023-03-31
+date: 2022-10-26
 permalink: /deep-dive-into-the-linux-automation
 ---
 Picture this: a world where mundane, repetitive tasks vanish into thin air, where systems hum along smoothly without a hitch, and where human error is but a distant memory. Welcome to the realm of Linux automation, where efficiency reigns supreme, scalability knows no bounds, and productivity soars to new heights.

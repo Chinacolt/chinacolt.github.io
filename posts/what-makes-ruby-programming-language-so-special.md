@@ -1,6 +1,6 @@
 ---
 title: "What makes Ruby programming language so special?"
-date: 2022-04-15
+date: 2021-06-02
 permalink: /what-makes-ruby-programming-language-so-special
 ---
 Ah, Ruby – the gem of programming languages that sparkles with elegance and charm in the vast landscape of tech tools. Imagine a digital artisan crafting a masterpiece with a brush dipped in creativity and a palette of simplicity – that's the essence of Ruby.

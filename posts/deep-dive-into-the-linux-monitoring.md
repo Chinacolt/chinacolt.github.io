@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Monitoring"
-date: 2022-11-04
+date: 2022-10-05
 permalink: /deep-dive-into-the-linux-monitoring
 ---
 Hey there, fellow tech enthusiasts, developers, and IT aficionados! Today, we're embarking on an exciting journey into the intricate world of Linux monitoring. Buckle up as we dive deep into the realm of monitoring tools, strategies, and best practices that form the backbone of a robust and reliable Linux ecosystem.

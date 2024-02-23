@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Distribution"
-date: 2022-04-22
+date: 2022-11-23
 permalink: /deep-dive-into-the-linux-distribution
 ---
 Linux distributions, the colorful palette of the tech world, where each hue paints a unique computing experience. Imagine Linux as a grand buffet, offering a plethora of dishes tailored to suit every palate, from the tech connoisseurs craving innovation to the IT professionals seeking robust solutions. Welcome to the realm where Ubuntu rubs elbows with Fedora, and Debian shares the stage with CentOS, each distro bringing its own flavor to the table.

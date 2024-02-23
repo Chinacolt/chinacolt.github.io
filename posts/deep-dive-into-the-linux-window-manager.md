@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Window Manager"
-date: 2021-01-08
+date: 2022-12-07
 permalink: /deep-dive-into-the-linux-window-manager
 ---
 Picture this: you're at a bustling tech conference, surrounded by a sea of screens and code wizards. Amidst the buzz of excitement, one crucial yet often overlooked element quietly shapes your digital realm – the unsung hero of Linux systems: Window Managers.

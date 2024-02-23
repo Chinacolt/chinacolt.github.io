@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Packaging"
-date: 2023-09-15
+date: 2022-11-16
 permalink: /deep-dive-into-the-linux-packaging
 ---
 Have you ever tried baking a cake without following a recipe? It might turn out to be a disaster, with ingredients all over the place and no clear instructions on how to bring it all together. In the world of Linux, packaging is like the secret recipe that ensures software development is as smooth as a perfectly baked cake.

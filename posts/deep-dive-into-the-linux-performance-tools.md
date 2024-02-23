@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Performance Tools"
-date: 2022-08-19
+date: 2022-09-14
 permalink: /deep-dive-into-the-linux-performance-tools
 ---
 Hey there, tech enthusiasts, developers, and IT aficionados! Have you ever felt like your Linux system is running a marathon with a backpack full of bricks? Well, fear not, because we're about to embark on a thrilling journey into the exhilarating world of Linux Performance Tools!

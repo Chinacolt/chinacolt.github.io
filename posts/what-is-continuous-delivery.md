@@ -1,6 +1,6 @@
 ---
 title: "What is Continuous Delivery?"
-date: 2023-02-24
+date: 2020-04-22
 permalink: /what-is-continuous-delivery
 ---
 Continuous Delivery: Revolutionizing the Software Development Landscape

@@ -1,6 +1,6 @@
 ---
 title: "What is Test Driven Development?"
-date: 2022-07-29
+date: 2020-09-30
 permalink: /what-is-test-driven-development
 ---
 Ah, Test Driven Development (TDD) – the superhero cape of software development, swooping in to save the day one test at a time! Picture this: you're embarking on a coding adventure, armed not with lines of code but with a shield of tests, ready to battle bugs and conquer complexity before a single function is even written. Intrigued? You should be!

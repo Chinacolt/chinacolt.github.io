@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Package Management"
-date: 2021-09-17
+date: 2022-05-04
 permalink: /deep-dive-into-the-linux-package-management
 ---
 Imagine your Linux system as a bustling city, with software packages zipping around like busy commuters, each carrying a unique set of tools and functionalities. Now, picture package management as the traffic controller, orchestrating this chaotic dance of installations, updates, and dependencies to ensure a smooth flow of operations. Welcome to the world of Linux package management, where efficiency reigns supreme, and system stability is the ultimate goal.

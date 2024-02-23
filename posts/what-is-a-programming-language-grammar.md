@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language grammar?"
-date: 2023-07-07
+date: 2021-07-07
 permalink: /what-is-a-programming-language-grammar
 ---
 Imagine you're at a bustling international airport, a place where people from all corners of the globe converge. Each person speaks a different language, follows different cultural norms, and yet, somehow, they all manage to navigate through the chaos, find their gates, and reach their destinations. This is not too dissimilar from the world of programming, where developers, the travelers in this analogy, use the grammar of programming languages as their universal guidebook. This guidebook, or programming language grammar, is the set of rules and structures that dictate how code should be written and interpreted by computers, serving as the blueprint for creating understandable and executable software. It's the Rosetta Stone that bridges human ideas and machine execution, ensuring that developers can effectively communicate their intentions to the machine.

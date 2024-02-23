@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Programming"
-date: 2023-06-02
+date: 2022-11-09
 permalink: /deep-dive-into-the-linux-programming
 ---
 Linux, the unsung hero of the programming world, quietly but powerfully underpins the digital realm we navigate daily. Picture Linux as the backstage magician orchestrating the grand spectacle of software development, where lines of code dance to its tune, creating symphonies of functionality and innovation.

@@ -1,6 +1,6 @@
 ---
 title: "What is a Linux Distribution?"
-date: 2023-04-21
+date: 2023-04-26
 permalink: /what-is-a-linux-distribution
 ---
 Have you ever felt like a tech-savvy explorer navigating through a vast and intricate digital universe? Well, welcome to the world of Linux distributions – the diverse galaxies of operating systems that cater to every tech enthusiast, developer, and IT professional's unique needs and preferences.

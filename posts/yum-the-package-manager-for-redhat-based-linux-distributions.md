@@ -1,6 +1,6 @@
 ---
 title: "YUM: The Package Manager for Redhat based Linux Distributions"
-date: 2023-03-10
+date: 2023-03-29
 permalink: /yum-the-package-manager-for-redhat-based-linux-distributions
 ---
 Are you tired of playing the software installation guessing game on your Redhat-based Linux system? Imagine a world where managing software packages is as smooth as spreading butter on toast – that's where YUM, the unsung hero of package management, steps in to save the day!

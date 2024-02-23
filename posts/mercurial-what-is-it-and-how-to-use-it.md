@@ -1,6 +1,6 @@
 ---
 title: "Mercurial: What is it and how to use it?"
-date: 2023-07-14
+date: 2022-01-19
 permalink: /mercurial-what-is-it-and-how-to-use-it
 ---
 Imagine embarking on a coding journey without a map to guide you through the intricate maze of software development. Picture yourself lost in a sea of code changes, struggling to track alterations, collaborate effectively with your team, and manage the evolving landscape of your project. Sounds like a developer's nightmare, right?

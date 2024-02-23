@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language semantics?"
-date: 2023-11-10
+date: 2021-06-30
 permalink: /what-is-a-programming-language-semantics
 ---
 Have you ever pondered the intricate dance of words and commands that breathe life into the digital realm? Welcome to the captivating world of programming language semantics, where every line of code whispers its purpose with precision and clarity.

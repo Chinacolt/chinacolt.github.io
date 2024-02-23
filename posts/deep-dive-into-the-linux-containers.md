@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Containers"
-date: 2022-10-14
+date: 2022-04-20
 permalink: /deep-dive-into-the-linux-containers
 ---
 Imagine a world where software deployment is as smooth as spreading butter on warm toast – that's the magic of Linux containers! Welcome to the realm of containerization, where applications cozy up in their little virtual bubbles, shielded from the chaos of the digital universe.

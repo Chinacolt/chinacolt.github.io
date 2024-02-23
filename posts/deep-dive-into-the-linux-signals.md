@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Signals"
-date: 2022-08-26
+date: 2022-07-06
 permalink: /deep-dive-into-the-linux-signals
 ---
 Ah, Linux signals – the silent messengers of the operating system, whispering commands and notifications to processes like a digital orchestra conductor. If you've ever wondered about the mystical world of signals in Linux, buckle up, because we're about to take a deep dive into this fascinating realm that's both crucial and cryptic for tech enthusiasts, developers, and IT professionals alike.

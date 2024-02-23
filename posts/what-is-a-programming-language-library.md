@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language library?"
-date: 2024-01-19
+date: 2021-08-04
 permalink: /what-is-a-programming-language-library
 ---
 Imagine you're embarking on the grand adventure of cooking a gourmet meal for the first time. You've got your recipe, a kitchen full of ingredients, and a burning desire to create something delicious. But there's a catch – you've never actually cooked anything more complicated than instant noodles. Enter the magical world of cooking gadgets: blenders, mixers, and food processors, each designed to take the grunt work out of cooking, allowing you to focus on the art of flavors and presentation. This, dear reader, is the essence of programming language libraries in the digital realm of software development.

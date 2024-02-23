@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Shell"
-date: 2023-11-17
+date: 2022-04-27
 permalink: /deep-dive-into-the-linux-shell
 ---
 Ah, the Linux shell – the command-line maestro of the tech world, beckoning us with its cryptic charm and limitless power. Imagine it as the conductor of a grand symphony, orchestrating a harmonious dance between users and the intricate machinery of the operating system.

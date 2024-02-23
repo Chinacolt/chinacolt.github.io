@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Threads"
-date: 2024-03-01
+date: 2022-07-20
 permalink: /deep-dive-into-the-linux-threads
 ---
 Threads in Linux are like the backstage crew of a grand theater production, working tirelessly behind the scenes to ensure a seamless and captivating performance. As tech enthusiasts, developers, and IT professionals, we often marvel at the dazzling display of applications running smoothly on our systems, but it's the intricate dance of threads that truly orchestrates this symphony of operations.

@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Memory Management"
-date: 2022-04-29
+date: 2022-06-01
 permalink: /deep-dive-into-the-linux-memory-management
 ---
 Have you ever stopped to ponder the intricate dance of memory management that takes place behind the scenes in your Linux system? Picture it as a bustling city where every bit and byte has its designated place, ensuring smooth operations and optimal performance. Welcome to the realm of Linux memory management, where bytes roam free yet organized, much like a well-choreographed symphony.

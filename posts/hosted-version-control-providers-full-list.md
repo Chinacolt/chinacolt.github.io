@@ -1,6 +1,6 @@
 ---
 title: "Hosted Version Control Providers: Full List"
-date: 2021-01-15
+date: 2022-02-09
 permalink: /hosted-version-control-providers-full-list
 ---
 Version control, the unsung hero of the software development world – the trusty sidekick that ensures our code remains in check, our projects run smoothly, and our sanity intact. Picture it as a time-traveling DeLorean, zipping through the annals of code history, allowing us to revisit past iterations, correct mistakes, and avoid catastrophic coding paradoxes.

@@ -1,6 +1,6 @@
 ---
 title: "What is Rapid Application Development?"
-date: 2022-06-03
+date: 2020-10-28
 permalink: /what-is-rapid-application-development
 ---
 Are you tired of waiting ages for software development projects to come to fruition, only to find out they're already outdated by the time they're completed? Well, my fellow tech enthusiasts, developers, and IT professionals, buckle up because we're about to dive into the world of Rapid Application Development (RAD) – the superhero of the software development realm!

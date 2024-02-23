@@ -1,6 +1,6 @@
 ---
 title: "What is a programming language interpreter?"
-date: 2021-09-03
+date: 2021-07-21
 permalink: /what-is-a-programming-language-interpreter
 ---
 Have you ever marveled at the magic of turning lines of code into functional software that powers our digital world? Well, my fellow tech enthusiasts, developers, and IT professionals, welcome to the enchanting realm of programming language interpreters – the unsung heroes behind the scenes of software sorcery.

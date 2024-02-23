@@ -1,6 +1,6 @@
 ---
 title: "Deep dive into the Linux: Sockets"
-date: 2023-05-05
+date: 2022-07-27
 permalink: /deep-dive-into-the-linux-sockets
 ---
 Imagine Linux sockets as the unsung heroes of the digital world, quietly orchestrating the symphony of data exchange between processes over vast networks. These unassuming endpoints play a pivotal role in ensuring that your favorite apps chat seamlessly with servers, websites load at lightning speed, and emails reach their destinations without getting lost in cyberspace.

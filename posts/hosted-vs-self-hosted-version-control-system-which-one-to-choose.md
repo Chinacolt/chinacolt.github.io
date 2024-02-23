@@ -1,6 +1,6 @@
 ---
 title: "Hosted vs Self-Hosted Version Control System: Which one to choose?"
-date: 2022-09-09
+date: 2022-02-02
 permalink: /hosted-vs-self-hosted-version-control-system-which-one-to-choose
 ---
 Picture this: you're a conductor orchestrating a symphony of code, where every note represents a line of programming brilliance. But how do you ensure this musical masterpiece stays harmonious as your team of developers adds their unique melodies to the mix? Enter version control systems, the maestros of code management, collaboration, and project tracking.

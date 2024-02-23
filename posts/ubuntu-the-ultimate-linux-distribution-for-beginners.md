@@ -1,6 +1,6 @@
 ---
 title: "Ubuntu: The Ultimate Linux Distribution for Beginners"
-date: 2022-01-28
+date: 2022-12-28
 permalink: /ubuntu-the-ultimate-linux-distribution-for-beginners
 ---
 Are you tired of feeling like a lost astronaut in the vast galaxy of operating systems? Fear not, for Ubuntu is here to guide you through the cosmic maze of computing with the grace of a seasoned space explorer.
