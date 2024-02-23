@@ -1,7 +1,7 @@
 ---
 title: "What is NoSQL?"
 date: 2023-05-10
-permalink: /what-is-nosql
+permalink: /2023-05-10-what-is-nosql
 ---
 Ah, the evolution of databases – a journey from the rigid confines of traditional relational databases to the dynamic realm of NoSQL solutions. Picture this: if databases were superheroes, relational databases would be the meticulous, rule-abiding heroes, while NoSQL databases would be the agile, shape-shifting mutants ready to take on any challenge that comes their way.
 As we delve into the world of NoSQL, we uncover a treasure trove of database diversity. Document-oriented, key-value, column-family, and graph databases stand tall, each with its unique superpower to tackle data storage in ways never imagined before. It's like assembling a team of Avengers, each hero bringing their specialized skills to the table – MongoDB as the Iron Man of document stores, Redis as the speedy Flash of key-value pairs, Apache Cassandra as the mighty Thor of column families, and Neo4j as the strategic Black Widow of graph databases.

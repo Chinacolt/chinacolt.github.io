@@ -1,7 +1,7 @@
 ---
 title: "Perl: What kind of programming language is it?"
 date: 2021-04-07
-permalink: /perl-what-kind-of-programming-language-is-it
+permalink: /2021-04-07-perl-what-kind-of-programming-language-is-it
 ---
 Are you ready to embark on a journey into the fascinating world of Perl? Brace yourself for an exploration of a programming language that's not just a tool but a versatile companion for tech enthusiasts, developers, and IT professionals alike.
 Imagine Perl as a seasoned chef in a bustling kitchen, deftly maneuvering through a myriad of ingredients to create a culinary masterpiece. Similarly, Perl weaves its magic in the realm of programming, blending syntax, functions, and libraries to craft elegant solutions to complex problems.

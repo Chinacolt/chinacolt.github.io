@@ -1,7 +1,7 @@
 ---
 title: "Future is golang: Why Go is the Programming Language for the Future?"
 date: 2021-05-26
-permalink: /future-is-golang-why-go-is-the-programming-language-for-the-future
+permalink: /2021-05-26-future-is-golang-why-go-is-the-programming-language-for-the-future
 ---
 Ah, the ever-evolving world of programming languages – a realm where innovation reigns supreme and tech enthusiasts eagerly await the next big thing to revolutionize their coding adventures. Enter Go, the rising star in the constellation of programming languages, beckoning developers and IT professionals with promises of simplicity, efficiency, and robust concurrency support.
 Picture Go as the sleek sports car of programming languages – agile, powerful, and ready to race ahead in the fast-paced world of software development. Its core features shine like polished chrome, offering a smooth ride for developers seeking to turbocharge their productivity and build scalable applications with finesse.

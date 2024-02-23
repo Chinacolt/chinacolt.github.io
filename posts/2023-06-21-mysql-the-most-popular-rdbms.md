@@ -1,7 +1,7 @@
 ---
 title: "MySQL: The Most Popular RDBMS"
 date: 2023-06-21
-permalink: /mysql-the-most-popular-rdbms
+permalink: /2023-06-21-mysql-the-most-popular-rdbms
 ---
 Ah, MySQL – the unsung hero of the tech world, quietly powering the digital landscape with its robust capabilities and unwavering reliability. Picture MySQL as the backstage magician of the internet, orchestrating data with finesse and precision, while we, the users, marvel at the seamless experiences it delivers.
 Let's take a stroll down memory lane to unravel the captivating evolution of MySQL, from its humble beginnings to its current reign as the crowned king of relational database management systems. Imagine MySQL as a phoenix rising from the ashes of technological challenges, each trial and triumph shaping it into the powerhouse it is today.

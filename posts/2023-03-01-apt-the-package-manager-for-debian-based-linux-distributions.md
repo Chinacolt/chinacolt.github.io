@@ -1,7 +1,7 @@
 ---
 title: "APT: The Package Manager for Debian based Linux Distributions"
 date: 2023-03-01
-permalink: /apt-the-package-manager-for-debian-based-linux-distributions
+permalink: /2023-03-01-apt-the-package-manager-for-debian-based-linux-distributions
 ---
 Have you ever embarked on a journey through the vast landscape of Debian-based Linux distributions, only to realize that managing software packages feels like herding cats in a thunderstorm? Fear not, for in the realm of Linux software management, there exists a beacon of hope, a guiding light amidst the digital chaos – APT.
 Picture APT as your trusty sidekick, the Robin to your Batman in the world of software installation and maintenance. This unassuming yet powerful package manager has quietly revolutionized the way tech enthusiasts, developers, and IT professionals navigate the intricate web of software dependencies and updates in Debian-based systems.

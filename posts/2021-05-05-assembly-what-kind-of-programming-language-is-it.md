@@ -1,7 +1,7 @@
 ---
 title: "Assembly: What kind of programming language is it?"
 date: 2021-05-05
-permalink: /assembly-what-kind-of-programming-language-is-it
+permalink: /2021-05-05-assembly-what-kind-of-programming-language-is-it
 ---
 Have you ever felt like you're deciphering a secret code when diving into the world of programming languages? Well, imagine if there was a language that spoke directly to the heart of your computer, whispering commands in its native tongue. Enter Assembly language – the unsung hero of the tech realm, bridging the gap between human logic and machine operations.
 Picture this: if high-level programming languages are like driving a sleek, automated sports car with all the bells and whistles, then Assembly language is akin to tinkering under the hood of a vintage muscle car, feeling the raw power of each meticulously crafted component. It's where the rubber meets the road, quite literally, as you navigate the intricate pathways of your computer's architecture with surgical precision.

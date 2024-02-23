@@ -1,7 +1,7 @@
 ---
 title: "What is Rapid Application Development?"
 date: 2020-10-28
-permalink: /what-is-rapid-application-development
+permalink: /2020-10-28-what-is-rapid-application-development
 ---
 Are you tired of waiting ages for software development projects to come to fruition, only to find out they're already outdated by the time they're completed? Well, my fellow tech enthusiasts, developers, and IT professionals, buckle up because we're about to dive into the world of Rapid Application Development (RAD) – the superhero of the software development realm!
 Picture this: you're at a fancy restaurant eagerly waiting for your meal. The traditional waterfall model would serve you each course one at a time, with no room for changes once the order is placed. Sounds frustrating, right? That's where RAD swoops in like a culinary wizard, offering you a buffet of options to taste-test as you go, ensuring your meal is not just delicious but tailored to your exact cravings.

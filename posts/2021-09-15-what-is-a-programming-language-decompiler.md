@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language decompiler?"
 date: 2021-09-15
-permalink: /what-is-a-programming-language-decompiler
+permalink: /2021-09-15-what-is-a-programming-language-decompiler
 ---
 Have you ever tried to decipher a cryptic message or unravel a complex puzzle? Imagine being a software detective, equipped with a powerful tool that can decode the secrets hidden within the intricate world of programming languages. Enter the realm of programming language decompilers – the Sherlock Holmes of the coding universe, unraveling the mysteries of compiled software with precision and finesse.
 In our digital age, where software reigns supreme, understanding the inner workings of programs is akin to deciphering an ancient manuscript. Decompilers serve as the key to unlocking the enigma of executable code, transforming it from a cryptic jumble of ones and zeros into a readable language that developers can analyze, modify, and optimize with ease.

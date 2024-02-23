@@ -1,7 +1,7 @@
 ---
 title: "CentOS: The Redhat backed Linux Distribution for Enterprises"
 date: 2023-01-11
-permalink: /centos-the-redhat-backed-linux-distribution-for-enterprises
+permalink: /2023-01-11-centos-the-redhat-backed-linux-distribution-for-enterprises
 ---
 Picture this: a world where technology reigns supreme, where innovation meets reliability, and where the heartbeat of enterprise IT thrives on a robust foundation. Welcome to the realm of CentOS, the Linux distribution that stands as a beacon of stability in the ever-evolving landscape of open-source software.
 In our digital age, where every click, tap, and swipe shapes the way we work and play, the need for a dependable operating system is paramount. Enter CentOS, the brainchild of Red Hat, a Linux distribution that has captured the hearts of tech enthusiasts, developers, and IT professionals alike with its blend of power and performance.

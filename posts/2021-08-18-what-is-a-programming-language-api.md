@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language API?"
 date: 2021-08-18
-permalink: /what-is-a-programming-language-api
+permalink: /2021-08-18-what-is-a-programming-language-api
 ---
 Have you ever marveled at how seamlessly different software components interact with each other, almost like a well-choreographed dance routine in the tech world? Well, that's the magic of Programming Language APIs! These unsung heroes of software development are like the connectors that bring together a diverse cast of characters to create a blockbuster tech production.
 Picture this: you're the director of a high-stakes tech project, and your team comprises a motley crew of developers, each with their unique set of skills and tools. Now, imagine trying to coordinate this eclectic bunch without a common language or framework to guide them. Chaos, right? That's where APIs swoop in like caped crusaders, offering a universal language that bridges the gap between different software components, ensuring they harmonize beautifully to deliver a stellar performance.

@@ -1,7 +1,7 @@
 ---
 title: "Swift: What kind of programming language is it?"
 date: 2021-02-17
-permalink: /swift-what-kind-of-programming-language-is-it
+permalink: /2021-02-17-swift-what-kind-of-programming-language-is-it
 ---
 Ah, Swift – the language that dances through code like a well-choreographed routine, captivating developers with its elegance and efficiency. Join me on a journey through the evolution of Swift, a programming language that has gracefully pirouetted its way from inception to the present day, dazzling us with its key milestones and updates that have shaped its very essence.
 Picture Swift as a seasoned performer, constantly refining its moves to meet the ever-changing demands of the tech industry's dance floor. From its humble beginnings, Swift has donned new costumes and embraced fresh choreography, all in a bid to cater to the needs of developers seeking a modern and expressive language to bring their digital creations to life.

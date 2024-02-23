@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Firewalls"
 date: 2022-08-31
-permalink: /deep-dive-into-the-linux-firewalls
+permalink: /2022-08-31-deep-dive-into-the-linux-firewalls
 ---
 Firewalls in Linux systems are like the silent guardians of the digital realm, standing watch to protect our networks from the nefarious forces of the cyber world. Imagine them as the bouncers at an exclusive club, meticulously checking each guest's credentials before granting them entry, ensuring only the trusted ones make it past the velvet rope.
 In our tech-savvy era, where data breaches and cyber threats lurk around every virtual corner, understanding the ins and outs of firewalls is akin to wielding a powerful shield against potential intruders. These digital sentinels play a crucial role in fortifying IT infrastructures, creating a barrier between the safe haven of internal networks and the wild west of external dangers.

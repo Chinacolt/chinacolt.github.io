@@ -1,7 +1,7 @@
 ---
 title: "What is Flatpak? And how it is different from snap?"
 date: 2023-04-12
-permalink: /what-is-flatpak-and-how-it-is-different-from-snap
+permalink: /2023-04-12-what-is-flatpak-and-how-it-is-different-from-snap
 ---
 In the vast universe of Linux software packaging and distribution, two stellar entities shine brightly – Flatpak and Snap. Picture them as cosmic companions, navigating the digital galaxy to cater to the whims of tech enthusiasts, developers, and IT professionals alike.
 As we embark on this celestial journey of exploration, we find ourselves at a crossroads where the paths of Flatpak and Snap intersect, beckoning us to unravel their mysteries and unveil their hidden treasures. These modern marvels of software deployment have revolutionized the way applications are managed across Linux distributions, offering a lifeline to those navigating the turbulent seas of code chaos.

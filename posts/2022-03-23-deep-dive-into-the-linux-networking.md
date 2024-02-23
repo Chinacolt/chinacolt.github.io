@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Networking"
 date: 2022-03-23
-permalink: /deep-dive-into-the-linux-networking
+permalink: /2022-03-23-deep-dive-into-the-linux-networking
 ---
 Hey there, fellow tech enthusiasts, developers, and IT aficionados! Are you ready to embark on a thrilling journey into the intricate world of Linux networking? Buckle up, because we're about to dive deep into the virtual seas of connectivity, configuration, security, and performance optimization within the Linux ecosystem.
 Picture this: Linux networking is like a bustling metropolis, with data packets zipping around like busy commuters on a Monday morning. Understanding how these packets navigate the digital highways is akin to holding the keys to the city – it empowers you to orchestrate seamless communication, fortify network defenses, and turbocharge performance like a seasoned traffic controller.

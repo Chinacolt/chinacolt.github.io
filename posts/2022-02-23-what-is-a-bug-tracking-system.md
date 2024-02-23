@@ -1,7 +1,7 @@
 ---
 title: "What is a bug tracking system?"
 date: 2022-02-23
-permalink: /what-is-a-bug-tracking-system
+permalink: /2022-02-23-what-is-a-bug-tracking-system
 ---
 Imagine embarking on a thrilling adventure through the intricate world of software development, where every line of code holds the potential for greatness or... a bug! Yes, those pesky little creatures that lurk in the shadows of your meticulously crafted programs, ready to wreak havoc on your project timelines and team morale. But fear not, for in this digital realm, there exists a mighty tool known as the Bug Tracking System, your trusty shield against the forces of chaos and confusion.
 In our quest to unravel the mysteries of bug tracking systems, we shall journey through the enchanted forests of issue tracking, scale the towering mountains of task assignment, navigate the treacherous waters of status updates, and uncover the hidden treasures of reporting capabilities. But fret not, brave reader, for I shall be your guide through this perilous terrain, shedding light on the importance, features, types, benefits, best practices, and integration wonders of bug tracking systems.

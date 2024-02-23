@@ -1,7 +1,7 @@
 ---
 title: "TypeScript: What kind of programming language is it?"
 date: 2021-03-17
-permalink: /typescript-what-kind-of-programming-language-is-it
+permalink: /2021-03-17-typescript-what-kind-of-programming-language-is-it
 ---
 Have you ever felt like you're on a rollercoaster ride in the world of programming languages? One moment you're cruising through the familiar lanes of JavaScript, and the next, you're catapulted into the realm of TypeScript, a language that's been making waves in the tech sphere. Strap in, because we're about to embark on a thrilling journey through the fascinating landscape of TypeScript!
 Picture TypeScript as the cool, sophisticated cousin of JavaScript – they share a family resemblance, but TypeScript comes with a sleek suit of static typing and a polished demeanor that sets it apart. It's like upgrading from a trusty old bicycle to a turbocharged sports car; suddenly, you have a whole new set of tools at your disposal, making your coding adventures faster, smoother, and more exhilarating.

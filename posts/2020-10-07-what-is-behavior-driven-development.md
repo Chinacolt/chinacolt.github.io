@@ -1,7 +1,7 @@
 ---
 title: "What is Behavior Driven Development?"
 date: 2020-10-07
-permalink: /what-is-behavior-driven-development
+permalink: /2020-10-07-what-is-behavior-driven-development
 ---
 Have you ever felt like software development is a complex puzzle where pieces don't always fit together smoothly? Well, fear not, because today we're diving into the fascinating world of Behavior Driven Development (BDD) – a game-changer in the realm of modern software engineering.
 Picture this: you're embarking on a journey where collaboration, communication, and clarity reign supreme. That's the essence of BDD – a methodology that not only streamlines the development process but also fosters a harmonious symphony among team members, both technical wizards and non-technical visionaries alike.

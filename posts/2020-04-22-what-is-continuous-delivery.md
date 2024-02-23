@@ -1,7 +1,7 @@
 ---
 title: "What is Continuous Delivery?"
 date: 2020-04-22
-permalink: /what-is-continuous-delivery
+permalink: /2020-04-22-what-is-continuous-delivery
 ---
 Continuous Delivery: Revolutionizing the Software Development Landscape
 Hey there, tech enthusiasts, developers, and IT aficionados! Buckle up as we embark on a thrilling journey into the realm of Continuous Delivery, a game-changer in the fast-paced world of software development. Imagine a world where software deployment is as smooth as spreading butter on warm toast – that's the magic of Continuous Delivery!

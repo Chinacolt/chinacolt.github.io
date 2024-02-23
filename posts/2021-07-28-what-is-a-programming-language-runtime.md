@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language runtime?"
 date: 2021-07-28
-permalink: /what-is-a-programming-language-runtime
+permalink: /2021-07-28-what-is-a-programming-language-runtime
 ---
 Have you ever marveled at the seamless operation of your favorite software applications, wondering about the magic behind their flawless performance? Well, dear tech enthusiasts and IT aficionados, let's embark on a journey into the captivating realm of programming language runtimes – the unsung heroes orchestrating the symphony of code execution and memory management in the digital universe.
 Picture this: programming language runtimes are like the conductors of a grand orchestra, ensuring that each instrument (code) plays its part harmoniously to deliver a mesmerizing performance (application). They are the maestros behind the scenes, orchestrating the intricate dance of instructions and data to bring your software dreams to life.

@@ -1,7 +1,7 @@
 ---
 title: "What is Continuous Security?"
 date: 2020-05-13
-permalink: /what-is-continuous-security
+permalink: /2020-05-13-what-is-continuous-security
 ---
 Continuous Security: Safeguarding Your Digital Fortresses
 Hey there, tech enthusiasts, developers, and IT aficionados! Imagine your organization's digital infrastructure as a medieval castle, with valuable treasures (data) guarded within its walls. Now, just like a vigilant knight protecting the castle from marauding invaders, continuous security stands as the modern-day shield that fortifies your digital fortresses against ever-evolving cyber threats.

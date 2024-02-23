@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: D-Bus"
 date: 2022-08-10
-permalink: /deep-dive-into-the-linux-d-bus
+permalink: /2022-08-10-deep-dive-into-the-linux-d-bus
 ---
 Imagine a bustling city where communication is the lifeblood that keeps everything running smoothly. In the vast landscape of the Linux ecosystem, D-Bus stands as the central hub, orchestrating a symphony of interactions between processes with finesse and efficiency. Welcome to the deep dive into the world of D-Bus, where inter-process communication transcends mere data exchange to become a seamless dance of collaboration and connectivity.
 Picture D-Bus as the maestro conducting a complex orchestra of processes, ensuring that each component plays its part harmoniously to deliver a flawless performance. Just like a skilled conductor coordinates musicians to create a masterpiece, D-Bus orchestrates communication between applications, services, and system components, elevating the Linux experience to new heights.

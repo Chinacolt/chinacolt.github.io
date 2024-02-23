@@ -1,7 +1,7 @@
 ---
 title: "MongoDB: The NoSQL Database"
 date: 2023-07-12
-permalink: /mongodb-the-nosql-database
+permalink: /2023-07-12-mongodb-the-nosql-database
 ---
 Are you tired of feeling constrained by the rigid structures of traditional databases? Do you crave a data management solution that offers the flexibility to adapt and the scalability to grow with your needs? Well, look no further because MongoDB, the rockstar of NoSQL databases, is here to revolutionize the way you handle data!
 Picture MongoDB as a versatile superhero in the realm of databases, swooping in to save the day with its dynamic powers of flexibility, scalability, and performance. In a world where data reigns supreme, MongoDB emerges as a beacon of hope for tech enthusiasts, developers, and IT professionals seeking a modern, robust solution to their data management woes.

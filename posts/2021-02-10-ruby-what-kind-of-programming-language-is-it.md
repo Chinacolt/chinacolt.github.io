@@ -1,7 +1,7 @@
 ---
 title: "Ruby: What kind of programming language is it?"
 date: 2021-02-10
-permalink: /ruby-what-kind-of-programming-language-is-it
+permalink: /2021-02-10-ruby-what-kind-of-programming-language-is-it
 ---
 Ah, Ruby – the gem of programming languages that sparkles with elegance and charm in the vast landscape of tech tools. Imagine a digital artisan crafting a masterpiece with a palette of vibrant colors and a brush of finesse – that's the essence of Ruby.
 In the early 1990s, Yukihiro Matsumoto embarked on a quest to create a language that would not only empower developers but also bring joy and productivity to their coding endeavors. Like a wizard weaving spells of creativity, Matz conjured up Ruby, a dynamic and object-oriented language that captured the hearts of developers worldwide.

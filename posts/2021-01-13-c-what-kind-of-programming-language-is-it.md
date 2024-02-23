@@ -1,7 +1,7 @@
 ---
 title: "C: What kind of programming language is it?"
 date: 2021-01-13
-permalink: /c-what-kind-of-programming-language-is-it
+permalink: /2021-01-13-c-what-kind-of-programming-language-is-it
 ---
 Ah, the enigmatic world of programming languages – a realm where lines of code dance to the tune of innovation and logic. Today, we embark on a journey to unravel the mysteries of one of the stalwarts in this digital symphony – the venerable C programming language.
 Picture this: you're in a bustling tech metropolis, surrounded by a cacophony of languages vying for attention. Amidst the babel of Python's simplicity, Java's ubiquity, and JavaScript's dynamism, stands C – the quiet yet formidable elder statesman of the programming pantheon.

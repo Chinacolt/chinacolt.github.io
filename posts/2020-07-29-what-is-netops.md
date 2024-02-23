@@ -1,7 +1,7 @@
 ---
 title: "What is NetOps?"
 date: 2020-07-29
-permalink: /what-is-netops
+permalink: /2020-07-29-what-is-netops
 ---
 Picture this: a symphony of data flowing seamlessly through the digital realm, orchestrated by the invisible maestros of the networking world. Welcome to the realm of NetOps, where innovation meets infrastructure, and agility dances hand in hand with automation.
 In this digital age, where every click, swipe, and tap relies on a robust network backbone, NetOps emerges as the unsung hero behind the scenes, ensuring that the show goes on without a hitch. But what exactly is NetOps, and why should tech enthusiasts, developers, and IT professionals pay heed to its melody?

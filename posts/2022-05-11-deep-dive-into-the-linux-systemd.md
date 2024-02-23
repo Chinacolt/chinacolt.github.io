@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Systemd"
 date: 2022-05-11
-permalink: /deep-dive-into-the-linux-systemd
+permalink: /2022-05-11-deep-dive-into-the-linux-systemd
 ---
 Picture this: you're the conductor of a grand symphony, orchestrating a harmonious blend of melodies that resonate through the vast expanse of a digital universe. What's your baton, you ask? Enter Systemd, the maestro of modern Linux distributions, waving its wand of efficiency and innovation to revolutionize the way processes dance to the tune of system management.
 In the realm of Linux, Systemd isn't just another player in the orchestra; it's the virtuoso that commands attention with its robust system and service management capabilities. Think of it as the backstage crew that ensures every performance runs seamlessly, from setting the stage for system initialization to fine-tuning the melodies of service management.

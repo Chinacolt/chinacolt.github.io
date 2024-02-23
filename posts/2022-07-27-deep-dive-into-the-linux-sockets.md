@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: Sockets"
 date: 2022-07-27
-permalink: /deep-dive-into-the-linux-sockets
+permalink: /2022-07-27-deep-dive-into-the-linux-sockets
 ---
 Imagine Linux sockets as the unsung heroes of the digital world, quietly orchestrating the symphony of data exchange between processes over vast networks. These unassuming endpoints play a pivotal role in ensuring that your favorite apps chat seamlessly with servers, websites load at lightning speed, and emails reach their destinations without getting lost in cyberspace.
 Now, you might be wondering, why should you care about these seemingly mundane sockets? Well, buckle up, because understanding Linux sockets is like wielding a magic wand in the realm of technology. Whether you're a tech enthusiast, a seasoned developer, or an IT pro navigating the digital landscape, mastering socket programming opens doors to a world of possibilities.

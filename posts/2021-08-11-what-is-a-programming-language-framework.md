@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language framework?"
 date: 2021-08-11
-permalink: /what-is-a-programming-language-framework
+permalink: /2021-08-11-what-is-a-programming-language-framework
 ---
 Have you ever embarked on a coding journey only to find yourself lost in a sea of syntax and logic? Fear not, for in the realm of software development, there exists a beacon of hope known as programming language frameworks. Picture frameworks as the sturdy scaffolding that supports a grand architectural masterpiece – they provide structure, guidance, and a roadmap for developers to navigate the intricate landscape of coding.
 Imagine you're a chef preparing a gourmet meal. Instead of starting from scratch and hunting down each ingredient, you have a well-stocked pantry with all the essentials neatly organized and ready for use. That's precisely what frameworks offer to developers – a pantry of pre-built tools, libraries, and conventions that streamline the development process and spice up the coding experience.

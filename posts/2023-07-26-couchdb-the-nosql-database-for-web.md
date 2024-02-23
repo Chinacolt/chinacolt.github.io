@@ -1,7 +1,7 @@
 ---
 title: "CouchDB: The NoSQL Database for Web"
 date: 2023-07-26
-permalink: /couchdb-the-nosql-database-for-web
+permalink: /2023-07-26-couchdb-the-nosql-database-for-web
 ---
 Ah, the world of databases – where structured meets unstructured, and where the evolution of data management systems has taken us on a wild ride through the realms of relational and non-relational paradigms. Picture this: if traditional databases were like meticulously organized filing cabinets, then NoSQL databases are the cool, laid-back artists who prefer to express themselves freely without conforming to rigid structures.
 In the ever-evolving landscape of web development, the rise of NoSQL databases has been nothing short of revolutionary. These dynamic data storage solutions have paved the way for handling unstructured data with finesse, offering developers the flexibility to model their data in ways that traditional databases could only dream of. It's like going from a strict, uptight boss who micromanages every detail to a supportive mentor who encourages creativity and innovation.

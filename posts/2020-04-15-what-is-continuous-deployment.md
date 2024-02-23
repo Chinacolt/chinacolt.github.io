@@ -1,7 +1,7 @@
 ---
 title: "What is Continuous Deployment?"
 date: 2020-04-15
-permalink: /what-is-continuous-deployment
+permalink: /2020-04-15-what-is-continuous-deployment
 ---
 Continuous Deployment: Revolutionizing the Software Development Landscape
 Hey there, tech enthusiasts, developers, and IT professionals! Today, we're diving into the dynamic world of Continuous Deployment—a game-changer in the realm of software development that's shaking things up faster than a squirrel on a caffeine high.

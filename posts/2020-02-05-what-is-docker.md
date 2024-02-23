@@ -1,7 +1,7 @@
 ---
 title: "What is Docker?"
 date: 2020-02-05
-permalink: /what-is-docker
+permalink: /2020-02-05-what-is-docker
 ---
 Picture this: a world where software development is as smooth as spreading butter on warm toast, where applications are built, tested, and deployed with the precision of a master chef crafting a gourmet dish. Welcome to the realm of Docker, the superhero of containerization in the tech universe!
 In our tech-savvy era, where speed and efficiency reign supreme, Docker emerges as a beacon of innovation, revolutionizing the way we approach software development and IT operations. Think of Docker as a magical toolbox that encapsulates your applications into neat, portable containers, each with its own set of tools and resources, ready to be deployed anywhere with a snap of your fingers.

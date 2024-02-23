@@ -1,7 +1,7 @@
 ---
 title: "Deep dive into the Linux: System Administration"
 date: 2022-09-28
-permalink: /deep-dive-into-the-linux-system-administration
+permalink: /2022-09-28-deep-dive-into-the-linux-system-administration
 ---
 Ah, Linux System Administration – the backstage maestros of the tech world, the unsung heroes who keep the digital symphony playing smoothly. Welcome to the realm where command lines reign supreme, and the penguin mascot proudly stands as a symbol of open-source power.
 Picture this: Linux system administrators are like the conductors of a grand orchestra, orchestrating a harmonious blend of processes, users, files, and networks to create a seamless performance. Their expertise is not just about knowing the notes; it's about mastering the entire symphony of system management.

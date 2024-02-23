@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language packager?"
 date: 2021-11-24
-permalink: /what-is-a-programming-language-packager
+permalink: /2021-11-24-what-is-a-programming-language-packager
 ---
 Have you ever tried to bake a cake without the right ingredients or recipe? It can turn into a messy disaster, much like software development without the proper tools. Enter the unsung heroes of the tech world – programming language packagers. These wizards of code packaging are here to save the day and make your software deployment woes disappear faster than a magician's rabbit.
 Picture this: you're a developer working on a project, juggling multiple dependencies, libraries, and frameworks like a circus performer with too many balls in the air. That's where programming language packagers step in, offering a helping hand to streamline the chaos and bring order to the coding circus.

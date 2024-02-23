@@ -1,7 +1,7 @@
 ---
 title: "What is a centralized version control system?"
 date: 2021-12-29
-permalink: /what-is-a-centralized-version-control-system
+permalink: /2021-12-29-what-is-a-centralized-version-control-system
 ---
 Version control systems are like the unsung heroes of the coding world, quietly keeping track of every twist and turn in the intricate dance of software development. Imagine a virtual time machine that not only saves your progress but also allows you to rewind, fast forward, and even collaborate with fellow time travelers – that's the magic of version control.
 In our tech-savvy universe, where lines of code reign supreme, understanding the essence of version control is akin to deciphering the secret language of developers. It's not just about tracking changes; it's about creating a harmonious symphony of code evolution, where every note matters. From the ancient scrolls of manual version control to the futuristic realms of automated solutions, the journey has been nothing short of a rollercoaster ride through the binary cosmos.

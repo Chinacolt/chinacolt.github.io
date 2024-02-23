@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language interpreter?"
 date: 2021-07-21
-permalink: /what-is-a-programming-language-interpreter
+permalink: /2021-07-21-what-is-a-programming-language-interpreter
 ---
 Have you ever marveled at the magic of turning lines of code into functional software that powers our digital world? Well, my fellow tech enthusiasts, developers, and IT professionals, welcome to the enchanting realm of programming language interpreters – the unsung heroes behind the scenes of software sorcery.
 Picture this: programming languages are like the diverse dialects spoken by humans, each with its own syntax, grammar, and nuances. They serve as the bridge between our human logic and the binary language of computers, enabling us to communicate our commands effectively. From the elegance of high-level languages like Python to the raw power of low-level languages such as Assembly, the programming language landscape is a vibrant tapestry of creativity and innovation.

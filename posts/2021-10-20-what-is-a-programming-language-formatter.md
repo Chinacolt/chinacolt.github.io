@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language formatter?"
 date: 2021-10-20
-permalink: /what-is-a-programming-language-formatter
+permalink: /2021-10-20-what-is-a-programming-language-formatter
 ---
 Have you ever tried to decipher a friend's messy handwriting on a birthday card, only to end up completely misinterpreting their heartfelt message? Well, imagine that scenario, but instead of a sweet note, you're dealing with lines of complex code that hold the key to your project's success. That's where the magic of programming language formatters comes into play!
 Picture this: you're a developer working on a cutting-edge project with a team of tech enthusiasts. You're all pumped up, ready to conquer the coding world, but there's one tiny hiccup – inconsistent code formatting. It's like trying to follow a recipe written in a mix of languages you don't understand; chaos ensues, errors pop up, and debugging becomes a nightmare.

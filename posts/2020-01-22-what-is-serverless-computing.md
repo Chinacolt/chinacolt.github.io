@@ -1,7 +1,7 @@
 ---
 title: "What is serverless computing?"
 date: 2020-01-22
-permalink: /what-is-serverless-computing
+permalink: /2020-01-22-what-is-serverless-computing
 ---
 Picture a world where you can focus on crafting brilliant code without the hassle of managing servers or infrastructure. Welcome to the realm of serverless computing, a game-changer in the tech sphere that's revolutionizing how applications are developed, deployed, and scaled.
 In this blog post, we're diving deep into the fascinating universe of serverless architectures, where innovation meets efficiency in a seamless dance of digital prowess. So, buckle up, tech enthusiasts, developers, and IT aficionados, as we embark on a journey to unravel the mysteries and marvels of serverless computing.

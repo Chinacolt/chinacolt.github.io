@@ -1,7 +1,7 @@
 ---
 title: "What is a programming language transpiler?"
 date: 2021-10-06
-permalink: /what-is-a-programming-language-transpiler
+permalink: /2021-10-06-what-is-a-programming-language-transpiler
 ---
 Have you ever felt like a multilingual maestro in the world of programming? Well, if you haven't yet, let's dive into the fascinating realm of programming language transpilers, where code conversion is akin to a linguistic dance across different programming languages!
 Picture this: you're a polyglot traveler navigating through the diverse landscapes of software development. Just as interpreters help you communicate in real-time and compilers translate your thoughts into executable actions, transpilers act as your trusty language chameleons, seamlessly converting your code from one programming language to another while preserving its essence and structure.

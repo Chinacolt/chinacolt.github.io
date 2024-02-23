@@ -1,7 +1,7 @@
 ---
 title: "Which bug tracking system to choose?"
 date: 2022-03-02
-permalink: /which-bug-tracking-system-to-choose
+permalink: /2022-03-02-which-bug-tracking-system-to-choose
 ---
 Imagine embarking on a software development journey without a map to guide you through the treacherous terrain of bugs and glitches. It's like setting sail on a ship without a compass, destined to wander aimlessly in a sea of code chaos. This is where the unsung hero of software development comes into play – the bug tracking system.
 Bug tracking systems are the unsung heroes of the software development world, silently working behind the scenes to ensure that your code sails smoothly towards its destination – a flawless, functional product. They are the vigilant guardians that identify, prioritize, and vanquish bugs lurking in the shadows of your codebase, ensuring that your software sets sail on a course towards success.
